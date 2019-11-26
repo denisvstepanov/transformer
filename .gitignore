@@ -12,4 +12,3 @@ train_logs/*
 .mypy_cache
 node_modules
 .data
-requirements.txt
