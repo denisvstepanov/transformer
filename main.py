@@ -472,6 +472,7 @@ class Transformer(nn.Module):
 
     def forward(self, src, tgt):
         tgt_mask = generate_square_subsequent_mask(tgt.shape[0]).to(tgt.device)
+        print(f'src: {src.size()} tgt: {tgt.size()} tgt_mask: {tgt_mask.size()}')
         out = self.model(src, tgt, None, tgt_mask)
         return out
 
@@ -617,7 +618,7 @@ def train_model(epochs=1, batch_size=12):
             optimizer.zero_grad()
             batch = device_batch(batch, device)
             src, tgt = parse_batch(batch, bos_id, eos_id)
-            scores = model(src.seqs.transpose(0,1), tgt.seqs.transpose(0,1))
+            scores = model(src.seqs.transpose(0, 1), tgt.seqs.transpose(0, 1))
             seqs = model.model.generator(scores)
             loss = batch_cross_entropy(Batch(seqs, tgt.lens), tgt, eps=0.1)
             loss.backward()
