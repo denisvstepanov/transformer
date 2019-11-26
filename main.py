@@ -604,7 +604,7 @@ class GenerationState:
 
     @torch.no_grad()
     def next(self, token: int):
-        tgt = torch.tensor([[token]], device=self.module.transformer.device)  # type: ignore
+        tgt = torch.tensor([[token]], device=self.module.device)
         if self.tgt is not None:
             self.tgt = torch.cat([self.tgt, tgt], dim=1)
         else:
@@ -613,6 +613,42 @@ class GenerationState:
         logits = self.module.model.decode(tgt, self.memory, None, tgt_mask)
         scores = self.module.model.generator(logits)
         return GenerationState(self.module, self.src, self.memory, self.tgt), scores
+
+
+def presample_prefix(start: Tuple[GenerationState, torch.Tensor], prefix: Optional[List[int]]) -> Tuple[GenerationState, torch.Tensor]:
+    state, scores = start
+    if prefix:
+        for token in prefix:
+            state, scores = state.next(token)
+    return state, scores
+
+
+def complete_greedily(start: Tuple[GenerationState, torch.Tensor], max_len: int,
+                      prefix: Optional[List[int]] = None, take_max: bool = False,
+                      end_code: int = 0) -> Tuple[List[int], GenerationState]:
+    state, scores = presample_prefix(start, prefix)
+
+    result: List[int] = []
+    while len(result) < max_len:
+        if take_max:
+            token = int(torch.argmax(scores).item())
+        else:
+            probs = F.softmax(scores, dim=-1)
+            token = int(dist.Categorical(probs=probs).sample().item())
+        if token == end_code:
+            break
+        result.append(token)
+        state, scores = state.next(token)
+    return result, state
+
+
+def translate_text(model, text_processor, prompt: str, text_len: int = 128) -> str:
+    prefix = text_processor.encode_as_ids(prompt)
+    prefix_tensor = torch.tensor(prefix, device=model.device).unsqueeze(0)
+    start = model.start_generation(prefix_tensor)
+    generated = complete_greedily(start=start, max_len=text_len, prefix=prefix, end_code=text_processor.eos_id)[0]
+    text = text_processor.decode_ids(generated)
+    return text
 
 
 def train_model(epochs=50, batch_size=50):
@@ -651,6 +687,9 @@ def train_model(epochs=50, batch_size=50):
             epoch_loss += loss.item()
         epoch_loss /= total_batches
         print(f'loss: {epoch_loss}')
+        prompt = 'Hello world'
+        translation = translate_text(model, text_processor, prompt)
+        print(f'prompt: {prompt} translation: {translation}')
         save_model(Path('model'), epoch, model)
 
 
