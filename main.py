@@ -23,7 +23,6 @@ from pathlib import Path
 from transformers import BertTokenizer
 
 
-
 def read_data(file):
     data = []
     with open(file, 'r') as f:
@@ -589,6 +588,31 @@ def save_model(log_dir: Path, epoch: int, model: nn.Module) -> None:
             'module': model.state_dict()
         }, f)
     print('Done')
+
+
+class GenerationState:
+
+    def __init__(self, module: Transformer, src: Tensor, memory: Optional[Tensor] = None,
+                 tgt: Optional[Tensor] = None) -> None:
+        self.module = module
+        self.src = src
+        if memory is None:
+            self.memory = self.module.model.encode(src, None)
+        else:
+            self.memory = memory
+        self.tgt = tgt
+
+    @torch.no_grad()
+    def next(self, token: int):
+        tgt = torch.tensor([[token]], device=self.module.transformer.device)  # type: ignore
+        if self.tgt is not None:
+            self.tgt = torch.cat([self.tgt, tgt], dim=1)
+        else:
+            self.tgt = tgt
+        tgt_mask = generate_square_subsequent_mask(self.tgt.shape[1]).to(self.tgt.device)
+        logits = self.module.model.decode(tgt, self.memory, None, tgt_mask)
+        scores = self.module.model.generator(logits)
+        return GenerationState(self.module, self.src, self.memory, self.tgt), scores
 
 
 def train_model(epochs=10, batch_size=50):
