@@ -418,8 +418,8 @@ class TransformerConfig:
     def __init__(self,
                  d_model=20,
                  nhead=5,
-                 num_encoder_layers=1,
-                 num_decoder_layers=1,
+                 num_encoder_layers=5,
+                 num_decoder_layers=5,
                  dim_feedforward=80,
                  dropout=0.1):
         self.d_model = d_model
@@ -615,7 +615,7 @@ class GenerationState:
         return GenerationState(self.module, self.src, self.memory, self.tgt), scores
 
 
-def train_model(epochs=10, batch_size=50):
+def train_model(epochs=50, batch_size=50):
     device = choose_device()
     fix_seed(42)
 
