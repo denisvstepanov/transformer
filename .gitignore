@@ -1,0 +1,15 @@
+data/*
+models/*
+vocab/*
+**/__pycache__/*
+.idea/workspace.xml
+*.pyc
+train_logs/*
+.venv/*
+.pytest_cache
+.idea
+.vscode
+.mypy_cache
+node_modules
+.data
+requirements.txt
