@@ -1,0 +1,5000 @@
+Go now.	Иди сейчас.
+Go now.	Поезжай сейчас.
+Go now.	Теперь иди.
+Go now.	Теперь идите.
+Go now.	Иди уже.
+Go now.	Идите уже.
+Got it?	Понял?
+Got it?	Усёк?
+Got it?	Усекла?
+Got it?	Ферштейн?
+Come on!	Давай!
+Come on.	Пошли!
+Come on.	Пойдём!
+Come on.	Давай!
+Come on.	Давайте!
+Fold it.	Согни его.
+Fold it.	Согни её.
+Fold it.	Согните его.
+Fold it.	Согните её.
+Fold it.	Сложи его.
+Keep it.	Оставь себе.
+Kiss me.	Поцелуйте меня.
+Lock it.	Запри его.
+Lock it.	Заприте его.
+Lock it.	Запри её.
+Lock it.	Заприте её.
+Look up.	Посмотрите наверх.
+Look up.	Посмотри наверх.
+Me, too.	Я тоже.
+Me, too.	Мне тоже.
+Cuff him.	Надень на него наручники.
+Cuff him.	В наручники его.
+Don't go.	Не ходи.
+Don't go.	Не ходите.
+Don't go.	Не езди.
+Don't go.	Не ездите.
+Drive on.	Поехали.
+Drive on.	Едем дальше.
+Find Tom.	Найди Тома.
+Find Tom.	Найдите Тома.
+I smiled.	Я улыбнулся.
+I smiled.	Я улыбнулась.
+I stayed.	Я остался.
+I stayed.	Я осталась.
+I talked.	Я разговаривал.
+I talked.	Я разговаривала.
+I use it.	Я использую это.
+I use it.	Я пользуюсь этим.
+I use it.	Я им пользуюсь.
+I use it.	Я ей пользуюсь.
+I'm warm.	Мне тепло.
+I'm weak.	Я слаб.
+I'm weak.	Я слаба.
+I'm weak.	Я слабый.
+I'm weak.	Я слабая.
+I'm well.	Со мной всё хорошо.
+I'm wise.	Я умный.
+I've won.	Я выиграл.
+I've won.	Я победил.
+It helps.	Это помогает.
+Tom came.	Том пришёл.
+Tom came.	Пришёл Том.
+Tom died.	Том умер.
+Tom fell.	Том упал.
+Tom knew.	Том знал.
+Tom left.	Том ушёл.
+Tom lied.	Том солгал.
+Tom lies.	Том лжет.
+Tom lies.	Том врёт.
+Tom lost.	Том проиграл.
+Did I win?	Я выиграл?
+Did I win?	Я победил?
+Dogs bark.	Собаки лают.
+Dogs bark.	Псы лают.
+Don't ask.	Не спрашивай.
+Don't cry.	Не плачь.
+Don't cry.	Не плачьте.
+Don't cry.	Не реви.
+Don't cry.	Не плачь!
+Don't die.	Не умирай.
+I am lazy.	Я ленивая.
+I am okay.	Со мной всё в порядке.
+I am okay.	У меня всё хорошо.
+I am okay.	Я в порядке.
+I am okay.	У меня всё в порядке.
+I am sick.	Я болен.
+I am sick.	Мне дурно.
+I am sick.	Я болею.
+I am sick.	Я больна.
+I am sure.	Я уверена.
+I prepaid.	Я заплатил вперёд.
+I prepaid.	Я заплатила вперёд.
+I prepaid.	Я внёс предоплату.
+I prepaid.	Я внесла предоплату.
+I promise.	Обещаю.
+I promise.	Я обещаю.
+I relaxed.	Я расслабился.
+I relaxed.	Я расслабилась.
+I retired.	Я вышел на пенсию.
+I retired.	Я вышла на пенсию.
+I'm brave.	Я храбрый.
+I'm brave.	Я храбрая.
+I'm brave.	Я смелый.
+I'm brave.	Я смелая.
+I'm brave.	Я отважный.
+I'm brave.	Я отважная.
+I'm broke.	Я на нуле.
+I'm broke.	Я на мели.
+I'm clean.	Я чистый.
+I'm clean.	Я чистая.
+Ignore it.	Не обращай на это внимания.
+Is Tom OK?	Том в порядке?
+Is Tom in?	Том там?
+Is Tom in?	Том внутри?
+Is he Tom?	Это Том?
+Is he Tom?	Он Том?
+Is it bad?	Это плохо?
+Is it big?	Он большой?
+Is it big?	Она большая?
+Is it big?	Оно большое?
+Let me go!	Пустите меня!
+Let me go!	Пусти меня!
+Let me go!	Дайте мне уйти!
+Let me go!	Дай мне уйти!
+Let me go!	Позвольте мне пойти!
+Let me go!	Позволь мне пойти!
+Let me go!	Позвольте мне уйти!
+Let me go!	Позволь мне уйти!
+Let me go.	Позвольте мне уйти!
+Let me go.	Позволь мне уйти!
+Slow down!	Не гоните так!
+Slow down!	Помедленнее!
+Slow down.	Притормози.
+Slow down.	Притормозите.
+Start now.	Начинай сейчас.
+Start now.	Начинайте сейчас.
+Start now.	Начни сейчас.
+Start now.	Начните сейчас.
+Stay away.	Держись подальше.
+Stay back.	Не подходи.
+Tom's fat.	Том толстый.
+Tom's sad.	Том грустный.
+Tom's shy.	Том застенчив.
+Trust Tom.	Верь Тому.
+Trust Tom.	Доверяй Тому.
+Trust Tom.	Доверяйте Тому.
+Try again.	Попробуй ещё раз.
+Try again.	Попробуйте ещё раз.
+Try it on.	Примерь его.
+Try it on.	Примерьте его.
+Am I wrong?	Я ошибаюсь?
+Am I wrong?	Я неправ?
+Answer Tom.	Ответь Тому.
+Answer Tom.	Ответьте Тому.
+Answer Tom.	Отвечай Тому.
+Answer Tom.	Отвечайте Тому.
+Are you 18?	Тебе 18?
+Are you 18?	Вам 18?
+Are you 18?	Вам восемнадцать?
+Are you 18?	Тебе восемнадцать?
+Definitely!	Конечно!
+Definitely!	Определённо!
+Destroy it.	Разрушь его.
+Destroy it.	Уничтожь его.
+Destroy it.	Уничтожьте его.
+Did Tom go?	Том ходил?
+Did Tom go?	Том ездил?
+Did we win?	Мы выиграли?
+Did we win?	Мы победили?
+Dig faster.	Копай быстрее.
+He is late.	Он опаздывает.
+He is lazy.	Он ленивый.
+He is nice.	Он хороший.
+He is nice.	Он славный.
+He is poor.	Он беден.
+He is sick.	Он болен.
+He is sick.	Он болеет.
+He made it.	Ему это удалось.
+He made it.	У него получилось.
+He's Swiss.	Он швейцарец.
+I feel sad.	Мне грустно.
+I felt bad.	Я сожалел.
+I felt ill.	Я чувствовал себя больным.
+I felt ill.	Я почувствовал себя больным.
+I felt sad.	Мне было грустно.
+I fixed it.	Я его исправил.
+I fixed it.	Я её исправил.
+I fixed it.	Я её починил.
+I fixed it.	Я его починил.
+I flinched.	Я вздрогнул.
+I see that.	Я вижу это.
+I see them.	Я их вижу.
+I shivered.	Я дрожал.
+I shivered.	Я дрожала.
+I shivered.	Я вздрогнул.
+I shivered.	Я вздрогнула.
+I shot Tom.	Я застрелил Тома.
+I shot Tom.	Я стрелял в Тома.
+I shrugged.	Я пожал плечами.
+I squinted.	Я прищурился.
+I'm bright.	Я умна.
+I'm bushed.	Я страшно устал.
+I'm bushed.	Я страшно устала.
+I'm buying.	Я покупаю.
+I'm chubby.	Я пухлый.
+I'm chubby.	Я пухлая.
+I'm clumsy.	Я неуклюжий.
+I'm clumsy.	Я неуклюжая.
+I'm coming.	Иду.
+I'm coming.	Я иду.
+Is Tom ill?	Том болеет?
+Is he dead?	Он умер?
+Is he dead?	Он мёртв?
+Is he tall?	Он высокий?
+Is it blue?	Он синий?
+Is it blue?	Она синяя?
+Is it blue?	Оно синее?
+Is it done?	Это сделано?
+Is it free?	Это бесплатно?
+Is it hard?	Это трудно?
+Leave town.	Уезжай из города.
+Leave town.	Уезжайте из города.
+Let Tom go.	Пусть Том уходит.
+Let Tom go.	Отпусти Тома.
+Let Tom go.	Отпустите Тома.
+Let Tom in.	Впусти Тома.
+Let Tom in.	Впустите Тома.
+Let Tom in.	Дай Тому войти.
+Let Tom in.	Дайте Тому войти.
+Let him go!	Отпустите его!
+Quiet down.	Утихомирься.
+Quiet down.	Угомонись.
+Replace it.	Замени его.
+Replace it.	Замените его.
+Replace it.	Замени её.
+Replace it.	Замените её.
+Say cheese.	Скажи "сыр".
+Say please.	Скажи "пожалуйста".
+Shadow him.	Проследи за ним.
+She is old.	Она стара.
+They agree.	Они согласны.
+They cheat.	Они обманывают.
+They slept.	Они спали.
+They tried.	Они пытались.
+They tried.	Они попытались.
+They voted.	Они проголосовали.
+This is it.	Вот и всё.
+This is me.	Это я.
+This is me.	Вот я.
+This works.	Это работает.
+Tom's gone.	Том ушёл.
+Tom's here.	Том здесь.
+Tom's home.	Том дома.
+Tom's left.	Том ушёл.
+Tom's left.	Том уехал.
+Tom's safe.	Том в безопасности.
+Tom's shot.	Том застрелен.
+Tom's sick.	Том болен.
+Tom's sick.	Том болеет.
+Tom's ugly.	Том некрасив.
+Who did it?	Кто это сделал?
+Who did it?	Кто сделал это?
+Who is Tom?	Кто Том?
+Who is Tom?	Кто такой Том?
+Who is she?	Кто она?
+Who phoned?	Кто звонил?
+Who saw me?	Кто меня видел?
+Who stayed?	Кто остался?
+Who was he?	Кем он был?
+Who was he?	Кто он был такой?
+Be friendly.	Будьте дружелюбным.
+Be generous.	Будь щедрым.
+Be generous.	Будьте щедрыми.
+Be merciful.	Помилосердствуй!
+Be merciful.	Помилосердствуйте!
+Be merciful.	Будь милосерден.
+Be merciful.	Будь милосердна.
+Be merciful.	Будьте милосердны.
+Be prepared.	Будь готова!
+Be prepared.	Будь готов!
+Do it again!	Переделайте!
+Do it again!	Сделай это ещё раз!
+Do it again!	Сделайте это ещё раз!
+Do it again.	Сделай это ещё раз.
+Do it again.	Сделайте это ещё раз.
+Do it again.	Сделай это снова.
+Do it again.	Сделайте это снова.
+Do it later.	Сделай это позже.
+Do it later.	Сделайте это позже.
+Do you care?	Для тебя это важно?
+Go on board.	Поднимайтесь на борт.
+Go sit down.	Иди садись.
+Go sit down.	Идите и сядьте.
+Go sit down.	Иди сядь.
+Go sit down.	Идите сядьте.
+Go sit down.	Идите садитесь.
+Go straight.	Иди прямо.
+Go straight.	Идите прямо.
+Go that way.	Иди туда.
+Go that way.	Идите туда.
+Here we are!	А вот и мы!
+Here we are!	Вот и мы.
+Here we are.	Вот и мы.
+Here we are.	А вот и мы.
+Here, catch!	Вот, лови!
+Hi, I'm Tom.	Привет, я Том.
+Hold my bag.	Подержи мою сумку.
+Hold my bag.	Подержите мою сумку.
+How are you?	Как поживаете?
+How are you?	Как дела?
+I feel fine.	Я чувствую себя хорошо.
+I feel fine.	Я прекрасно себя чувствую.
+I feel lost.	Я чувствую себя потерянным.
+I feel lost.	Я чувствую себя потерянной.
+I feel sick.	Мне нехорошо.
+I feel sick.	Мне дурно.
+I feel sick.	Меня тошнит.
+I feel sick.	Меня мутит.
+I feel warm.	Мне тепло.
+I feel warm.	Я чувствую тепло.
+I liked Tom.	Том мне нравился.
+I liked Tom.	Мне Том понравился.
+I liked Tom.	Том мне понравился.
+I live here.	Я здесь живу.
+I lost face.	Я потерял лицо.
+I love Mary.	Я люблю Мэри.
+I love beer.	Я люблю пиво.
+I love cats.	Я люблю кошек.
+I love dogs.	Я обожаю собак.
+I love fall.	Я люблю осень.
+I want mine.	Я хочу свой.
+I want more.	Я хочу ещё.
+I want soup.	Я хочу супа.
+I want them.	Я их хочу.
+I want them.	Я хочу их.
+I was alone.	Я был один.
+I was alone.	Я была одна.
+I was angry.	Я был сердит.
+I was angry.	Я была сердита.
+I was angry.	Я был зол.
+I'll get it.	Я возьму.
+I'll get up.	Я встану.
+I'll get up.	Я проснусь.
+I'll go now.	Я сейчас пойду.
+I'll go see.	Пойду посмотрю.
+I'll scream.	Я закричу.
+I'll scream.	Я буду кричать.
+I'll try it.	Я попробую это.
+I'll try it.	Я его попробую.
+I'll try it.	Я её попробую.
+I'm not Tom.	Я не Том.
+I'm not fat.	Я не толстая!
+I'm not fat.	Я не толстый.
+I'm not fat.	Я не толстая.
+I'm not mad.	Я не безумен.
+I'm not old.	Я не старый.
+I'm not old.	Я не старая.
+I'm not sad.	Я не грустный.
+I'm not sad.	Мне не грустно.
+I'm not sad.	Я не грустная.
+I'm waiting.	Жду.
+I'm wealthy.	Я богат.
+I'm wealthy.	Я богата.
+I'm winning.	Я выигрываю.
+I'm winning.	Я побеждаю.
+I'm working.	Я работаю.
+I'm worried.	Я беспокоюсь.
+I'm worried.	Я волнуюсь.
+I'm wounded.	Я ранена.
+I'm wounded.	Я ранен.
+It was dark.	Оно было тёмного цвета.
+It was easy.	Это было просто.
+It was easy.	Это было легко.
+It was fair.	Это было честно.
+It was fair.	Это было порядочно.
+It was hard.	Было трудно.
+It was here.	Это было здесь.
+It was late.	Было поздно.
+It was mine.	Он был мой.
+It was mine.	Она была моя.
+Let's hurry.	Давай поторопимся.
+Let's hurry.	Давайте поторопимся.
+Let's hurry.	Давайте поспешим.
+Let's hurry.	Давай поспешим.
+Let's leave.	Давай уйдём.
+Let's leave.	Давайте уйдём.
+Let's party.	Давайте устроим сабантуй.
+Let's relax.	Давай отдохнем.
+Let's start!	Начнём!
+Let's study.	Давайте учиться.
+Pick him up.	Заедь за ним.
+Pick him up.	Заедьте за ним.
+Pick him up.	Зайди за ним.
+Pick him up.	Зайдите за ним.
+Plants grow.	Растения растут.
+Please come.	Приходи, пожалуйста.
+Please come.	Приходите, пожалуйста.
+Please sing.	Спой, пожалуйста.
+Please sing.	Спойте, пожалуйста!
+Please sing.	Спойте, пожалуйста.
+Stop crying.	Прекратите кричать!
+Stop crying.	Перестань лить слёзы!
+Stop crying.	Перестаньте лить слёзы!
+Stop moving!	Не двигайся!
+Stop trying.	Перестань пытаться.
+Take a bath.	Прими ванну.
+Take a bite.	Откуси.
+Take a bite.	Откусите.
+Take a card.	Возьмите карту.
+Take a card.	Возьми карту.
+This is new.	Это новое.
+This is odd.	Это странно.
+Tom arrived.	Том прибыл.
+Tom blinked.	Том моргнул.
+Tom blushed.	Том покраснел.
+Tom can win.	Том может победить.
+Tom can win.	Том может выиграть.
+Tom changed.	Том изменился.
+Tom cheated.	Том обманул.
+Tom cheated.	Том списал.
+Tom may win.	Том может выиграть.
+Tom noticed.	Том заметил.
+Tom paid me.	Том мне заплатил.
+Tom paid me.	Том заплатил мне.
+Tom prepaid.	Том внёс предоплату.
+Tom ran off.	Том сбежал.
+Tom refused.	Том отказался.
+Tom relaxed.	Том расслабился.
+Tom retired.	Том ушел на пенсию.
+Tom said hi.	Том сказал «привет».
+Try to rest.	Постарайся отдохнуть.
+Try to rest.	Постарайтесь отдохнуть.
+Turn around.	Повернись.
+Turn around.	Обернись.
+Turn it off.	Выключи это.
+Turn it off.	Выключи его.
+Turn it off.	Выключите это.
+Turn it off.	Выключите его.
+Turn it off.	Выключи её.
+Turn it off.	Выключите её.
+We need you.	Вы нам нужны.
+We promised.	Мы обещали.
+We promised.	Мы пообещали.
+We remember.	Мы помним.
+We sat down.	Мы сели.
+We stole it.	Мы это украли.
+We stole it.	Мы его украли.
+We stole it.	Мы её украли.
+We survived!	Мы выжили!
+We survived.	Мы выжили.
+Who'll come?	Кто придёт?
+Who'll cook?	Кто будет готовить?
+Who'll cook?	Кто приготовит?
+Who'll sing?	Кто будет петь?
+Who's dying?	Кто умирает?
+Who's first?	Кто первый?
+Who's going?	Кто идёт?
+Who's right?	Кто прав?
+Who's there?	Кто там?
+Who's there?	Кто там есть?
+You're lazy.	Вы ленивый.
+You're lazy.	Вы ленивая.
+You're lost.	Ты заблудился.
+You're lost.	Вы заблудились.
+You're mine.	Ты мой.
+You're mine.	Ты моя.
+You're mine.	Вы мои.
+You're mine.	Вы мой.
+You're mine.	Вы моя.
+You're next.	Ты следующий.
+Are you busy?	Вы заняты?
+Are you cold?	Вам холодно?
+Are you cold?	Тебе холодно?
+Are you cold?	Ты замёрз?
+Are you cold?	Ты замёрзла?
+Are you cold?	Вы замёрзли?
+Are you cold?	Замёрз?
+Are you cold?	Замёрзла?
+Are you cold?	Замёрзли?
+Are you dead?	Ты умер?
+Can I finish?	Могу ли я закончить?
+Can I finish?	Можно ли мне закончить?
+Can I finish?	Могу я завершить?
+Can I finish?	Могу ли я завершить?
+Can I go now?	Я могу теперь идти?
+Can I try it?	Можно попробовать?
+Can I use it?	Могу я использовать это?
+Can I use it?	Могу ли я воспользоваться этим?
+Can Tom cook?	Том умеет готовить?
+Can Tom sing?	Том умеет петь?
+Did Tom call?	Том звонил?
+Did Tom come?	Том пришёл?
+Did Tom fall?	Том упал?
+Did Tom help?	Том помогал?
+Did Tom help?	Том помог?
+Did Tom know?	Том знал?
+Did Tom mind?	Том был против?
+Did Tom pray?	Том молился?
+Did Tom sing?	Том пел?
+Did Tom stay?	Том остался?
+Drop the gun.	Бросайте оружие!
+Examine them.	Изучи их.
+Examine them.	Изучите их.
+Examine this.	Рассмотри это.
+Examine this.	Рассмотрите это.
+Fight or die.	Сражайся или умри.
+Find the cat.	Найдите кошку.
+Find the cat.	Найди кошку.
+Find the cat.	Найди кота.
+Get a doctor.	Сходи за врачом!
+He loves her.	Он любит её.
+He loves her.	Он её любит.
+He loves you.	Он тебя любит.
+He loves you.	Он вас любит.
+He must come.	Он должен прийти.
+He needs you.	Ты ему нужен.
+He needs you.	Ты ему нужна.
+He needs you.	Вы ему нужны.
+He needs you.	Он нуждается в тебе.
+He needs you.	Он нуждается в вас.
+I am praying.	Я молюсь.
+I am so sick.	Я так болен.
+I am so sick.	Я так больна.
+I am thirsty.	Я хочу пить.
+I am working.	Я работаю.
+I apologized.	Я извинился.
+I ate apples.	Я ел яблоки.
+I ate caviar.	Я ел икру.
+I ate caviar.	Я ела икру.
+I believe it.	Я верю в это.
+I feel happy.	Я чувствую себя счастливым.
+I feel happy.	Я чувствую себя счастливой.
+I feel lucky.	Я чувствую, мне повезёт.
+I feel ready.	Я чувствую, что готов.
+I feel ready.	Я чувствую, что готова.
+I feel sorry.	Мне жаль.
+I feel tired.	Я чувствую себя усталым.
+I feel tired.	Я чувствую себя уставшим.
+I feel young.	Я чувствую себя молодым.
+I feel young.	Я чувствую себя молодой.
+I like pizza.	Мне нравится пицца.
+I like these.	Мне нравятся эти.
+I like women.	Я люблю женщин.
+I like women.	Мне нравятся женщины.
+I live alone.	Я живу один.
+I live alone.	Я живу одна.
+I lost a bet.	Я проиграл пари.
+I lost again.	Я опять проиграл.
+I lost again.	Я опять проиграла.
+I lost again.	Я снова проиграл.
+I tried hard.	Я очень старалась.
+I understand.	Понимаю.
+I understood.	Я понял.
+I understood.	Понял.
+I walk a lot.	Я много хожу пешком.
+I want a car.	Я хочу машину.
+I want a dog.	Я хочу собаку.
+I want a job.	Я хочу работу.
+I want a lot.	Мне надо много.
+I want facts.	Мне нужны факты.
+I'll ask Tom.	Я спрошу у Тома.
+I'll ask him.	Я спрошу его.
+I'll ask him.	Я у него спрошу.
+I'll ask him.	Я у него попрошу.
+I'll be back.	Я вернусь.
+I'll be free.	Я буду свободен.
+I'll be free.	Я буду свободна.
+I'll be good.	Я буду хорошим.
+I'll be good.	Я буду хорошей.
+I'll be here.	Я буду здесь.
+I'm athletic.	Я атлетичный.
+I'm athletic.	Я атлетичная.
+I'm autistic.	Я аутист.
+I'm autistic.	У меня аутизм.
+I'm barefoot.	Я босой.
+I'm barefoot.	Я босая.
+I'm bit lazy.	Я немного ленив.
+I'm bleeding.	Я истекаю кровью.
+I'm bleeding.	У меня течёт кровь.
+I'm bleeding.	У меня кровь.
+I'm like you.	Я как ты.
+I'm literate.	Я грамотный.
+I'm managing.	Я справляюсь.
+I'm mistaken.	Я ошибаюсь.
+I'm new here.	Я здесь новичок.
+I'm new here.	Я здесь новенький.
+I'm new here.	Я здесь человек новый.
+I'm no angel.	Я не ангел.
+I'm no dummy.	Я не тупица.
+I'm no saint.	Я не святой.
+I'm speaking.	Я говорю.
+I'm standing.	Я стою.
+I'm starving!	Я умираю от голода!
+I'm starving!	Умираю с голоду!
+I'm starving.	Умираю с голоду!
+I'm starving.	Умираю есть хочу.
+I'm starving.	Умираю с голоду.
+I'm starving.	Я очень хочу есть.
+I'm still up.	Я ещё не лёг.
+I'm still up.	Я ещё не легла.
+Ice is solid.	Лёд твёрдый.
+Ice is solid.	Лёд прочный.
+Ice is solid.	Лёд крепкий.
+Identify Tom.	Идентифицируй Тома.
+Identify Tom.	Идентифицируйте Тома.
+Iron is hard.	Железо твёрдое.
+Is Monday OK?	В понедельник сойдёт?
+Is Tom alive?	Том жив?
+Is Tom alive?	Том живой?
+Is Tom alone?	Том один?
+It was black.	Она была чёрная.
+It was black.	Оно было чёрное.
+It was clear.	Это было ясно.
+It was crazy.	Это было безумием.
+It was cruel.	Это было жестоко.
+It was empty.	Он был пуст.
+It was empty.	В нём было пусто.
+It was empty.	В ней было пусто.
+It was empty.	Она была пуста.
+It was empty.	Он был пустой.
+It's so rare.	Это такая редкость.
+It's strange.	Это странно.
+It's suicide.	Это самоубийство.
+It's the end.	Это конец.
+It's the law.	Это закон.
+It's too big.	Он слишком большой.
+It's too big.	Она слишком большая.
+It's too big.	Оно слишком большое.
+It's too far.	Это слишком далеко.
+It's too hot.	Слишком жарко.
+Let me do it.	Дайте я сделаю.
+Let me do it.	Давай я сделаю.
+Let me do it.	Давайте я сделаю.
+Let me do it.	Дай я.
+Let me do it.	Дайте я.
+Let me do it.	Давай я.
+Let me do it.	Давайте я.
+Let me dream.	Дай мне помечтать!
+Let me guess.	Дай мне угадать.
+Let me guess.	Дайте мне угадать.
+My ears hurt.	У меня заболели уши.
+My eyes hurt.	У меня глаза болят.
+My eyes hurt.	У меня болят глаза.
+My eyes itch.	У меня чешутся глаза.
+My feet hurt.	У меня ноги болят.
+My jaw hurts.	У меня челюсть болит.
+My jaw hurts.	У меня болит челюсть.
+My leg hurts.	У меня болит нога.
+My legs hurt.	У меня ноги болят.
+No objection.	Никаких возражений.
+Put it there.	Поставь это там.
+Put it there.	Поставьте это там.
+Put it there.	Поставь это туда.
+Put it there.	Поставьте это туда.
+Put these on.	Надень эти.
+Put these on.	Наденьте эти.
+Run and hide.	Беги и прячься.
+Run and hide.	Бегите и прячьтесь.
+Say it again.	Повтори.
+Say it again.	Скажи это ещё раз.
+Stay with us.	Оставайтесь с нами.
+Stay with us.	Оставайся с нами.
+Stay with us.	Побудьте с нами.
+Stay with us.	Побудь с нами.
+Step forward.	Сделай шаг вперёд.
+Stop arguing.	Хватит спорить!
+Stop arguing.	Прекрати спорить!
+Stop arguing.	Прекратите спорить!
+Stop arguing.	Перестань спорить!
+Stop arguing.	Перестаньте спорить!
+That is mine.	Это принадлежит мне.
+That is mine.	Это мой.
+That is mine.	Это моё.
+That is mine.	Это моя.
+That was Tom.	Это был Том.
+That was bad.	Это было плохо.
+That was fun.	Это было весело.
+That was odd.	Это было странно.
+That will do.	Хватит.
+That will do.	Этого достаточно.
+They're dead.	Они мертвы.
+They're dead.	Они умерли.
+They're done.	Они закончили.
+They're fake.	Они поддельные.
+They're fast.	Они быстрые.
+They're free.	Они свободны.
+They're gone.	Они ушли.
+They're good.	Они хорошие.
+They're here.	Они здесь.
+They're home.	Они дома.
+Tom is a fan.	Том фанат.
+Tom is a kid.	Том — ребёнок.
+Tom is a pig!	Том - свинья!
+Tom is a pig.	Том - свинья.
+Tom is a pro.	Том - профи.
+Tom is a spy.	Том - шпион.
+Tom is a vet.	Том - ветеринарный врач.
+Tom is a vet.	Том - ветеринар.
+Tom is a vet.	Том - ветеран.
+Tom is alive.	Том жив.
+Tom saved me.	Том меня спас.
+Tom saw Mary.	Том увидел Мэри.
+Tom saw Mary.	Том видел Мэри.
+Tom saw Mary.	Том видел Машу.
+Tom saw them.	Том видел их.
+Tom saw them.	Том их видел.
+Tom screamed.	Том кричал.
+Tom seems OK.	Том вроде в порядке.
+Tom shivered.	Том дрожал.
+Tom shot her.	Том выстрелил в неё.
+Try it again.	Попробуй ещё.
+Try it again.	Попытайся ещё.
+Try that one.	Попробуй тот.
+Try that one.	Попробуйте тот.
+Try that one.	Попробуй ту.
+Try that one.	Попробуйте ту.
+Try that one.	Попробуй то.
+Try that one.	Попробуйте то.
+Try that one.	Попробуй того.
+Try that one.	Попробуйте того.
+We have food.	У нас есть еда.
+We have food.	Еда у нас есть.
+We have hope.	У нас есть надежда.
+We have rice.	У нас есть рис.
+We have room.	У нас есть помещение.
+We have some.	У нас есть немного.
+We have time.	У нас есть время.
+We have time.	Время у нас есть.
+We have wine.	У нас есть вино.
+We heard you.	Мы слышали вас.
+We're hungry.	Мы голодные.
+We're hungry.	Мы хотим есть.
+We're inside.	Мы внутри.
+We're joking.	Мы шутим.
+We're losers.	Мы неудачники.
+We're losing.	Мы проигрываем.
+We're models.	Мы модели.
+We're moving.	Мы переезжаем.
+We're normal.	Мы нормальные.
+We're normal.	Мы обычные.
+Who'll drive?	Кто поведёт?
+Who'll fight?	Кто будет драться?
+Who'll start?	Кто начнёт?
+Who's coming?	Кто идёт?
+Who's coming?	Кто придёт?
+Who's hungry?	Кто хочет есть?
+Who's it for?	Это для кого?
+Who's it for?	Это кому?
+Who's joking?	Кто шутит?
+Who's paying?	Кто платит?
+You must eat.	Ты должен поесть.
+You must eat.	Ты должна поесть.
+You must eat.	Вы должны поесть.
+You must run.	Ты должен бежать.
+You must try.	Ты должен попробовать.
+You must try.	Вы должны попробовать.
+You promised.	Ты обещал.
+You promised.	Вы обещали.
+You promised.	Ты обещала.
+You saved us.	Ты нас спас.
+You're smart.	Ты умный.
+You're smart.	Ты умная.
+You're smart.	Ты умён.
+You're smart.	Ты умна.
+You're smart.	Вы умны.
+You're tired.	Ты устал.
+You're tired.	Ты устала.
+You're tired.	Вы устали.
+You're tough.	Ты жёсткий.
+You're upset.	Ты огорчён.
+Are you drunk?	Ты пьяный?
+Are you drunk?	Ты пьяная?
+Are you drunk?	Вы пьяные?
+Are you drunk?	Вы пьяный?
+Are you drunk?	Вы пьяная?
+Are you drunk?	Ты пьян?
+Are you dying?	Ты умираешь?
+Are you dying?	Вы умираете?
+Are you going?	Ты идёшь?
+Are you going?	Вы идёте?
+Call for help.	Позови на помощь.
+Call for help.	Позовите на помощь.
+Call me later.	Позвони мне позже.
+Call me later.	Позвоните мне позже.
+Call security!	Вызовите охрану!
+Call security!	Вызови охрану!
+Call security.	Вызови охрану.
+Call security.	Вызовите охрану.
+Call security.	Вызывай охрану.
+Call security.	Вызывайте охрану.
+Did you smile?	Вы улыбались?
+Did you speak?	Ты сказал речь?
+Did you speak?	Вы сказали речь?
+Did you speak?	Ты высказался?
+Did you speak?	Вы высказались?
+Did you study?	Ты занимался?
+Did you study?	Вы занимались?
+Do I know Tom?	Я знаю Тома?
+Do I know him?	Я его знаю?
+Do I know him?	Мы с ним знакомы?
+Don't get fat.	Не толстей.
+Don't get mad.	Не злись.
+Don't get mad.	Не злитесь.
+Don't give up!	Не сдавайся!
+Don't give up!	Не сдавайся.
+Don't give up!	Не сдавайтесь!
+Don't give up.	Не сдавайся.
+Don't give up.	Не сдавайтесь.
+Don't go away.	Не уходи.
+Don't go away.	Не уходите.
+Feed the bird.	Покормите птичку.
+Fill this out.	Заполните это.
+Fill this out.	Заполни это.
+Fix the clock.	Почините часы.
+Fix the watch.	Почините часы.
+Flowers bloom.	Цветы цветут.
+Get a haircut.	Подстригись.
+Get a move on!	Поторапливайся!
+Get a move on!	Живей!
+Get a move on!	Шевелитесь!
+He cheated me.	Он мне изменил.
+He did say so.	Он действительно так сказал.
+He drank beer.	Он пил пиво.
+He dropped it.	Он бросил это.
+He dug a hole.	Он выкопал яму.
+He dug a hole.	Он вырыл яму.
+He eats a lot.	Он много ест.
+He felt tired.	Он почувствовал, что устал.
+He felt tired.	Он почувствовал усталость.
+He felt tired.	Он чувствовал себя уставшим.
+He's in Tokyo.	Он в Токио.
+He's innocent.	Он невиновен.
+He's no saint.	Он не святой.
+He's not home.	Его нет дома.
+He's not home.	Он не дома.
+He's not sick.	Он не болен.
+He's out cold.	Он без сознания.
+He's outraged.	Он оскорблён.
+He's ruthless.	Он безжалостен.
+He's so young.	Он так молод.
+I am homesick.	Я скучаю по дому.
+I am homesick.	У меня ностальгия.
+I am in India.	Я в Индии.
+I am in Paris.	Я в Париже.
+I am like him.	Я как он.
+I am like you.	Я как ты.
+I am like you.	Я как вы.
+I am new here.	Я здесь новичок.
+I am new here.	Я здесь новенький.
+I am new here.	Я здесь человек новый.
+I did do that.	Я действительно это сделал.
+I did it once.	Я это сделал один раз.
+I did it once.	Я сделал это один раз.
+I did my duty.	Я исполнил свой долг.
+I did my part.	Я свою часть сделал.
+I did my work.	Я сделал свою работу.
+I did my work.	Я сделала свою работу.
+I did nothing.	Я ничего не делал.
+I did nothing.	Я ничего не сделал.
+I didn't call.	Я не звонил.
+I got furious.	Я рассвирепел.
+I got it free.	Я получил это бесплатно.
+I got married.	Я женился.
+I got married.	Я вышла замуж.
+I got nervous.	Я занервничал.
+I got nervous.	Я разнервничался.
+I got nervous.	Я стал нервным.
+I got nothing.	Я ничего не получил.
+I got shot at.	В меня стреляли.
+I got the flu.	У меня грипп.
+I know my job.	Я свою работу знаю.
+I know my job.	Я знаю свою работу.
+I know people.	Я знаю людей.
+I leaned back.	Я откинулся назад.
+I left a note.	Я оставил записку.
+I let Tom win.	Я дал Тому выиграть.
+I let Tom win.	Я позволил Тому выиграть.
+I let Tom win.	Я позволил Тому победить.
+I let Tom win.	Я дал Тому победить.
+I let Tom win.	Я дала Тому победить.
+I love sports.	Я люблю спорт.
+I love sports.	Люблю спорт.
+I love spring.	Я люблю весну.
+I love trains.	Я люблю поезда.
+I love winter.	Я люблю зиму.
+I made a copy.	Я сделал копию.
+I made a deal.	Я заключил сделку.
+I made a deal.	Я заключила сделку.
+I made a deal.	Я заключил соглашение.
+I made a deal.	Я заключила соглашение.
+I prefer dogs.	Мне больше нравятся собаки.
+I put it back.	Я положил его обратно.
+I put it back.	Я положил её обратно.
+I put it back.	Я поставил его обратно.
+I put it back.	Я поставил её обратно.
+I quit my job.	Я уволился.
+I quit my job.	Я уволился с работы.
+I quit school.	Я бросил школу.
+I quite agree.	Полностью согласна.
+I quite agree.	Полностью согласен.
+I took a bath.	Я приняла ванну.
+I took a walk.	Я пошёл на прогулку.
+I touched Tom.	Я дотронулся до Тома.
+I touched Tom.	Я дотронулась до Тома.
+I touched Tom.	Я прикоснулся к Тому.
+I touched Tom.	Я прикоснулась к Тому.
+I tricked you.	Я обхитрил тебя.
+I tricked you.	Я перехитрил тебя.
+I tricked you.	Я тебя обманул.
+I tried again.	Я попытался снова.
+I was relaxed.	Я была спокойна.
+I was relaxed.	Я был расслаблен.
+I was relaxed.	Я была расслаблена.
+I was running.	Я бежал.
+I was running.	Я бежала.
+I was selfish.	Я был эгоистом.
+I was selfish.	Я была эгоисткой.
+I was serious.	Я был серьёзным.
+I was serious.	Я была серьёзной.
+I was serious.	Я был серьёзен.
+I'll be quick.	Я быстро.
+I'll be quick.	Я мигом.
+I'll be quiet.	Я буду спокоен.
+I'll be quiet.	Я буду спокойна.
+I'll be ready.	Я буду готов.
+I'll be ready.	Я буду готова.
+I'll be there.	Я буду там.
+I'll buy that.	Я куплю это.
+I'll buy that.	Я это куплю.
+I'll buy this.	Я куплю это.
+I'll tell Tom.	Я расскажу Тому.
+I'll tell Tom.	Я скажу Тому.
+I'll tell you.	Я вам скажу.
+I'll tell you.	Я тебе скажу.
+I'll try that.	Я попробую это.
+I'll warn Tom.	Я предостерегу Тома.
+I'll warn Tom.	Я предупрежу Тома.
+I'll warn you.	Я тебя предупрежу.
+I'll warn you.	Я вас предупрежу.
+I'll watch TV.	Я буду смотреть телевизор.
+I'm concerned.	Я заинтересована.
+I'm confident.	Я самоуверен.
+I'm confident.	Я самоуверенна.
+I'm contented.	Я удовлетворённый.
+I'm contented.	Я удовлетворён.
+I'm contented.	Я удовлетворённая.
+I'm contented.	Я удовлетворена.
+I'm convinced.	Я убежден.
+I'm convinced.	Я убеждена.
+I'm dedicated.	Я преданный.
+I'm not bossy.	Я не властная.
+I'm not brave.	Я не храбрый.
+I'm not crazy.	Я не сумасшедший.
+I'm not crazy.	Я не сумасшедшая.
+I'm not drunk.	Я не напился.
+I'm not drunk.	Я не пьяный.
+I'm not drunk.	Я не пьяная.
+I'm not dying.	Я не умираю.
+I'm not fussy.	Я не придирчив.
+I'm not going.	Я не иду.
+I'm tone deaf.	У меня нет музыкального слуха.
+I'm too drunk.	Я слишком пьян.
+I'm too drunk.	Я перепил.
+I'm too short.	Я слишком низкий.
+I'm too tired.	Я слишком устал.
+I'm too tired.	Я слишком устала.
+I'm too young.	Я слишком молод.
+I'm too young.	Я слишком молода.
+I'm uninsured.	Я незастрахован.
+I'm uninsured.	Я незастрахована.
+Is that Tom's?	Это Тома?
+Is that a bat?	Это - летучая мышь?
+Is that a bat?	Это летучая мышь?
+Is that a cat?	Это кошка?
+Is that a cat?	Это кот?
+Is that a dog?	Это собака?
+Is that a lot?	Это много?
+Is that a wig?	Это парик?
+Is that blood?	Это кровь?
+Is that candy?	Это леденец?
+It wasn't his.	Это было не его.
+It wasn't his.	Он был не его.
+It wasn't his.	Она была не его.
+It wasn't his.	Оно было не его.
+It wasn't his.	Это был не его.
+It wasn't his.	Это была не его.
+It wasn't you.	Это был не ты.
+It wasn't you.	Это была не ты.
+It wasn't you.	Это были не вы.
+It went great.	Всё прошло отлично.
+It's so dusty.	Он такой пыльный.
+It's so dusty.	Она такая пыльная.
+It's so dusty.	Оно такое пыльное.
+It's so dusty.	Так пыльно.
+It's so quiet.	Так тихо.
+It's so quiet.	Так спокойно.
+It's so silly.	Это так глупо.
+It's so silly.	Это так нелепо.
+It's so silly.	Это так по-дурацки.
+It's so weird.	Это так странно.
+Leave it here.	Оставьте его здесь.
+Leave it here.	Оставь её здесь.
+Leave it here.	Оставьте её здесь.
+Leave the key.	Оставь ключ.
+Leave the key.	Оставьте ключ.
+Let Tom do it.	Пусть Том это сделает.
+Let Tom drive.	Пусть машину ведёт Том.
+Let Tom leave.	Пусть Том уезжает.
+Let Tom relax.	Пусть Том расслабится.
+Let Tom sleep.	Дай Тому поспать.
+Man is mortal.	Человек смертен.
+Mary is a fox.	Мэри — клёвая тёлка.
+Mary is weird.	Мэри странновата.
+Mary shrieked.	Мэри вскрикнула.
+May I ask why?	Можно поинтересоваться почему?
+May I ask why?	Можно узнать почему?
+May I ask why?	Можно спросить почему?
+May I come in?	Можно войти?
+May I come in?	Можно мне войти?
+May I go home?	Можно я пойду домой?
+Open the gate.	Открой калитку.
+Open the gate.	Откройте калитку.
+Open the gate.	Отворяй калитку.
+Open the gate.	Отворяйте калитку.
+Open the hood.	Откройте капот.
+Open the hood.	Открой капот.
+Open the safe.	Открой сейф.
+Open the safe.	Откройте сейф.
+Open the safe.	Открывай сейф.
+Open the safe.	Открывайте сейф.
+Seal the room.	Опечатайте комнату.
+See you again.	Увидимся.
+See you later.	Увидимся!
+See you later.	До скорого!
+See you later.	Увидимся позже.
+See you there.	Встретимся там.
+See you there.	Увидимся там.
+Send Tom home.	Отправь Тома домой.
+Send it to me.	Отправь мне это.
+Send it to me.	Пришлите его мне.
+Sit beside me.	Сядь рядом со мной.
+Sit beside me.	Сядьте рядом со мной.
+Sit down, Tom!	Садись, Том!
+Sit down, Tom!	Сядь, Том!
+Sit down, Tom.	Садись, Том.
+Sit down, Tom.	Сядь, Том.
+Some fish fly.	Некоторые рыбы летают.
+Somebody came.	Кто-то пришёл.
+Speak clearly.	Говори чётко.
+Speak clearly.	Говорите внятно.
+Take me there.	Возьми меня туда.
+Take me there.	Возьмите меня туда.
+Take my horse.	Возьми мою лошадь.
+Take my horse.	Возьмите мою лошадь.
+Take only one.	Возьмите только одну.
+Take only one.	Возьмите только один.
+Take only one.	Возьми только одну.
+Take only one.	Возьми только один.
+Take only one.	Возьмите только одно.
+Take only one.	Возьми только одно.
+They all left.	Они все ушли.
+They all left.	Они все уехали.
+They all rose.	Они все встали.
+They are busy.	Они заняты.
+They are dead.	Они мертвы.
+They are here.	Они здесь.
+They can help.	Они могут помочь.
+They can wait.	Они могут подождать.
+They canceled.	Они отменили.
+They embraced.	Они обнялись.
+They're tense.	Они напряжены.
+They're there.	Они там.
+They're tired.	Они устали.
+They're twins.	Они близнецы.
+They're upset.	Они расстроены.
+They're weird.	Они странные.
+They're wrong.	Они неправы.
+They're wrong.	Они ошибаются.
+They're wrong.	Они не правы.
+They're young.	Они молоды.
+Tom eyed Mary.	Том пристально смотрел на Мэри.
+Tom eyed Mary.	То разглядывал Мэри.
+Tom eyed Mary.	Том рассматривал Мэри.
+Tom fell down.	Том упал.
+Tom felt fine.	Том чувствовал себя хорошо.
+Tom felt fine.	Том чувствовал себя нормально.
+Tom felt good.	Том чувствовал себя хорошо.
+Tom felt safe.	Том чувствовал себя в безопасности.
+Tom felt sick.	Том почувствовал себя больным.
+Tom felt weak.	Том чувствовал слабость.
+Tom is hiding.	Том прячется.
+Tom is honest.	Том честный.
+Tom is humble.	Том скромный.
+Tom is hungry.	Том голоден.
+Tom is hungry.	Том хочет есть.
+Tom is hungry.	Тому хочется есть.
+Tom is in bed.	Том в постели.
+Tom is insane.	Том ненормальный.
+Tom is inside.	Том внутри.
+Tom is joking.	Том шутит.
+Tom may leave.	Том может уходить.
+Tom might die.	Том, наверное, умрёт.
+Tom must come.	Том должен прийти.
+Tom needed it.	Тому он был нужен.
+Tom needed it.	Тому она была нужна.
+Tom needed it.	Тому оно было нужно.
+Tom needed us.	Мы были нужны Тому.
+Tom needed us.	Том в нас нуждался.
+Tom needs you.	Ты нужен Тому.
+Tom needs you.	Вы нужны Тому.
+Tom was proud.	Том был горд.
+Tom was quiet.	Том был тихим.
+Tom was ready.	Том был готов.
+Tom was right.	Том был прав.
+Tom was silly.	Том был глуп.
+Tom was sober.	Том был трезв.
+Tom was tense.	Том был напряжён.
+Tom was there.	Том там был.
+Tom was third.	Том был третьим.
+Tom was timid.	Том был застенчив.
+Tom's smoking.	Том курит.
+Tom's snoring.	Том храпит.
+Tom's strange.	Том странный.
+Tom's thirsty.	Том хочет пить.
+Tom's thirsty.	Тому хочется пить.
+Tom's too fat.	Том слишком толстый.
+Tom's trapped.	Том в ловушке.
+Tom's unarmed.	Том безоружен.
+Tom's unhappy.	Том несчастен.
+Tom's waiting.	Том ждёт.
+We can't fail.	Мы не можем потерпеть неудачу.
+We can't lose.	Мы не можем проиграть.
+We can't lose.	Нам нельзя проигрывать.
+We can't stay.	Мы не можем остаться.
+We can't stop.	Мы не можем остановиться.
+We can't wait.	Мы не можем ждать.
+We caught Tom.	Мы поймали Тома.
+We caught you.	Мы вас поймали.
+We caught you.	Мы Вас поймали.
+We caught you.	Мы тебя поймали.
+We were lucky.	Нам повезло.
+We were lucky.	Нам везло.
+We were ready.	Мы были готовы.
+We were there.	Мы были там.
+We were tired.	Мы устали.
+We were tired.	Мы были уставшими.
+We were upset.	Мы были расстроены.
+We were wrong.	Мы ошибались.
+We were wrong.	Мы были не правы.
+We were young.	Мы были молоды.
+We're sincere.	Мы искренни.
+We're sinking.	Мы тонем.
+We're sinking.	Мы идём ко дну.
+We're so busy.	Мы так заняты.
+We're so busy.	Мы так заняты!
+We're special.	Мы особенные.
+We're stalled.	Мы зашли в тупик.
+We're stalled.	Мы в тупике.
+We're staying.	Мы остаёмся.
+We're thieves.	Мы воры.
+Who found him?	Кто его нашёл?
+Who found you?	Кто тебя нашёл?
+Who found you?	Кто вас нашёл?
+Who found you?	Кто Вас нашёл?
+Who hates you?	Кто тебя ненавидит?
+Who hates you?	Кто вас ненавидит?
+Who helps her?	Кто помогает ей?
+Who helps her?	Кто ей помогает?
+Who hired Tom?	Кто нанял Тома?
+Who hired Tom?	Кто взял Тома на работу?
+You are wrong.	Ты не права.
+You aren't me.	Ты не я.
+You aren't me.	Вы не я.
+You came back.	Ты вернулся.
+You came back.	Вы вернулись.
+You came back.	Ты вернулась.
+You can do it.	Ты можешь сделать это!
+You can do it.	Ты можешь это сделать.
+You can do it.	Вы можете это сделать.
+You can relax.	Вы можете расслабиться.
+You scared us.	Ты нас испугала.
+You scared us.	Ты испугала нас.
+You seem busy.	Ты, кажется, занят.
+You seem busy.	Вы, кажется, заняты.
+You seem busy.	Ты, кажется, занята.
+You seem nice.	Кажется, ты хороший.
+You should go.	Тебе лучше уйти.
+You should go.	Тебе стоит пойти.
+You should go.	Вам стоит пойти.
+You should go.	Тебе стоит поехать.
+You're joking!	Вы шутите!
+You're joking!	Шутишь!
+You're joking!	Шутите!
+You're loaded.	Ты набрался.
+You're losing.	Вы проигрываете.
+You're losing.	Ты проигрываешь.
+You're modest.	Ты скромный.
+You're my age.	Мы с вами одного возраста.
+You're my age.	Мы с тобой одного возраста.
+You're my age.	Ты мой ровесник.
+Are you coming?	Вы идёте?
+Are you crying?	Ты плачешь?
+Are you crying?	Вы плачете?
+Are you famous?	Ты знаменит?
+Are you famous?	Ты знаменита?
+Are you famous?	Вы знамениты?
+Are you hiding?	Ты прячешься?
+Are you hiding?	Вы прячетесь?
+Are you hiring?	Вы нанимаете?
+Are you hungry?	Ты голоден?
+Bring it to me.	Принеси её мне.
+Bring it to me.	Принесите его мне.
+Bring me money.	Принеси мне денег.
+Bring me money.	Дай мне денег.
+Bring the kids.	Приведи детей.
+Bring the kids.	Приведите детей.
+Bring the kids.	Приводи детей.
+Bring the kids.	Приводите детей.
+Brr, it's cold.	Бр-р, холодно.
+Buy him a beer.	Купи ему пива.
+Can you sit up?	Ты можешь приподняться?
+Can't Tom swim?	Том не умеет плавать?
+Can't you read?	Ты не умеешь читать?
+Can't you read?	Вы не умеете читать?
+Can't you read?	Ты что, читать не умеешь?
+Can't you read?	Вы что, читать не умеете?
+Can't you sing?	Ты не умеешь петь?
+Can't you sing?	Вы не умеете петь?
+Can't you sing?	Ты не можешь спеть?
+Can't you sing?	Вы не можете спеть?
+Deal the cards.	Раздавайте карты.
+Deal with this.	Разберись с этим.
+Deal with this.	Разберитесь с этим.
+Did I break it?	Я его разбил?
+Did I break it?	Я её разбил?
+Did I break it?	Я его сломал?
+Did I break it?	Я её сломал?
+Did I hurt you?	Я тебя ранил?
+Did I hurt you?	Я вам не причинил боли?
+Did I say that?	Я так сказал?
+Do that for me.	Сделай это для меня.
+Do that for me.	Сделайте это для меня.
+Do tigers purr?	Тигры мурлыкают?
+Do we have one?	У нас есть один?
+Do we have one?	У нас есть одна?
+Do we have one?	У нас есть одно?
+Do we know you?	Мы знакомы?
+Do we know you?	Мы вас знаем?
+Do we know you?	Мы тебя знаем?
+Do you deny it?	Ты это отрицаешь?
+Don't be naive.	Не будь наивной!
+Don't be naive.	Не будьте наивным.
+Don't be naive.	Не будьте наивной.
+Don't be naive.	Не будьте наивны.
+Don't be naive.	Не будьте наивными.
+Don't be naive.	Не будь наивной.
+Don't be silly.	Не будь дураком.
+Don't be silly.	Не глупи!
+Don't be upset.	Не расстраивайся.
+Don't be upset.	Не расстраивайтесь.
+Don't touch me.	Не трогайте меня.
+Don't watch TV.	Не смотрите телевизор.
+Don't watch TV.	Не смотри телевизор.
+Don't you care?	Тебе всё равно?
+Don't you care?	Вам всё равно?
+Don't you know?	Разве вы не знаете?
+Don't you know?	Ты не знаешь?
+Don't you know?	Вы не знаете?
+Don't you know?	Ты разве не знаешь?
+Drink some tea.	Выпейте чаю.
+Give it a shot.	Попробуй!
+Give it to Tom.	Дай его Тому.
+Give it to Tom.	Дайте его Тому.
+Give it to Tom.	Дай её Тому.
+Give it to Tom.	Дайте её Тому.
+Give it to Tom.	Отдай это Тому.
+Give it to her.	Дай это ей.
+Give it to her.	Дайте это ей.
+Give it to her.	Дай его ей.
+Give it to her.	Дайте его ей.
+Have you eaten?	Поел?
+Have you eaten?	Вы поели?
+Have you slept?	Ты поспал?
+Have you slept?	Вы поспали?
+He accelerated.	Он увеличил скорость.
+He admired her.	Он был восхищен ею.
+He admired her.	Он ей восхищался.
+He almost died.	Он едва не умер.
+He almost died.	Он чуть не умер.
+He also saw it.	Он тоже это видел.
+He scolded her.	Он ругался на неё.
+He scolded her.	Он бранился на неё.
+He scolded her.	Он её отругал.
+He seems angry.	Он, кажется, зол.
+He sells fruit.	Он торгует фруктами.
+He sells fruit.	Он продаёт фрукты.
+He slapped her.	Он дал ей пощёчину.
+He slapped her.	Он шлёпнул её.
+He slapped her.	Он ударил её.
+He sold us out.	Он нас продал.
+Hey, come here.	Эй, идите сюда.
+Hey, what's up?	Эй! Как жизнь?
+Hi! What's new?	Привет! Что нового?
+Hi, come on in.	Привет, заходи.
+Hide that book.	Спрячь эту книгу.
+Hide that book.	Спрячьте эту книгу.
+Hide the money.	Спрячь деньги.
+Hide the money.	Спрячьте деньги.
+His head ached.	У него болела голова.
+His name's Tom.	Его зовут Том.
+I am in London.	Я в Лондоне.
+I am off today.	У меня сегодня выходной.
+I am so lonely.	Я так одинок.
+I am so lonely.	Я так одинока.
+I am too short.	Я слишком низкий.
+I am very tall.	Я очень высокий.
+I am very tall.	Я очень высокая.
+I ate a banana.	Я съел банан.
+I ate an apple.	Я съел яблоко.
+I ate the meat.	Я съел это мясо.
+I deserve that.	Я этого заслуживаю.
+I deserve this.	Я этого заслуживаю.
+I despised Tom.	Я презирал Тома.
+I did have fun.	Мне было действительно весело.
+I did it wrong.	Я сделал это неправильно.
+I did say that.	Я действительно так сказал.
+I did warn you.	Я ведь вас предупреждал.
+I did warn you.	Я ведь тебя предупреждал.
+I didn't argue.	Я не стал спорить.
+I didn't argue.	Я не спорил.
+I got up early.	Я рано встал.
+I got very mad.	Я страшно разозлился.
+I grew up here.	Я здесь вырос.
+I guarantee it.	Я за это ручаюсь.
+I had a choice.	У меня был выбор.
+I had a mishap.	Со мной произошел несчастный случай.
+I had a stroke.	Со мной был удар.
+I had a stroke.	У меня был удар.
+I had a stroke.	У меня был инсульт.
+I had a vision.	Мне было видение.
+I have one kid.	У меня один ребёнок.
+I have sisters.	У меня есть сёстры.
+I have the flu.	У меня грипп.
+I have the key.	Ключ у меня.
+I have the map.	Карта у меня.
+I have to help.	Я должен помочь.
+I have to hide.	Я должен спрятаться.
+I have to hide.	Мне надо спрятаться.
+I have to know.	Я должен знать.
+I have to know.	Мне надо знать.
+I like picnics.	Я люблю пикники.
+I like puzzles.	Я люблю загадки.
+I like puzzles.	Я люблю пазлы.
+I like reading.	Я люблю читать.
+I like reading.	Мне нравится читать.
+I like running.	Я люблю бегать.
+I like sashimi.	Я люблю сасими.
+I like seafood.	Я люблю морепродукты.
+I like seafood.	Мне нравятся морепродукты.
+I like singing.	Я люблю петь.
+I must do that.	Я должен это сделать.
+I must find it.	Я должен его найти.
+I must find it.	Я должен её найти.
+I must go home.	Мне надо идти домой.
+I must go home.	Я должен идти домой.
+I must go home.	Я должна идти домой.
+I must see Tom.	Я должен увидеть Тома.
+I must see Tom.	Я должна увидеть Тома.
+I must see you.	Я должен увидеть тебя.
+I must see you.	Я должен увидеть вас.
+I said get out!	Я сказал, убирайтесь!
+I said get out.	Я сказал, убирайся!
+I said get out.	Я сказал, убирайтесь!
+I said go away.	Я сказал, уходи.
+I said go away.	Я сказал, уходите.
+I said go home.	Я сказал, иди домой.
+I said go home.	Я сказал, идите домой.
+I said goodbye.	Я попрощался.
+I said goodbye.	Я сказал до свидания.
+I said lay off.	Отвали, я сказал.
+I want to know.	Я хочу узнать.
+I want to know.	Я хочу знать.
+I want to live.	Я хочу жить.
+I want to play.	Я хочу играть.
+I want to play.	Я хочу поиграть.
+I want to rest.	Я хочу отдохнуть.
+I want to sing.	Мне хочется петь.
+I want to sing.	Я хочу петь.
+I want to sing.	Я хочу спеть.
+I want to stay.	Я хочу остаться.
+I was upstairs.	Я был наверху.
+I was upstairs.	Я была наверху.
+I was very mad.	Я был очень зол.
+I was very sad.	Мне было очень грустно.
+I was very sad.	Я был очень грустный.
+I was watching.	Я смотрел.
+I was watching.	Я наблюдал.
+I was with Tom.	Я был с Томом.
+I wasn't alone.	Я не был один.
+I wasn't alone.	Я не была одна.
+I'll catch you.	Я вас поймаю.
+I'll change it.	Я поменяю это.
+I'll change it.	Я изменю это.
+I'll come back.	Я вернусь.
+I'll come over.	Я зайду.
+I'll come over.	Я заеду.
+I'll come, too.	Я тоже приду.
+I'll do it now.	Я сейчас это сделаю.
+I'll do it now.	Я сделаю это сейчас.
+I'll find them.	Я найду их.
+I'm a magician.	Я волшебник.
+I'm a mechanic.	Я механик.
+I'm a merchant.	Я торговец.
+I'm a minister.	Я пастор.
+I'm a musician.	Я музыкант.
+I'm a newcomer.	Я новенький.
+I'm a pacifist.	Я пацифист.
+I'm a pacifist.	Я пацифистка.
+I'm a prisoner.	Я заключённый.
+I'm a prisoner.	Я заключённая.
+I'm in trouble.	У меня неприятности.
+I'm interested.	Я заинтересован.
+I'm just a boy.	Я просто мальчик.
+I'm just a kid.	Я просто ребёнок.
+I'm just a kid.	Я всего лишь ребёнок.
+I'm just bored.	Мне просто скучно.
+I'm just lucky.	Мне просто везет.
+I'm just tired.	Я просто устала.
+I'm mad at Tom.	Я сердит на Тома.
+I'm mad at Tom.	Я сердита на Тома.
+I'm sure of it.	Я в этом уверена.
+I'm the expert.	Я эксперт.
+I'm the killer.	Убийца я.
+I'm the oldest.	Я самый старший.
+I'm the oldest.	Я самая старшая.
+I'm thirty now.	Сейчас мне тридцать.
+I'm tired, too.	Я тоже устал.
+I'm undressing.	Я раздеваюсь.
+I'm unemployed.	Я безработный.
+I'm untalented.	Я бездарен.
+Is anyone here?	Здесь кто-нибудь есть?
+Is anyone hurt?	Кто-нибудь ранен?
+Is everyone OK?	Все в порядке?
+Is he American?	Он американец?
+Is he Japanese?	Он японец?
+Is he a doctor?	Он - врач?
+Is he a doctor?	Он - доктор наук?
+Is he a doctor?	Он - доктор?
+Is he a doctor?	Он врач?
+Is he here yet?	Он уже здесь?
+It looks cheap.	Оно дёшево выглядит.
+It looks great.	Выглядит здорово.
+It makes sense.	Это имеет смысл.
+It makes sense.	В этом есть смысл.
+It may be true.	Может быть, это и правда.
+It must be Tom.	Это, должно быть, Том.
+It must be Tom.	Это, наверное, Том.
+It smells good!	Вкусно пахнет!
+It smells good!	Пахнет вкусно!
+It sounds easy.	Звучит просто.
+It's all right.	Ничего страшного.
+It's an ambush!	Это засада!
+It's an excuse.	Это оправдание.
+It's an insult.	Это оскорбление.
+It's an old TV.	Это старый телевизор.
+It's an option.	Это вариант.
+It's beautiful.	Красиво.
+It's beautiful.	Это красиво.
+It's beyond me.	Это выше моего понимания.
+It's brand new.	Он совсем новый.
+It's your duty.	Это твой долг.
+It's your duty.	Это твоя обязанность.
+It's your duty.	Это ваш долг.
+It's your duty.	Это ваша обязанность.
+It's your home.	Это твой дом.
+It's your home.	Это ваш дом.
+It's your life.	Это твоя жизнь.
+It's your life.	Это ваша жизнь.
+It's your move.	Теперь твой ход.
+It's your turn.	Теперь ты.
+Let Tom decide.	Пусть Том решает.
+Let Tom decide.	Пусть Том решит.
+Let Tom finish.	Дайте Тому закончить.
+Let Tom finish.	Дай Тому закончить.
+Let Tom finish.	Пусть Том закончит.
+Let Tom try it.	Пусть Том попробует.
+Let Tom try it.	Дай Тому попробовать.
+Let me come in.	Впустите меня.
+Let me come in.	Впусти меня.
+Let me come in.	Позвольте войти.
+Listen closely.	Слушайте внимательно.
+Listen closely.	Слушай внимательно.
+Listen to this.	Послушай это.
+Listen to this.	Послушайте это.
+Live and learn.	Век живи — век учись.
+Live and learn.	Человек всю жизнь учится.
+Live and learn.	Живи и учись.
+Live and learn.	Век живи – век учись.
+Lock the doors.	Запри двери!
+Lock the doors.	Заприте двери!
+No one knew it.	Этого никто не знал.
+No one knew it.	Никто не знал этого.
+No one laughed.	Никто не смеялся.
+No one noticed.	Никто не заметил.
+No one noticed.	Ни один не заметил.
+No one saw Tom.	Никто не видел Тома.
+No one shouted.	Никто не кричал.
+No one told me.	Мне никто не сказал.
+No one told me.	Мне никто не говорил.
+No one told us.	Нам никто не сказал.
+Please hold on.	Пожалуйста, подождите.
+Please join us.	Пожалуйста, присоединяйтесь к нам.
+Please open it.	Пожалуйста, открой это.
+Please open it.	Пожалуйста, откройте это.
+Please open it.	Откройте это, пожалуйста.
+Please open it.	Откройте его, пожалуйста.
+Please open it.	Открой это, пожалуйста.
+Please open it.	Открой его, пожалуйста.
+Please open it.	Откройте её, пожалуйста.
+Please open it.	Открой её, пожалуйста.
+She is jealous.	Она ревнует.
+She is out now.	Она сейчас не здесь.
+She is out now.	Её сейчас тут нет.
+She is out now.	Она нынче ушла.
+She is talking.	Она говорит.
+She is walking.	Она идёт.
+She is walking.	Она идёт пешком.
+She isn't poor.	Она не бедная.
+She kicked him.	Она пнула его.
+She kissed him.	Она его поцеловала.
+Stop gossiping.	Хватит сплетничать.
+Stop grumbling.	Перестань ворчать.
+Stop poking me.	Отстаньте от меня!
+Stop poking me.	Хватит в меня тыкать!
+Stop poking me.	Прекращайте мне подмигивать!
+Stop resisting!	Перестань сопротивляться!
+Stop screaming.	Прекрати орать.
+Stop screaming.	Перестаньте кричать.
+Stop sniffling.	Перестань всхлипывать.
+Stop the train.	Остановите поезд!
+That's alright.	Хорошо.
+That's amazing.	Это невероятно.
+That's amazing.	Это поразительно.
+That's an idea.	Это идея.
+That's an idea.	Это мысль.
+That's chicken.	Это цыплёнок.
+That's correct.	Это правильно.
+That's correct.	Это верно.
+That's curious.	Это любопытно.
+That's foolish.	Это глупо.
+They are going.	Они идут.
+They are going.	Они едут.
+They are happy.	Они счастливы.
+They are muddy.	Они испачканы.
+They are muddy.	Они запачканы.
+They are right.	Они правы.
+They are wrong.	Они ошибаются.
+They are wrong.	Они не правы.
+They asked him.	Они спросили его.
+They asked him.	Они попросили его.
+They're afraid.	Они боятся.
+They're afraid.	Им страшно.
+They're allies.	Они союзники.
+They're asleep.	Они спят.
+They're boring.	Они скучные.
+They're broken.	Они сломаны.
+They're coming.	Они идут.
+They're coming.	Они едут.
+They're coming.	Они приезжают.
+They're family.	Они семья.
+Throw it there.	Бросьте её туда.
+Throw it to me.	Брось его мне.
+Throw it to me.	Брось её мне.
+Throw it to me.	Бросьте его мне.
+Throw it to me.	Бросьте её мне.
+Throw the dice.	Бросай кости.
+Throw the dice.	Бросай кубики.
+Throw the dice.	Бросай кубик.
+Throw the dice.	Бросьте кубик.
+Throw the dice.	Бросайте кубик.
+Tom got fatter.	Том потолстел.
+Tom got mugged.	Том испачкался.
+Tom got robbed.	Тома ограбили.
+Tom got scared.	Том испугался.
+Tom grew roses.	Том выращивал розы.
+Tom grows rice.	Том выращивает рис.
+Tom had a beer.	У Тома было пиво.
+Tom had a cold.	Том был простужен.
+Tom had a cold.	У Тома была простуда.
+Tom had a plan.	У Тома был план.
+Tom is excited.	Том возбуждён.
+Tom is excited.	Том взволнован.
+Tom is falling.	Том падает.
+Tom is fasting.	Том постится.
+Tom is focused.	Том сосредоточен.
+Tom is furious.	Том в ярости.
+Tom is healthy.	Том здоров.
+Tom is hideous.	Том омерзителен.
+Tom is in jail.	Том в тюрьме.
+Tom is in love.	Том влюблён.
+Tom is with us.	С нами Том.
+Tom is with us.	Том с нами.
+Tom is working.	Том работает.
+Tom is worried.	Том взволнован.
+Tom is worried.	Том обеспокоен.
+Tom is worried.	Том беспокоится.
+Tom is wounded.	Том ранен.
+Tom is yawning.	Том зевает.
+Tom is yelling.	Том вопит.
+Tom isn't busy.	Том не занят.
+Tom meant well.	Том хотел как лучше.
+Tom might come.	Том может прийти.
+Tom might talk.	Том может говорить.
+Tom missed you.	Том по вам скучал.
+Tom missed you.	Том скучал по тебе.
+Tom missed you.	Том по тебе скучал.
+Tom misses you.	Том скучает по тебе.
+Tom misses you.	Том по Вам скучает.
+Tom misses you.	Том по вам скучает.
+Tom misses you.	Том по тебе скучает.
+Tom was boring.	Том был скучным.
+Tom was caught.	Тома поймали.
+Tom was clever.	Том был умным.
+Tom was crafty.	Том был хитрым.
+Tom was crafty.	Том был коварным.
+Tom was crafty.	Том был ловким.
+Tom was crying.	Том плакал.
+Tom was eating.	Том ел.
+Tom was famous.	Том был знаменит.
+Tom was famous.	Том был знаменитым.
+Tom's cheating.	Том списывает.
+Tom's confused.	Том смущён.
+Tom's diabetic.	Том - диабетик.
+Tom's divorced.	Том разведён.
+Tom's doing OK.	Том в порядке.
+Tom's doing OK.	У Тома всё хорошо.
+Tom's dreaming.	Том мечтает.
+Tom's dreaming.	Том видит сон.
+Tom's dreaming.	Том видит сны.
+Tom's drowning.	Том тонет.
+Was that a yes?	Это означало да?
+Was that a yes?	Это было согласием?
+Wash your face.	Умойся.
+Wash your face.	Умойтесь.
+Wash your face.	Умойся!
+Wash your feet.	Вымойте ваши ноги.
+Wash your feet.	Помой ноги.
+Wash your feet.	Помой свои ноги.
+Wash your feet.	Вымой ноги.
+Wash your feet.	Помойте ноги.
+We made a deal.	Мы заключили сделку.
+We made him go.	Мы заставили его пойти.
+We must attack.	Мы должны атаковать.
+We must decide.	Мы должны решить.
+We must go now.	Мы должны идти теперь.
+We need a goal.	Нам нужна цель.
+We need a hero.	Нам нужен герой.
+We need a plan.	Нам нужен план.
+We need heroes.	Нам нужны герои.
+We need it all.	Нам всё это нужно.
+We'll find you.	Мы тебя найдём.
+We'll find you.	Мы найдём вас.
+We'll find you.	Мы вас найдём.
+We'll find you.	Мы тебя отыщем.
+We'll find you.	Мы тебя разыщем.
+We'll find you.	Мы вас отыщем.
+We'll find you.	Мы вас разыщем.
+We'll help you.	Мы тебе поможем.
+We'll help you.	Мы вам поможем.
+We'll kill you.	Мы тебя убьём.
+We've found it.	Мы её нашли.
+We've got this.	У нас это есть.
+We've got time.	У нас есть время.
+We've got time.	Время у нас есть.
+We've seen her.	Мы видели её.
+We've seen her.	Мы её видели.
+We've seen him.	Мы его видели.
+Well done, Tom.	Отличная работа, Том.
+Well, let's go.	Ладно, пошли.
+Well, let's go.	Ладно, пойдём.
+Where were you?	Где вы были?
+Where were you?	Где ты был?
+Where were you?	Где ты была?
+Where's Boston?	Где находится Бостон?
+Where's Dublin?	Где находится Дублин?
+Where's Tehran?	Где находится Тегеран?
+Where's my bag?	Где моя сумка?
+Where's my car?	Где мой автомобиль?
+Where's my car?	Где моя машина?
+Where's my cup?	Где моя чашка?
+Why can't I go?	Почему я не могу пойти?
+Why can't I go?	Почему мне нельзя пойти?
+Why can't I go?	Почему мне нельзя поехать?
+Why can't I go?	Почему я не могу поехать?
+Why did Tom go?	Зачем Том пошёл?
+Why did Tom go?	Зачем Том поехал?
+Why do you ask?	Почему ты спрашиваешь?
+Why do you ask?	Почему вы спрашиваете?
+Why do you lie?	Зачем ты врёшь?
+Why do you lie?	Зачем Вы лжёте?
+You killed Tom.	Вы убили Тома.
+You learn fast.	Ты быстро учишься.
+You learn fast.	Вы быстро учитесь.
+You lied to me.	Ты мне солгал.
+You lied to me.	Ты мне соврал.
+You lied to me.	Вы мне солгали.
+You lied to us.	Ты нам солгал!
+You lied to us.	Вы нам солгали!
+You look angry.	Ты выглядишь сердитым.
+You look awful.	Ты ужасно выглядишь.
+You smell nice.	От Вас приятно пахнет.
+You started it.	Ты это начал.
+You started it.	Вы это начали.
+You tricked me.	Ты меня обманул.
+You tricked me.	Вы меня обманули.
+You tricked me.	Ты меня надул.
+You tricked me.	Вы меня надули.
+You tricked us.	Ты нас надул.
+You tricked us.	Вы нас надули.
+You tricked us.	Ты нас обманул.
+You're awesome.	Ты нечто.
+You're awesome.	Вы нечто.
+You're careful.	Ты осторожна.
+You're careful.	Ты осторожен.
+You're careful.	Вы осторожны.
+You're complex.	С тобой сложно.
+You're finicky.	Ты придирчивый.
+You're finicky.	Вы придирчивы.
+You're hideous.	Ты омерзителен.
+You're immoral.	Ты аморальный.
+You're trapped.	Вы в ловушке.
+You're unlucky.	Тебе не везёт.
+You're unlucky.	Ты невезучий.
+You're unlucky.	Вы невезучий.
+You're unlucky.	Ты невезучая.
+You're unlucky.	Вы невезучая.
+You're unlucky.	Вы невезучие.
+You're unlucky.	Вам не везёт.
+You're unusual.	Ты необычный.
+You're unusual.	Ты необычная.
+Are you Chinese?	Вы китаец?
+Are you Chinese?	Вы китайцы?
+Are you Chinese?	Вы китаянка?
+Are you Chinese?	Ты китаянка?
+Are you Chinese?	Вы китаянки?
+Are you OK, Tom?	С тобой всё хорошо, Том?
+Are you OK, Tom?	С тобой всё в порядке, Том?
+Are you OK, Tom?	С тобой всё нормально, Том?
+Are you OK, Tom?	Том, ты в порядке?
+Are you a ghost?	Ты привидение?
+Are you unhappy?	Ты несчастна?
+Are you unhappy?	Ты несчастен?
+Are you unhappy?	Вы несчастны?
+Are you unlucky?	Ты невезучий?
+Are you wealthy?	Ты богат?
+Are you wealthy?	Вы богаты?
+Are you winning?	Ты выигрываешь?
+Are you winning?	Вы выигрываете?
+Are you with me?	Ты со мной?
+Are you with me?	Вы со мной?
+Buy Tom a drink.	Купи Тому напиток.
+Buy Tom a drink.	Купите Тому выпить.
+Buy Tom a drink.	Купите Тому напиток.
+Call me anytime.	Звони мне в любое время.
+Call me anytime.	Звоните мне в любое время.
+Call me anytime.	Звони в любое время.
+Call me anytime.	Звоните в любое время.
+Call me tonight.	Позвоните мне сегодня вечером.
+Call me tonight.	Позвоните мне вечером.
+Call me tonight.	Позвони мне вечером.
+Can you find it?	Вы можете найти её?
+Can you find it?	Ты можешь его найти?
+Can you find it?	Ты можешь её найти?
+Can you find it?	Вы можете её найти?
+Can you find it?	Можешь его найти?
+Can you find it?	Можешь её найти?
+Can you find it?	Можете его найти?
+Can you find it?	Можете её найти?
+Can you find it?	Вы можете его найти?
+Can you go, too?	Можешь тоже пойти?
+Come pick me up.	Заезжайте за мной.
+Come talk to me.	Приходи, поговорим.
+Come, sit by me.	Подойди, сядь рядом.
+Congratulations!	Мои поздравления.
+Congratulations!	Поздравляю!
+Congratulations!	Поздравляем!
+Could you do it?	Ты мог бы это сделать?
+Could you do it?	Ты могла бы это сделать?
+Could you do it?	Вы могли бы это сделать?
+Count to thirty.	Посчитай до тридцати.
+Did you love me?	Ты меня любил?
+Did you love me?	Ты меня любила?
+Did you love me?	Вы меня любили?
+Did you make it?	Ты это сделал?
+Did you miss me?	Ты скучал по мне?
+Did you miss me?	Ты обо мне скучал?
+Did you miss me?	Вы по мне скучали?
+Did you miss me?	Ты по мне скучал?
+Did you need me?	Я был вам нужен?
+Did you need me?	Я был тебе нужен?
+Do you know Tom?	Вы Тома знаете?
+Do you know Tom?	Вы знакомы с Томом?
+Do you know Tom?	Ты знаком с Томом?
+Do you know Tom?	Ты Тома знаешь?
+Do you know her?	Ты знаешь её?
+Do you know her?	Ты знаком с ней?
+Do you know her?	Ты её знаешь?
+Do you know her?	Вы с ней знакомы?
+Do you know her?	Вы её знаете?
+Do you know him?	Вы его знаете?
+Don't be stingy.	Не будьте скупыми.
+Don't be stingy.	Не будь скрягой.
+Don't be stupid.	Не будь дураком.
+Don't blame Tom.	Не обвиняй Тома.
+Don't blame Tom.	Не осуждай Тома.
+Don't blame Tom.	Не обвиняйте Тома.
+Don't blame Tom.	Не осуждайте Тома.
+Don't bother me.	Не беспокой меня.
+Don't bother me.	Не надоедай мне.
+Don't bother me.	Не мешай мне.
+Don't you agree?	Ты не согласна?
+Don't you agree?	Вы не согласны?
+Double the dose.	Удвой дозу.
+Double the dose.	Увеличь дозу в два раза.
+Double the dose.	Удвойте дозу.
+Double the dose.	Увеличьте дозу в два раза.
+Draw me a sheep.	Нарисуй мне барашка.
+Drink something.	Выпей чего-нибудь.
+Drink something.	Выпейте чего-нибудь.
+Drink your milk.	Пей своё молоко.
+Give me a hoist.	Подсадите меня.
+Give me a light.	Дай огоньку.
+Give me a spoon.	Дай мне ложку.
+Give me a spoon.	Дайте мне ложку.
+Give me a towel.	Дайте мне полотенце.
+Give me a towel.	Дай мне полотенце.
+Give me an hour.	Дай мне час.
+Give me my beer.	Отдайте мне моё пиво.
+Give me my beer.	Отдай мне моё пиво.
+Give me my cane.	Дай мне мою трость.
+He began to run.	Он побежал.
+He betrayed you.	Он тебя предал.
+He betrayed you.	Он Вас предал.
+He betrayed you.	Он вас предал.
+He bought a car.	Он купил машину.
+He bought a car.	Он купил автомобиль.
+He bought a hat.	Он купил шляпу.
+He came at dawn.	Он пришёл на рассвете.
+He came running.	Он прибежал.
+He can run fast.	Он может бежать быстро.
+He nodded to me.	Он кивнул мне.
+He plays soccer.	Он играет в футбол.
+He reads Arabic.	Он читает по-арабски.
+He said nothing.	Он ничего не сказал.
+He saved us all.	Он всех нас спас.
+He saw the girl.	Он видел девушку.
+He saw the girl.	Он увидел девушку.
+He seems honest.	Он кажется честным.
+He seems hungry.	Кажется, он хочет есть.
+He seems hungry.	Кажется, он голоден.
+Help us, please.	Помогите нам, пожалуйста.
+Help us, please.	Будь добр, помоги нам!
+Her face lit up.	Её лицо осветилось.
+Her father died.	Её отец умер.
+Her father died.	У неё умер отец.
+Her hair is dry.	У неё сухие волосы.
+Here I am again.	Это опять я.
+Here I am again.	Это снова я.
+Here is the map.	Вот карта.
+Here's the bill.	Вот счёт.
+How much was it?	Во сколько это обошлось?
+How nice of you!	Как мило с твоей стороны!
+How nice of you!	Как мило с вашей стороны!
+How old are you?	Сколько тебе лет?
+How old are you?	Сколько вам лет?
+How old are you?	Сколько Вам лет?
+How rich is Tom?	Насколько Том богат?
+How rude of you!	Как это грубо с твоей стороны!
+How small is it?	Насколько эта вещь маленькая?
+How small is it?	Насколько оно маленькое?
+I broke a glass.	Я разбил стакан.
+I broke a glass.	Я разбила стакан.
+I broke the cup.	Я разбил чашку.
+I broke the law.	Я нарушил закон.
+I brought a pie.	Я принёс пирог.
+I brought a pie.	Я принесла пирог.
+I called Tom up.	Я позвонил Тому.
+I called a taxi.	Я вызвал такси.
+I called a taxi.	Я вызвала такси.
+I called her up.	Я позвонил ей.
+I did it myself.	Я сам это сделал.
+I did it myself.	Я сделал это сам.
+I did it myself.	Я сделала это сама.
+I did it myself.	Я сама это сделала.
+I did that once.	Я сделал это один раз.
+I didn't eat it.	Я его не ел.
+I didn't eat it.	Я её не ел.
+I didn't forget.	Я не забыл.
+I didn't forget.	Я не забыла.
+I didn't listen.	Я не слушал.
+I forgot my bag.	Я сумку забыл.
+I forgot my key.	Я забыл свой ключ.
+I forgot my pen.	Я ручку забыл.
+I forgot to ask.	Я забыл спросить.
+I found my bike.	Я нашёл свой велосипед.
+I found my book.	Я нашёл свою книгу.
+I found my book.	Я нашла свою книгу.
+I gave Tom $300.	Я дал Тому триста долларов.
+I gave Tom that.	Я дал это Тому.
+I gave Tom that.	Я отдал это Тому.
+I have brothers.	У меня есть братья.
+I have children.	У меня есть дети.
+I have children.	У меня дети.
+I have dandruff.	У меня перхоть.
+I have diabetes.	У меня диабет.
+I have dry skin.	У меня сухая кожа.
+I have evidence.	У меня есть улики.
+I have finished.	Я закончил.
+I have freckles.	У меня есть веснушки.
+I have freckles.	У меня веснушки.
+I just moved in.	Я только въехал.
+I just told Tom.	Я только что сказал Тому.
+I just told him.	Я только что ему сказал.
+I keep sneezing.	Я всё чихаю.
+I kept climbing.	Я продолжал лезть наверх.
+I knew Tom well.	Я хорошо знал Тома.
+I knew Tom well.	Я хорошо знала Тома.
+I knew about it.	Я об этом знал.
+I knew all that.	Я всё это знал.
+I knew too much.	Я слишком много знал.
+I like this dog.	Мне нравится этот пёсик.
+I like this job.	Мне нравится эта работа.
+I like this job.	Я люблю эту работу.
+I like this one.	Мне нравится этот.
+I like this one.	Мне это нравится.
+I like this one.	Мне нравится это.
+I like this one.	Мне этот нравится.
+I like this one.	Мне эта нравится.
+I like this one.	Мне нравится эта.
+I like this tea.	Мне нравится этот чай.
+I met Tom there.	Я встретил там Тома.
+I met Tom today.	Я сегодня Тома встретил.
+I met her again.	Я опять её встретил.
+I misjudged you.	Я тебя недооценил.
+I misjudged you.	Я тебя недооценивал.
+I misjudged you.	Я вас недооценивал.
+I misjudged you.	Я вас недооценил.
+I miss all this.	Мне всего этого не хватает.
+I miss all this.	Я скучаю по всему этому.
+I miss the army.	Я скучаю по армии.
+I need to sleep.	Мне нужно поспать.
+I need to sleep.	Мне нужно спать.
+I need to study.	Мне нужно учиться.
+I need you here.	Ты нужен мне здесь.
+I need you here.	Вы нужны мне здесь.
+I need you here.	Ты нужна мне здесь.
+I need your car.	Мне нужен ваш автомобиль.
+I need your car.	Мне нужен твой автомобиль.
+I need your car.	Мне нужна твоя машина.
+I need your car.	Мне нужна ваша машина.
+I said I'd wait.	Я сказал, что буду ждать.
+I said I'd wait.	Я сказал, что подожду.
+I said get back!	Я сказал, вернись!
+I said get back!	Я сказала, вернись!
+I said get back!	Я сказал, вернитесь!
+I said get back!	Я сказала, вернитесь!
+I said sit down.	Я сказал, сядь.
+I said sit down.	Я сказал, сядьте.
+I said too much.	Я наговорил лишнего.
+I saw Tom again.	Я снова виделся с Томом.
+I supported him.	Я его поддерживал.
+I surprised Tom.	Я удивил Тома.
+I take vitamins.	Я принимаю витамины.
+I talked to Tom.	Я поговорил с Томом.
+I talked to Tom.	Я разговаривал с Томом.
+I talked to Tom.	Я говорил с Томом.
+I talked to her.	Я поговорил с ней.
+I talked to her.	Я с ней поговорил.
+I teach Chinese.	Я преподаю китайский.
+I teach English.	Я преподаю английский.
+I want to drive.	Я хочу сесть за руль.
+I want to fight.	Я хочу драться.
+I want to fight.	Я хочу сражаться.
+I want to learn.	Я хочу учиться.
+I want to leave.	Я хочу уйти.
+I want to relax.	Я хочу расслабиться.
+I want to sleep.	Хочу спать.
+I want to sleep.	Я спать хочу.
+I want to watch.	Я хочу посмотреть.
+I want you back.	Я хочу, чтобы ты вернулся.
+I was negligent.	Я была халатна.
+I was negligent.	Я был халатным.
+I was negligent.	Я была халатной.
+I was not drunk.	Я не был пьяный.
+I was not drunk.	Я не была пьяной.
+I was not drunk.	Я не была пьяна.
+I was not drunk.	Я не был пьян.
+I was on a bike.	Я был на велосипеде.
+I was on patrol.	Я был на страже.
+I was on patrol.	Я была на страже.
+I won the event.	Я победила в этом мероприятии.
+I won the prize.	Я выиграл приз.
+I won't be here.	Меня здесь не будет.
+I won't be late.	Я не опоздаю.
+I won't be long.	Я ненадолго.
+I won't be long.	Я скоро.
+I won't deny it.	Не буду этого отрицать.
+I won't do that.	Я не буду этого делать.
+I won't do that.	Я этого не сделаю.
+I won't drop it.	Я его не уроню.
+I'll come alone.	Я приду одна.
+I'll come alone.	Я приеду одна.
+I'll come alone.	Я приеду один.
+I'll come by 10.	Я приду к 10.
+I'll come by 10.	Я приду к десяти.
+I'll come early.	Я приду пораньше.
+I'll come later.	Я приду позже.
+I'll come later.	Я потом приду.
+I'll defend Tom.	Я защищу Тома.
+I'll destroy it.	Я разрушу это.
+I'm a bit drunk.	Я немного пьян.
+I'm a bit drunk.	Я немного пьяна.
+I'm a bit drunk.	Я слегка подшофе.
+I'm a bit drunk.	Я немного пьяный.
+I'm a bit drunk.	Я немного пьяная.
+I'm a bit tipsy.	Я немного пьян.
+I'm a bit tipsy.	Я слегка подшофе.
+I'm a bit tired.	Я немного устал.
+I'm a bit tired.	Я немного устала.
+I'm a bit tired.	Я подустал.
+I'm defenseless.	Я уязвим.
+I'm defenseless.	Я уязвима.
+I'm doing great.	У меня всё великолепно.
+I'm drunk again.	Я опять пьяный.
+I'm early again.	Я опять рано.
+I'm eating here.	Я ем здесь.
+I'm embarrassed.	Я смущён.
+I'm enjoying it.	Я наслаждаюсь этим.
+I'm experienced.	Я опытный.
+I'm experienced.	Я опытная.
+I'm not married.	Я не женат.
+I'm not nervous.	Я не нервничаю.
+I'm not patient.	Я не терпеливый.
+I'm not perfect.	Я не идеальна.
+I'm not selfish.	Я не эгоист.
+I'm not selfish.	Я не эгоистка.
+I'm not serious.	Я не серьёзно.
+I'm not so busy.	Я не так уж занят.
+I'm not so sure.	Я не совсем уверен.
+I'm not staying.	Я не останусь.
+I'm trying hard.	Я очень стараюсь.
+I'm twenty-five.	Мне двадцать пять.
+I'm unambitious.	Я не амбициозен.
+I'm unambitious.	Я не амбициозна.
+I'm very afraid.	Я очень боюсь.
+I'm very choosy.	Я очень разборчив.
+I'm very choosy.	Я очень разборчивый.
+I'm very hungry.	Я очень голоден.
+I'm very hungry.	Я очень голодный.
+I'm very hungry.	Я очень голодная.
+Is Tom that bad?	Том настолько плохой?
+Is Tom with you?	Том с тобой?
+Is Tom with you?	Том с вами?
+Is Tom your kid?	Том - твой ребёнок?
+Is Tom your kid?	Том - ваш ребёнок?
+Is Tom your son?	Том - ваш сын?
+Is anybody here?	Есть здесь кто-нибудь?
+Is anybody here?	Тут кто-нибудь есть?
+Is anybody home?	Кто-нибудь дома?
+Is anybody home?	Есть кто дома?
+Isn't it enough?	Разве этого не достаточно?
+Isn't that mine?	Это разве не моё?
+Isn't that ours?	Это разве не наше?
+Isn't that true?	Разве это не так?
+It can't be Tom.	Это не может быть Том.
+It could be Tom.	Это мог бы быть Том.
+It could be Tom.	Это мог быть Том.
+It could happen.	Это могло случиться.
+It doesn't help.	Это не помогает.
+It doesn't hurt.	Не болит.
+It'll take time.	Это займёт время.
+It's OK with me.	Я не против.
+It's OK with me.	Мне нормально.
+It's OK with me.	Я не против этого.
+It's Tom's duty.	Это обязанность Тома.
+It's Tom's idea.	Это идея Тома.
+It's a bad idea.	Это плохая идея.
+It's a bad idea.	Это плохая мысль.
+It's a bad omen.	Это дурной знак.
+It's a bad plan.	Это плохой план.
+It's not my day.	Сегодня не мой день.
+It's not my day.	Не мой сегодня день.
+It's not my job.	Это не моя работа.
+It's not normal.	Это не нормально.
+It's not secure.	Это небезопасно.
+It's not secure.	Это ненадёжно.
+It's not so bad.	Это не так уж плохо.
+It's not so far.	Это не так далеко.
+It's okay to go.	Это нормально пойти.
+It's okay to go.	Можно идти.
+Just wait there.	Просто ждите там.
+Just watch this.	Просто посмотри это.
+Keep Tom inside.	Не выпускай Тома.
+Keep Tom inside.	Не выпускайте Тома.
+Keep it in mind.	Имейте это в виду.
+Keep it in mind.	Имей это в виду.
+Keep me updated.	Держи меня в курсе.
+Keep me updated.	Держите меня в курсе.
+Keep on smiling.	Улыбайтесь.
+Keep on smiling.	Продолжайте улыбаться.
+Let's all smile.	Давайте все улыбнёмся.
+Let's be candid.	Будем откровенны.
+Let's be honest.	Будем честны.
+Let's be silent.	Давайте помолчим.
+Let's be silent.	Давай помолчим.
+Let's begin, OK?	Ну что, давайте начнём?
+Let's begin, OK?	Ну что, давай начнём?
+Let's calm down.	Давайте успокоимся.
+Let's celebrate.	Давайте отпразднуем.
+Let's celebrate.	Отпразднуем.
+Lock your doors.	Закрой двери.
+Lock your doors.	Закройте двери.
+Lock your doors.	Замкни двери.
+Lock your doors.	Замкните двери.
+Lock your doors.	Запри двери.
+Lock your doors.	Заприте двери.
+Look around you.	Посмотрите вокруг себя.
+Look around you.	Посмотри вокруг себя.
+Look around you.	Посмотри вокруг.
+Look around you.	Оглядись.
+My dog is white.	Моя собака белая.
+My dog ran away.	Моя собака сбежала.
+My dog ran away.	У меня собака сбежала.
+My eyes watered.	У меня слезились глаза.
+My father is in.	Мой отец дома.
+My father is in.	Отец дома.
+My father walks.	Мой отец идёт.
+My hair is long.	У меня длинные волосы.
+My hat blew off.	С меня слетела шляпа.
+My house is new.	Мой дом новый.
+Now stop crying.	А теперь прекрати плакать.
+Now stop crying.	Ну всё, хватит плакать.
+Now stop crying.	Ну всё, перестань плакать.
+Now stop crying.	Ну всё, перестаньте плакать.
+Now turn around.	Теперь повернись.
+Now turn around.	Теперь повернитесь.
+Now turn around.	Теперь развернись.
+Now turn around.	Теперь развернитесь.
+Now we know why.	Теперь мы знаем почему.
+Now you're safe.	Теперь ты в безопасности.
+Please stand up.	Пожалуйста, встаньте.
+Please stand up.	Встань, пожалуйста.
+Please tell Tom.	Пожалуйста, скажи Тому.
+Please tell Tom.	Пожалуйста, скажите Тому.
+Please trust me.	Пожалуйста, доверяй мне.
+Please, tell me.	Пожалуйста, скажите мне.
+Prices are high.	Цены высокие.
+Pull up a chair.	Поднимите кресло.
+Push the button.	Нажми на кнопку.
+Push the button.	Нажмите на кнопку.
+She pinched him.	Она его ущипнула.
+She scolded him.	Она отругала его.
+She scolded him.	Она его отругала.
+She scolded him.	Она его отчитала.
+She seems happy.	Она выглядит счастливой.
+She slapped him.	Она дала ему пощечину.
+She stabbed him.	Она его зарезала.
+She talks a lot.	Она много говорит.
+She tempted him.	Она соблазнила его.
+She tied him up.	Она связала его.
+Stay in the car.	Оставайся в машине!
+Stay in the car.	Сиди в машине!
+Steal the money.	Укради эти деньги.
+Steal the money.	Украдите эти деньги.
+Stop by anytime.	Заходи в любое время.
+Stop by anytime.	Заходите в любое время.
+Stop doing that.	Прекрати это делать!
+Stop hitting me.	Прекрати меня бить.
+Stop in anytime.	Заходи в любое время.
+Stop in anytime.	Заходите в любое время.
+That isn't fair.	Это нечестно.
+That isn't mine.	Это не моё.
+That isn't much.	Это не много.
+That isn't real.	Это не по-настоящему.
+That isn't true.	Это не соответствует действительности.
+That isn't true.	Это не правда.
+That man is Tom.	Тот человек - Том.
+That man is Tom.	Тот мужчина - Том.
+That might help.	Это могло бы помочь.
+That one's good.	Тот хороший.
+That's too much.	Это уже слишком.
+That's unlikely.	Это маловероятно.
+That's very odd.	Это очень странно.
+That's your job.	Это твоя работа.
+That's your job.	Это ваша работа.
+The air is damp.	В воздухе сыро.
+The air is damp.	Воздух влажный.
+The answer's no.	Ответ - "нет".
+The baby's fine.	С ребёнком всё хорошо.
+The bag is full.	Сумка полная.
+These are great.	Эти отличные.
+These are heavy.	Эти тяжелы.
+These are heavy.	Эти тяжёлые.
+These are yours.	Эти твои.
+These are yours.	Эти ваши.
+They all did it.	Они все это сделали.
+They all hugged.	Они все обнялись.
+They all smiled.	Они все улыбнулись.
+They all smiled.	Они все заулыбались.
+They angered me.	Они меня разозлили.
+They went there.	Они туда поехали.
+They were angry.	Они были сердиты.
+They were dirty.	Они были грязные.
+They were drunk.	Они были пьяные.
+They were drunk.	Они были пьяны.
+They were dying.	Они умирали.
+They were lucky.	Им повезло.
+They were lucky.	Им везло.
+They were naive.	Они были наивны.
+They were ready.	Они были готовы.
+This dog is big.	Эта собака большая.
+This is a dream.	Это сон.
+This is a farce.	Это фарс.
+This is a farce.	Это фарш.
+This is a horse.	Это конь.
+This is a horse.	Это лошадь.
+This is a hotel.	Это отель.
+This is a hotel.	Это гостиница.
+This is a knife.	Это нож.
+This is a peach.	Это персик.
+Throw it to Tom.	Бросьте её Тому.
+Throw it to Tom.	Брось это Тому.
+Throw it to Tom.	Бросьте это Тому.
+Throw them away.	Выброси их.
+Throw them away.	Выбросите их.
+Time for dinner.	Пора ужинать.
+Time is limited.	Время ограничено.
+Times were hard.	Времена были тяжёлые.
+Times were hard.	Времена были суровые.
+Times were hard.	Времена были трудные.
+Tom cried again.	Том опять плакал.
+Tom cries a lot.	Том часто плачет.
+Tom cut himself.	Том порезался.
+Tom cut his leg.	Том порезал ногу.
+Tom cut my hair.	Том меня постриг.
+Tom dances well.	Том хорошо танцует.
+Tom deceived me.	Том меня обманул.
+Tom denied that.	Том отрицал это.
+Tom denied this.	Том это отрицал.
+Tom deserved it.	Том это заслужил.
+Tom had a knife.	У Тома был нож.
+Tom had an idea.	У Тома была идея.
+Tom had no food.	У Тома не было еды.
+Tom had no sons.	У Тома не было сыновей.
+Tom had nothing.	У Тома ничего не было.
+Tom had to stop.	Тому пришлось остановиться.
+Tom had to wait.	Тому пришлось подождать.
+Tom had to wait.	Тому пришлось ждать.
+Tom has a beard.	У Тома борода.
+Tom has a beard.	Том носит бороду.
+Tom is a wizard.	Том - волшебник.
+Tom is a wizard.	Том - колдун.
+Tom is a writer.	Том писатель.
+Tom is a zombie.	Том - зомби.
+Tom is agnostic.	Том - агностик.
+Tom is all ears.	Том весь обратился в слух.
+Tom is an actor.	Том - актёр.
+Tom is an adult.	Том взрослый.
+Tom is an angel.	Том - ангел.
+Tom is an idiot.	Том идиот.
+Tom is reliable.	Том надёжный.
+Tom is retiring.	Том выходит в отставку.
+Tom is retiring.	Том уходит на пенсию.
+Tom is romantic.	Том романтик.
+Tom is safe now.	Сейчас Том в безопасности.
+Tom is shopping.	Том делает покупки.
+Tom is shopping.	Том закупается.
+Tom is shopping.	Том ходит по магазинам.
+Tom is sleeping.	Том спит.
+Tom is sneezing.	Том чихает.
+Tom knew no one.	Том не знал никого.
+Tom knew no one.	Том ни с кем знаком не был.
+Tom knows wines.	Том разбирается в винах.
+Tom knows wines.	Том знает толк в винах.
+Tom leaned back.	Том откинулся назад.
+Tom left Boston.	Том уехал из Бостона.
+Tom left Boston.	Том покинул Бостон.
+Tom left a note.	Том оставил записку.
+Tom let Mary go.	Том позволил Мэри пойти.
+Tom let Mary go.	Том отпустил Мэри.
+Tom needs to go.	Тому нужно ехать.
+Tom needs to go.	Тому нужно поехать.
+Tom needs water.	Тому нужна вода.
+Tom never asked.	Том никогда не спрашивал.
+Tom never comes.	Том никогда не приходит.
+Tom never cooks.	Том никогда не готовит.
+Tom never cried.	Том никогда не плакал.
+Tom never falls.	Том никогда не падает.
+Tom never jokes.	Том никогда не шутит.
+Tom never reads.	Том никогда не читает.
+Tom talks funny.	Том смешно говорит.
+Tom teased Mary.	Том дразнил Мэри.
+Tom texted Mary.	Том отправил Мэри сообщение.
+Tom told a joke.	Том рассказал шутку.
+Tom told a joke.	Том рассказал анекдот.
+Tom told us why.	Том объяснил нам причину.
+Tom told us why.	Том сказал нам почему.
+Tom took a bath.	Том принял ванну.
+Tom took a bite.	Том откусил кусочек.
+Tom took a seat.	Том сел.
+Tom was smiling.	Том улыбался.
+Tom was smoking.	Том курил.
+Tom was so busy.	Том был так занят.
+Tom was so calm.	Том был так спокоен.
+Tom was so sick.	Том был так болен.
+Tom was special.	Том был особенным.
+Tom was special.	Том был особенный.
+Tom was spoiled.	Том был избалован.
+Tom was spot on.	Том попал в самую точку.
+Tom was stabbed.	Тома ударили ножом.
+Tom's screaming.	Том кричит.
+Tom's suffering.	Том страдает.
+Tom's surprised.	Том удивлён.
+Tom's thirtyish.	Тому под тридцать.
+Tom's thirtyish.	Тому около тридцати.
+Tom's thirtyish.	Тому лет тридцать.
+Tom's turn came.	Пришла очередь Тома.
+Tom's very lazy.	Том очень ленивый.
+Tom's very nice.	Том очень милый.
+Tom's very nice.	Том очень славный.
+Watch your head.	Осторожно, головой не ударься!
+Watch your head.	Осторожно, головой не ударьтесь!
+Watch your step.	Смотри под ноги.
+Watch your step.	Смотрите под ноги.
+Watch your toes.	Смотри не урони на ноги.
+We all had hope.	У нас у всех была надежда.
+We all hate Tom.	Мы все ненавидим Тома.
+We all hate you.	Мы все тебя ненавидим.
+We all hate you.	Мы все вас ненавидим.
+We all have fun.	Нам всем весело.
+We fell in love.	Мы влюбились друг в друга.
+We felt at home.	Мы чувствовали себя как дома.
+We followed Tom.	Мы следовали за Томом.
+We followed Tom.	Мы пошли за Томом.
+We followed Tom.	Мы последовали за Томом.
+We followed you.	Мы пошли за тобой.
+We followed you.	Мы пошли за вами.
+We followed you.	Мы последовали за тобой.
+We followed you.	Мы последовали за вами.
+We got the news.	Мы получили новость.
+We want justice.	Мы хотим справедливости.
+We want respect.	Мы хотим уважения.
+We want revenge.	Мы хотим мести.
+We want to help.	Мы хотим помочь.
+We want to know.	Мы хотим знать.
+We want to talk.	Мы хотим поговорить.
+We want to vote.	Мы хотим голосовать.
+We want to vote.	Мы хотим проголосовать.
+We want to work.	Мы хотим работать.
+We went dancing.	Мы пошли танцевать.
+We're back home.	Мы вернулись домой.
+We're both fine.	Мы оба в порядке.
+We're both fine.	Мы обе в порядке.
+We're both rich.	Мы оба богаты.
+We're both rich.	Мы обе богаты.
+We're busy, Tom.	Том, мы заняты.
+We're busy, Tom.	Мы заняты, Том.
+We're comedians.	Мы комики.
+We're coming in.	Мы входим.
+We're coming in.	Мы заходим.
+What a cute cat!	Какой милый кот!
+What a headache!	Какая головная боль!
+What a headache!	Что за головная боль!
+What a huge dog!	Какая огромная собака!
+What a nice man!	Какой хороший человек!
+What a rude man!	Какой грубиян!
+What a surprise!	Какой сюрприз!
+What a surprise!	Вот это сюрприз!
+What a treasure!	Какое сокровище!
+What am I doing?	Что я делаю?
+When did you go?	Когда ты ушёл?
+When did you go?	Когда ты ушла?
+When do you run?	Когда вы бежите?
+When do you run?	Когда ты бежишь?
+When will we go?	Когда мы пойдём?
+When will we go?	Когда мы поедем?
+Where can I eat?	Где можно поесть?
+Where can I eat?	Где я могу поесть?
+Where can I sit?	Где я могу сесть?
+Where can I sit?	Где мне можно сесть?
+Who do you love?	Кого ты любишь?
+Who do you mean?	Кого вы имеете в виду?
+Who do you mean?	Кого ты имеешь в виду?
+Who elected you?	Кто тебя выбрал?
+Who elected you?	Кто вас выбрал?
+Who fired first?	Кто начал огонь?
+Who fired first?	Кто начал стрельбу?
+Who got married?	Кто женился?
+Who has the gun?	У кого ружьё?
+Who invited you?	Кто вас пригласил?
+Why is she here?	Зачем она здесь?
+Why is she here?	Почему она здесь?
+Why not ask Tom?	Почему бы не спросить у Тома?
+Why not ask Tom?	Почему бы не попросить Тома?
+Why should I go?	Почему я должен идти?
+Why was I fired?	Почему меня уволили?
+Why was I fired?	За что меня уволили?
+Why was it done?	Зачем это было сделано?
+Why would I lie?	С чего бы мне врать?
+Will he recover?	Он поправится?
+You can go back.	Можете вернуться.
+You can go home.	Ты можешь идти домой.
+You can go home.	Вы можете идти домой.
+You can go home.	Можете идти домой.
+You can go home.	Можешь идти домой.
+You can have it.	Можешь взять.
+You can have it.	Можете взять.
+You can have it.	Можешь съесть.
+You can have it.	Можете съесть.
+You can help me.	Ты можешь мне помочь.
+You look sleepy.	У вас сонный вид.
+You look stupid.	Ты похож на идиота.
+You look stupid.	Ты похожа на идиотку.
+You look stupid.	Вы похожи на идиотов.
+You look stupid.	У тебя дурацкий вид.
+You made my day.	Ты сделал мой день.
+You may eat now.	Теперь можете поесть.
+You may eat now.	Теперь можешь поесть.
+You may go home.	Можете идти домой.
+You may go home.	Можешь идти домой.
+You'll die soon.	Ты скоро умрёшь.
+You'll die soon.	Вы скоро умрёте.
+You'll find out.	Ты узнаешь.
+You'll find out.	Вы узнаете.
+You'll get lost.	Ты потеряешься.
+You'll get lost.	Ты заблудишься.
+You'll like Tom.	Тебе Том понравится.
+You'll like Tom.	Вам понравится Том.
+You'll like Tom.	Том тебе понравится.
+You'll like Tom.	Том вам понравится.
+You're free now.	Теперь ты свободен.
+You're free now.	Теперь ты свободна.
+You're free now.	Теперь вы свободны.
+You're generous.	Ты щедрый.
+You're generous.	Ты великодушен.
+You're generous.	Ты щедра.
+You're generous.	Ты щедр.
+You're generous.	Ты великодушна.
+You're generous.	Вы щедры.
+You're generous.	Вы великодушны.
+You're so lucky.	Вам так везёт.
+You're so naive.	Ты такой наивный.
+You're so naive.	Ты такая наивная.
+You're so naive.	Вы такие наивные.
+You're so naive.	Вы такой наивный.
+You're so naive.	Вы такая наивная.
+You're so picky.	Вы такой привередливый!
+You're so picky.	Ты такой привередливый!
+You're so picky.	Вы такие привередливые!
+You're so picky.	Вы такой разборчивый!
+You've found it.	Ты её нашла.
+You've gone mad.	Вы спятили.
+You've gone mad.	Вы с ума сошли.
+You've got mail.	Тебе письмо.
+You've got mail.	Вам письмо.
+You've got time.	Время у тебя есть.
+You've got time.	Время у вас есть.
+You've grown up.	Вы выросли.
+You've grown up.	Ты вырос.
+Your bag's open.	У Вас сумка открыта!
+Are you Canadian?	Вы канадки?
+Are you Catholic?	Вы католик?
+Are you Catholic?	Ты католик?
+Are you Catholic?	Ты католичка?
+Are you Catholic?	Вы католичка?
+Are you Catholic?	Вы католики?
+Are you Japanese?	Вы японец?
+Are you Japanese?	Ты японец?
+Are you Japanese?	Вы японцы?
+Are you Japanese?	Ты японка?
+Are you teachers?	Вы учителя?
+Are you the boss?	Ты начальник?
+Are you the boss?	Ты тут главный?
+Are you two busy?	Вы двое заняты?
+Are you with Tom?	Ты с Томом?
+Are you with Tom?	Вы с Томом?
+Aren't you a cop?	Ты разве не полицейский?
+Aren't you a cop?	Вы разве не полицейский?
+Aren't you alone?	Ты не один?
+Aren't you alone?	Вы не один?
+Can I go outside?	Можно мне пойти на улицу?
+Can I have a job?	Могу я поработать?
+Can I have a job?	Могу я получить работу?
+Can I have three?	Можно мне три?
+Can I rest a bit?	Можно мне немного отдохнуть?
+Can I sleep here?	Можно мне спать здесь?
+Can I sleep here?	Могу я спать здесь?
+Can I study here?	Я могу здесь учиться?
+Can I trust them?	Я могу им доверять?
+Can Tom go first?	Том может пойти первым?
+Can't you decide?	Ты не можешь решить?
+Can't you decide?	Вы не можете решить?
+Can't you decide?	Ты не можешь принять решение?
+Can't you decide?	Вы не можете принять решение?
+Can't you decide?	Ты не можешь выбрать?
+Can't you decide?	Вы не можете выбрать?
+Check your inbox.	Проверь свои входящие.
+Check your inbox.	Проверьте ваши входящие.
+Cherries are red.	Вишни красные.
+Choose carefully.	Выбирайте тщательно.
+Did Tom find you?	Том нашёл тебя?
+Did Tom find you?	Том вас нашёл?
+Did Tom get away?	Том удрал?
+Did Tom get hurt?	Том пострадал?
+Did Tom go alone?	Том один пошёл?
+Did Tom go alone?	Том пошёл один?
+Did Tom go alone?	Том один поехал?
+Did Tom go alone?	Том поехал один?
+Did Tom hit Mary?	Том ударил Мэри?
+Did Tom hurt you?	Том обидел тебя?
+Did you know him?	Вы его знали?
+Did you know him?	Вы были с ним знакомы?
+Did you know him?	Ты был с ним знаком?
+Did you like Tom?	Тебе понравился Том?
+Did you like Tom?	Вам понравился Том?
+Did you love Tom?	Ты любила Тома?
+Did you love Tom?	Вы любили Тома?
+Did you meet Tom?	Вы встречались с Томом?
+Did you meet Tom?	Ты встречался с Томом?
+Did you meet her?	Ты встретил её?
+Do you ever rest?	Вы вообще отдыхаете?
+Do you ever rest?	Ты когда-нибудь отдыхаешь?
+Do you ever rest?	Вы когда-нибудь отдыхаете?
+Do you feel sick?	Ты плохо себя чувствуешь?
+Do you feel sick?	Вы плохо себя чувствуете?
+Do you feel sick?	Тебе плохо?
+Do you feel sick?	Вам плохо?
+Do you feel well?	Ты хорошо себя чувствуешь?
+Do you feel well?	Вы хорошо себя чувствуете?
+Do you have a TV?	У тебя есть телевизор?
+Do you want fish?	Хочешь рыбу?
+Do you want fish?	Хотите рыбу?
+Do you want help?	Помощь нужна?
+Do you want kids?	Ты хочешь детей?
+Do you want kids?	Вы хотите детей?
+Do you want more?	Ты хочешь ещё?
+Do you want more?	Вы хотите ещё?
+Do you want more?	Хотите ещё?
+Do you want more?	Хочешь ещё?
+Do you want some?	Хочешь немного?
+Don't get killed.	Береги свою жизнь.
+Don't go so fast!	Не иди так быстро!
+Don't go so fast!	Не идите так быстро!
+Don't have a cow.	Не злись.
+Don't have a cow.	Не кипятись.
+Don't have a cow.	Не очкуй.
+Don't insult Tom.	Не оскорбляй Тома.
+Don't insult Tom.	Не оскорбляйте Тома.
+Don't kid around.	Не дурачься.
+Don't kid around.	Не шути.
+Drink this juice.	Выпей этот сок.
+Drink this juice.	Выпейте этот сок.
+Drive cautiously.	Води машину осторожно.
+Drive cautiously.	Ведите машину осторожно.
+Drive cautiously.	Едь осторожно.
+Drive cautiously.	Веди машину осторожно.
+Drive cautiously.	Едьте осторожно.
+Drive cautiously.	Водите машину осторожно.
+Drive cautiously.	Езди осторожно.
+Drive cautiously.	Ездите осторожно.
+Get Tom's advice.	Прислушайтесь к совету Тома.
+Get away from me.	Уйди от меня!
+Get away from me.	Уйдите от меня.
+Get back to work!	Возвращайся к работе!
+Get back to work!	Возвращайтесь к работе!
+Get in the truck.	Садись в грузовик.
+Get in the truck.	Залезай в грузовик.
+Get into the car.	Садитесь в машину.
+Get me some wine.	Дайте мне вина.
+Get me some wine.	Дай мне вина.
+Give that to Tom.	Дайте это Тому.
+Give that to Tom.	Отдай это Тому.
+Give that to him.	Дай это ему.
+Give that to him.	Дайте это ему.
+Give them to her.	Дай их ей.
+Give them to her.	Дайте их ей.
+Give them to him.	Дай их ему.
+Give them to him.	Дайте их ему.
+Give this to Tom.	Дай это Тому.
+Give this to Tom.	Дайте это Тому.
+He ate all of it.	Он всё это съел.
+He baked muffins.	Он испёк кексы.
+He became famous.	Он прославился.
+He began running.	Он побежал.
+He began singing.	Он запел.
+He began singing.	Он начал петь.
+He began to sing.	Он запел.
+He began to sing.	Он начал петь.
+He behaved badly.	Он плохо вёл себя.
+He broke the law.	Он нарушил закон.
+He is past forty.	Ему за сорок.
+He is still here.	Он ещё здесь.
+He is still here.	Он всё ещё здесь.
+He is unsociable.	Он нелюдим.
+He is unsociable.	Он необщителен.
+He is very angry.	Он очень разозлён.
+He is very brave.	Он очень храбрый.
+He is very brave.	Он очень смелый.
+He is very young.	Он очень молод.
+He isn't at home.	Его нет дома.
+He was tenacious.	Он был упрямый.
+He was tenacious.	Он был упрямым.
+He was tenacious.	Он был настойчив.
+He was tired out.	Он был измотан.
+He was very poor.	Он был очень беден.
+He wears pajamas.	Он носит пижаму.
+He wears pajamas.	Он ходит в пижаме.
+He went bankrupt.	Он обанкротился.
+He went shopping.	Он пошёл по магазинам.
+He will be ready.	Он будет готов.
+Here's my ticket.	Вот мой билет.
+Here's my wallet.	Вот мой кошелёк.
+Here's my wallet.	Вот мой бумажник.
+Here's your beer.	Вот ваше пиво.
+Here's your beer.	Вот твоё пиво.
+Here's your desk.	Вот Ваш письменный стол.
+Here's your desk.	Вот твой письменный стол.
+Here's your milk.	Вот твоё молоко.
+Here's your milk.	Вот ваше молоко.
+Here, drink this.	Вот, выпей это.
+How lucky we are!	Как нам везёт!
+How melodramatic!	Какая мелодрама!
+How melodramatic!	Как мелодраматично!
+How much is this?	Сколько это стоит?
+How safe is that?	Насколько это безопасно?
+How strong he is!	Какой он сильный!
+How stupid he is!	Как он глуп!
+How stupid he is!	Какой же он тупой!
+How stupid of me!	Как глупо с моей стороны!
+How tall are you?	Какой у тебя рост?
+I am not kidding.	Я не шучу.
+I am not married.	Я не замужем.
+I am not married.	Я не женат.
+I am not thirsty.	У меня нет жажды.
+I am not thirsty.	Мне не хочется пить.
+I am now on duty.	Я сейчас на службе.
+I am on duty now.	Я сейчас на дежурстве.
+I am on duty now.	Я сейчас на службе.
+I am only joking.	Я просто шучу.
+I am only joking.	Я только шучу.
+I can't die here.	Я не могу умереть здесь.
+I can't eat meat.	Я не могу есть мясо.
+I can't eat meat.	Мне нельзя мясо.
+I can't eat pork.	Я не могу есть свинину.
+I can't eat pork.	Мне нельзя свинину.
+I can't eat that.	Мне это нельзя.
+I can't eat that.	Я не могу это есть.
+I can't eat this.	Мне это нельзя.
+I can't eat this.	Я не могу это есть.
+I can't find Tom.	Не могу найти Тома.
+I could kill you.	Я могла тебя убить.
+I could kill you.	Я могла вас убить.
+I could kill you.	Я мог вас убить.
+I could kill you.	Я мог бы вас убить.
+I could kill you.	Я мог бы тебя убить.
+I could kill you.	Я могла бы тебя убить.
+I could kill you.	Я могла бы вас убить.
+I could kill you.	Я могла убить тебя.
+I could kill you.	Я мог убить тебя.
+I could kill you.	Я мог убить вас.
+I do what I want.	Я делаю то, что хочу.
+I don't allow it.	Я этого не позволяю.
+I don't care why.	Мне неважно почему.
+I don't care, OK?	Мне всё равно, ясно?
+I don't eat beef.	Я не ем говядину.
+I don't eat fish.	Я рыбу не ем.
+I don't eat meat.	Я не ем мяса.
+I don't eat meat.	Я не ем мясо.
+I don't eat much.	Я много не ем.
+I don't eat pork.	Я не ем свинину.
+I feel so lonely.	Я чувствую себя так одиноко.
+I feel so lonely.	Я чувствую себя таким одиноким.
+I feel so lonely.	Я чувствую себя такой одинокой.
+I feel so lonely.	Я чувствую себя очень одиноко.
+I feel so pretty.	Я ощущаю себя такой красивой!
+I feel so stupid.	Я чувствую себя так глупо.
+I feel something.	Я что-то чувствую.
+I feel very cold.	Мне очень холодно.
+I feel very good.	Я чувствую себя превосходно.
+I feel very good.	Я очень хорошо себя чувствую.
+I hate chemistry.	Терпеть не могу химию.
+I hate computers.	Ненавижу компьютеры.
+I hate elevators.	Я ненавижу лифты.
+I hate fireworks.	Ненавижу фейерверки.
+I hate hypocrisy.	Ненавижу лицемерие.
+I hate hypocrisy.	Я ненавижу лицемерие.
+I hate my family.	Я ненавижу свою семью.
+I hate my sister.	Я ненавижу сестру.
+I hate my sister.	Я ненавижу свою сестру.
+I hate paperwork.	Ненавижу бумажную работу.
+I hit on an idea.	Мне пришла в голову одна идея.
+I hit on an idea.	Мне пришла в голову одна мысль.
+I hit the target.	Я попал в цель.
+I hope I succeed.	Я надеюсь, что у меня получится.
+I hope I succeed.	Надеюсь, у меня получится.
+I hope I'm wrong.	Надеюсь, что я ошибаюсь.
+I hope Tom comes.	Надеюсь, Том придёт.
+I hope Tom is OK.	Надеюсь, у Тома всё в порядке.
+I hope Tom is OK.	Надеюсь, Том в порядке.
+I hope Tom knows.	Надеюсь, Том знает.
+I know your name.	Я знаю твоё имя.
+I know your name.	Я знаю ваше имя.
+I know your name.	Я знаю, как Вас зовут.
+I know your name.	Я знаю, как тебя зовут.
+I know your type.	Знаю я таких, как ты.
+I know your type.	Я знаю вашего брата.
+I know your type.	Знаю я вашего брата.
+I know your type.	Знаю я вашу сестру.
+I lay on my face.	Я лежал на животе.
+I leaned forward.	Я наклонился вперёд.
+I live on a boat.	Я живу на лодке.
+I live on a farm.	Я живу на ферме.
+I look after Tom.	Я присматриваю за Томом.
+I looked for Tom.	Я искал Тома.
+I looked outside.	Я посмотрел на улицу.
+I looked outside.	Я посмотрела на улицу.
+I lost 30 pounds.	Я похудел на тридцать фунтов.
+I lost 30 pounds.	Я похудел на тринадцать с половиной килограмм.
+I lost 30 pounds.	Я сбросил тридцать фунтов.
+I lost 30 pounds.	Я сбросил тринадцать с половиной килограмм.
+I might be wrong.	Возможно, я ошибаюсь.
+I might be wrong.	Я могу быть неправ.
+I might be wrong.	Я могу заблуждаться.
+I might be wrong.	Я могу ошибиться.
+I might be wrong.	Я могу ошибаться.
+I might get lost.	Я могу заблудиться.
+I might get lost.	Я мог заблудиться.
+I milked the cow.	Я подоил корову.
+I milked the cow.	Я подоила корову.
+I miss Tom a lot.	Я очень скучаю по Тому.
+I need your help.	Мне нужна ваша помощь.
+I needed surgery.	Мне нужна была операция.
+I needed surgery.	Мне потребовалась операция.
+I never did that.	Я никогда этого не делал.
+I never did that.	Я ни разу этого не делал.
+I never eat meat.	Я вообще не ем мяса.
+I never knew Tom.	Я никогда не был знаком с Томом.
+I never liked it.	Мне это никогда не нравилось.
+I never liked it.	Мне оно никогда не нравилось.
+I never was rich.	Я никогда не был богат.
+I saw everything.	Я всё видел.
+I saw everything.	Я всё видела.
+I saw everything.	Я видел всё.
+I saw everything.	Я видела всё.
+I saw him go out.	Я видел, как он выходил.
+I saw the doctor.	Я видел врача.
+I saw the doctor.	Я был у врача.
+I saw you crying.	Я видел тебя плачущей.
+I saw you crying.	Я видел, как ты плачешь.
+I saw you crying.	Я видел, как ты плакала.
+I took the blame.	Я взял вину на себя.
+I took the money.	Я взял деньги.
+I took the photo.	Я сделал фотографию.
+I took the train.	Я сел в поезд.
+I took the train.	Я поехал на поезде.
+I totally forgot.	Я абсолютно забыл.
+I totally forgot.	Я абсолютно забыла.
+I totally forgot.	Я совершенно забыл.
+I totally forgot.	Я совершенно забыла.
+I totally forgot.	Я совсем забыл.
+I was a reporter.	Я был журналистом.
+I was a rich man.	Я был богачом.
+I was a rich man.	Я была богачкой.
+I was a rich man.	Я был богатым человеком.
+I was a stranger.	Я был чужаком.
+I was bewildered.	Я был растерян.
+I was bewildered.	Я был сбит с толку.
+I was born blind.	Я родился слепым.
+I was born there.	Я родился там.
+I was born there.	Я там родился.
+I was very upset.	Я был очень расстроен.
+I was very upset.	Я была очень расстроена.
+I was young once.	Я был когда-то молод.
+I washed my feet.	Я вымыл ноги.
+I washed my feet.	Я вымыла ноги.
+I washed the car.	Я помыл машину.
+I washed the car.	Я мыла машину.
+I washed the car.	Я мыл машину.
+I washed the car.	Я помыла машину.
+I wasn't careful.	Я не был осторожен.
+I work part-time.	Я работаю неполный день.
+I work very hard.	Я очень много работаю.
+I worked for Tom.	Я работал на Тома.
+I wouldn't do it.	Я бы не стал этого делать.
+I wrote a letter.	Я написал письмо.
+I wrote a letter.	Я написала письмо.
+I wrote the book.	Я написал книгу.
+I wrote the note.	Я писал заметку.
+I wrote the note.	Я писала заметку.
+I wrote the note.	Я написал заметку.
+I'll need a loan.	Мне понадобится ссуда.
+I'll need a loan.	Мне понадобится заём.
+I'll never learn.	Я никогда не буду учиться.
+I'll never learn.	Я никогда не научусь.
+I'll never learn.	Я никогда не выучу.
+I'll never leave.	Я никогда не уйду.
+I'll never leave.	Я никогда не уеду.
+I'll pack my bag.	Я соберу сумку.
+I'll pay for you.	Я за тебя заплачу.
+I'll pay for you.	Я за вас заплачу.
+I'm always ready.	Я всегда готова.
+I'm ambidextrous.	Я амбидекстр.
+I'm ambidextrous.	Я владею одинаково хорошо обеими руками.
+I'm an FBI agent.	Я агент ФБР.
+I'm an adult now.	Я уже взрослый.
+I'm an adult now.	Я уже взрослая.
+I'm an adult now.	Я теперь взрослый.
+I'm an adult now.	Я теперь взрослая.
+I'm an alcoholic.	Я алкоголик.
+I'm an assistant.	Я ассистент.
+I'm in my office.	Я у себя в офисе.
+I'm in the attic.	Я на чердаке.
+I'm in the house.	Я в доме.
+I'm inviting you.	Я тебя приглашаю.
+I'm inviting you.	Я вас приглашаю.
+I'm just a child.	Я всего лишь ребёнок.
+I'm just curious.	Мне просто интересно.
+I'm just curious.	Мне просто любопытно.
+I'm just kidding.	Я просто шучу.
+I'm just kidding.	Я же шучу.
+I'm playing golf.	Я играю в гольф.
+I'm pretty angry.	Я зол не на шутку.
+I'm pretty angry.	Я зла не на шутку.
+I'm pretty happy.	Я вполне счастлив.
+I'm pretty happy.	Я вполне счастлива.
+I'm pretty smart.	Я довольно умен.
+I'm proud of Tom.	Я горжусь Томом.
+I'm proud of you.	Я тобой горжусь.
+I'm proud of you.	Я вами горжусь.
+I'm proud of you.	Я горжусь тобой.
+I've been bitten.	Меня укусили.
+I've been robbed.	Меня ограбили.
+I've been warned.	Меня предупреждали.
+I've done my job.	Я свою работу сделал.
+I've drawn a map.	Я нарисовал карту.
+I've felt better.	Я почувствовал себя лучше.
+I've found a job.	Я нашёл работу.
+I've got a fever.	У меня температура.
+I've got a hunch.	У меня есть предчувствие.
+I've got a knife.	У меня есть нож.
+Is she that good?	Она так хороша?
+Is somebody here?	Здесь кто-нибудь есть?
+Is that a castle?	Это за́мок?
+Is that a pencil?	Это карандаш?
+Is that a riddle?	Это загадка?
+Is that a secret?	Это секрет?
+Is that a secret?	Это тайна?
+Is that a spider?	Это паук?
+Is that a threat?	Это угроза?
+Is that an order?	Это приказ?
+Isn't it obvious?	Разве это не очевидно?
+Isn't it obvious?	Это не очевидно?
+Isn't it strange?	Разве это не странно?
+Isn't that great?	Разве не замечательно?
+Isn't that great?	Разве не здорово?
+Isn't that risky?	Разве это не рискованно?
+Isn't that weird?	Разве это не странно?
+Isn't this great?	Разве не здорово?
+It almost worked.	Это почти сработало.
+It almost worked.	Почти получилось.
+It needs washing.	Её надо постирать.
+It needs washing.	Её надо помыть.
+It needs washing.	Его надо помыть.
+It needs washing.	Его надо вымыть.
+It needs washing.	Её надо вымыть.
+It seemed normal.	Это казалось нормальным.
+It seems logical.	Это кажется логичным.
+It seems obvious.	Это кажется очевидным.
+It seems strange.	Это кажется странным.
+It seems to work.	Вроде работает.
+It's a good deal.	Это хорошая сделка.
+It's a good plan.	Это хороший план.
+It's a good rule.	Это хорошее правило.
+It's a good sign.	Это хороший знак.
+It's a huge loss.	Это огромная утрата.
+It's a huge loss.	Это огромная потеря.
+It's a jellyfish.	Это медуза.
+It's a mad world.	Это безумный мир.
+It's a metal box.	Это металлический ящик.
+It's a nice town.	Славный городок.
+It's my turn now.	Теперь моя очередь.
+It's my umbrella.	Это мой зонт.
+It's nearly 2:30.	Сейчас около половины третьего.
+It's nearly dark.	Почти темно.
+It's nearly dawn.	Уже почти рассвело.
+It's nine-thirty.	Полдесятого.
+It's nine-thirty.	Сейчас полдесятого.
+It's nine-thirty.	Половина десятого.
+It's not a bribe.	Это не взятка.
+It's not a crime.	Это не преступление.
+Its color is red.	Цвет у неё красный.
+Its color is red.	Цвет у него красный.
+Japan is in Asia.	Япония находится в Азии.
+John lit a match.	Джон зажёг спичку.
+Just a moment ...	Секунду...
+Just a moment ...	Момент...
+Just a moment ...	Минуточку ...
+Just be yourself.	Просто будь собой.
+Just be yourself.	Просто будь самим собой.
+Just be yourself.	Просто будьте собой.
+Let me try again.	Дай мне ещё раз попробовать.
+Let me try again.	Дай мне ещё раз попробовать!
+Let them come in.	Дай им войти.
+Let them come in.	Пусть они войдут.
+Let them come in.	Впусти их.
+Let them come in.	Впустите их.
+Let's be friends.	Давай будем друзьями.
+Let's be friends.	Давай дружить.
+Let's be friends.	Давайте дружить.
+Let's be serious.	Давай будем серьезными.
+Let's talk later.	Давайте потом поговорим.
+Let's wait a bit.	Давай немного подождём.
+Let's wait a bit.	Давайте немного подождём.
+Let's wait a bit.	Подождём немного.
+Let's wait a bit.	Подождём немного!
+Lie on the couch.	Ложитесь на кушетку.
+Life is not fair.	Жизнь несправедлива.
+Light the candle.	Зажги свечу.
+Light the candle.	Зажги свечку.
+Light the candle.	Зажгите свечу.
+My answer is yes.	Мой ответ - "да".
+My back is stiff.	У меня зажатая спина.
+My car is German.	У меня немецкая машина.
+My cat is hungry.	Моя кошка голодная.
+My cat is hungry.	Мой кот хочет есть.
+My cat is hungry.	Моя кошка хочет есть.
+My cat looks sad.	Мой кот выглядит печальным.
+My cup was empty.	Моя чашка была пуста.
+My dog has fleas.	У моей собаки блохи.
+My eyes are blue.	У меня голубые глаза.
+No one's looking.	Никто не смотрит.
+No one's working.	Никто не работает.
+No pain, no gain!	Без труда не выловишь и рыбку из пруда.
+No pain, no gain.	Без труда не выловишь и рыбку из пруда.
+No pain, no gain.	Не потопаешь - не полопаешь.
+Nobody asked Tom.	Тома никто не спросил.
+Nobody asked Tom.	Тома никто не спрашивал.
+Nobody asked you.	Вас никто не спрашивал.
+Nobody asked you.	Тебя никто не спрашивал.
+Nobody bought it.	Его никто не купил.
+Open these doors.	Открывай эти двери.
+Open these doors.	Открывайте эти двери.
+Open up the door.	Вскройте дверь.
+Open up the door.	Вскрывайте дверь.
+Open your window.	Открой своё окно.
+Open your window.	Откройте своё окно.
+Open your window.	Открой у себя окно.
+Open your window.	Откройте у себя окно.
+Our dog is black.	Наша собака чёрная.
+Our dog ran away.	Наша собака убежала.
+Please stay here.	Пожалуйста, останься здесь.
+Please stay here.	Пожалуйста, останьтесь здесь.
+Please stay here.	Пожалуйста, останься тут.
+Please stay here.	Пожалуйста, останьтесь тут.
+Please stay here.	Пожалуйста, будь здесь.
+Please stay here.	Пожалуйста, будь тут.
+Please stay here.	Пожалуйста, будьте здесь.
+Please stay here.	Пожалуйста, будьте тут.
+Please stay here.	Пожалуйста, оставайся здесь.
+Please stay here.	Пожалуйста, оставайся тут.
+Shall I help you?	Тебе помочь?
+Share it with us.	Поделись этим с нами.
+Share it with us.	Поделись им с нами.
+She attacked him.	Она на него напала.
+She began crying.	Она заплакала.
+She began crying.	Она принялась плакать.
+She began crying.	Она начала плакать.
+She betrayed you.	Она тебя предала.
+She betrayed you.	Она вас предала.
+She betrayed you.	Она Вас предала.
+Sit at the table.	Садись за стол.
+Sit at the table.	Садитесь за стол.
+Sit down with me.	Присядь со мной.
+Sit down with me.	Сядь со мной.
+Sit down with me.	Сядьте со мной.
+Sit down, please.	Садись, пожалуйста.
+Size does matter.	Размер имеет значение.
+Smoking can kill.	Курение может убить.
+So let's do this.	Так давайте же сделаем это.
+So what happened?	Так что случилось?
+Take Tom's place.	Садитесь на место Тома.
+Take a good look.	Посмотри внимательно.
+Take a good look.	Посмотрите хорошенько.
+Take a good look.	Посмотри хорошенько.
+Take a look, Tom.	Взгляни, Том.
+Take a seat, Tom.	Присаживайся, Том.
+Take care of Tom.	Позаботься о Томе.
+Take care of Tom.	Позаботьтесь о Томе.
+Take it easy, OK?	Не бери в голову, ладно?
+Take it upstairs.	Отнеси его наверх.
+That was serious.	Это было серьёзно.
+That was strange.	Это было странно.
+That wasn't hard.	Это было нетрудно.
+That way, please.	Туда, пожалуйста.
+That will not do.	Это не подойдёт.
+That's Tom's car.	Это машина Тома.
+That's Tom's job.	Это работа Тома.
+That's a big lie.	Это большая ложь.
+That's a gimmick.	Это трюк.
+That's a gimmick.	Это хитрость.
+That's very hard.	Это очень тяжело.
+That's very nice.	Это очень мило.
+That's very rare.	Это большая редкость.
+That's very true.	Это очень верно.
+That's what I do.	Я так и делаю.
+That's wonderful!	Замечательно!
+That's wonderful!	Замечательно.
+That's wonderful.	Замечательно!
+That's wonderful.	Это замечательно.
+That's wonderful.	Замечательно.
+The man ran away.	Мужчина убежал.
+The man stood up.	Мужчина встал.
+The mass is over.	Обедня закончилась.
+The meat spoiled.	Мясо испортилось.
+The mic is yours.	Микрофон твой.
+The milk is sour.	Молоко кислое.
+The milkman died.	Молочник умер.
+The mist cleared.	Туман рассеялся.
+The pain is gone.	Боль прошла.
+The party's over.	Вечеринка закончилась.
+They are doctors.	Они врачи.
+They are singers.	Они певцы.
+They aren't dead.	Они не умерли.
+They aren't here.	Их здесь нет.
+They aren't mine.	Они не мои.
+They aren't rich.	Они небогаты.
+They arrested me.	Они меня арестовали.
+They believe you.	Они верят тебе.
+They believe you.	Они верят вам.
+They believe you.	Они тебе верят.
+They were scared.	Они испугались.
+They were scared.	Они были испуганы.
+They were silent.	Они молчали.
+They were skiing.	Они катались на лыжах.
+They will return.	Они вернутся.
+They won the day.	Они одержали победу.
+They won't budge.	Они не сдвинутся с места.
+They won't do it.	Они не сделают этого.
+They work for me.	Они работают на меня.
+They'd like that.	Им бы это понравилось.
+This is an order.	Это приказание.
+This is bad news.	Это плохие новости.
+This is from Tom.	Это от Тома.
+This is her book.	Это её книга.
+This is hopeless.	Это безнадёжно.
+This is horrible.	Это ужасно.
+This is insanity.	Это безумие.
+This is my child.	Это мой ребёнок.
+This is my coach.	Это мой тренер.
+This is my fault.	Это моя вина.
+This stopped Tom.	Это остановило Тома.
+This tastes good.	Вкусно.
+This time we won.	На этот раз мы победили.
+This time we won.	На этот раз мы выиграли.
+This tooth hurts.	У меня болит этот зуб.
+This was missing.	Этого не хватало.
+This was my idea.	Это была моя идея.
+This way, please.	Сюда, пожалуйста.
+This will happen.	Это случится.
+This will happen.	Это произойдёт.
+Tom can't use it.	Тому нельзя им пользоваться.
+Tom can't use it.	Тому нельзя ей пользоваться.
+Tom changed jobs.	Том сменил работу.
+Tom chose wisely.	Том сделал мудрый выбор.
+Tom clearly lied.	Том явно соврал.
+Tom climbed down.	Том слез.
+Tom convinced me.	Том меня убедил.
+Tom cooks for us.	Том готовит нам еду.
+Tom cooks for us.	Том нам готовит.
+Tom corrected it.	Том его исправил.
+Tom got off easy.	Том легко отделался.
+Tom got the part.	Том получил роль.
+Tom got up early.	Том встал рано.
+Tom got very mad.	Том очень разозлился.
+Tom grew a beard.	Том отрастил бороду.
+Tom had a choice.	У Тома был выбор.
+Tom had a pistol.	У Фомы был пистолет.
+Tom had a vision.	Тому было видение.
+Tom had a vision.	У Тома было видение.
+Tom had a weapon.	У Тома было оружие.
+Tom is a dreamer.	Том - мечтатель.
+Tom is a drifter.	Том бродяга.
+Tom is a drummer.	Том - ударник.
+Tom is a fanatic.	Том фанатик.
+Tom is a fascist.	Том - фашист.
+Tom is a fat man.	Том жирный.
+Tom is a fat man.	Том толстый.
+Tom is a fat man.	Том тучный.
+Tom is a fat man.	Том полный.
+Tom is a fat man.	Том упитанный.
+Tom is exuberant.	Том очень энергичный.
+Tom is flattered.	Том польщен.
+Tom is forgetful.	Том забывчив.
+Tom is from here.	Том местный.
+Tom is from here.	Том здешний.
+Tom is giving up.	Том сдаётся.
+Tom is happy now.	Том сейчас счастлив.
+Tom is happy now.	Теперь Том доволен.
+Tom is here, too.	Том тоже здесь.
+Tom is impatient.	Том нетерпелив.
+Tom is unmarried.	Том — холостяк.
+Tom is unpopular.	Том непопулярен.
+Tom is using you.	Том тебя использует.
+Tom is using you.	Том вас использует.
+Tom is very busy.	Том очень занят.
+Tom is very calm.	Том очень спокоен.
+Tom is very cool.	Том очень крутой.
+Tom is very cool.	Том очень крут.
+Tom is very fast.	Том очень быстр.
+Tom is very good.	Том очень хороший.
+Tom left his bag.	Том сумку забыл.
+Tom left on time.	Том ушёл вовремя.
+Tom left on time.	Том уехал вовремя.
+Tom left quickly.	Том поспешно ушёл.
+Tom let me drive.	Том пустил меня за руль.
+Tom lied to Mary.	Том солгал Мэри.
+Tom liked horses.	Том любил лошадей.
+Tom likes Boston.	Том любит Бостон.
+Tom likes French.	Тому нравится французский.
+Tom likes cheese.	Том любит сыр.
+Tom never showed.	Том так и не явился.
+Tom never sleeps.	Том никогда не спит.
+Tom never smiles.	Том никогда не улыбается.
+Tom nodded again.	Том снова кивнул.
+Tom nodded to me.	Том кивнул мне.
+Tom noticed that.	Том это заметил.
+Tom often smiles.	Том часто улыбается.
+Tom ought to win.	Том должен победить.
+Tom overheard us.	Том нас подслушал.
+Tom paid nothing.	Том ничего не заплатил.
+Tom told only me.	Том сказал только мне.
+Tom took me home.	Том отвёз меня домой.
+Tom took my keys.	Том взял мои ключи.
+Tom tried to run.	Том пытался сбежать.
+Tom tried to run.	Том попытался сбежать.
+Tom tried to run.	Том попытался бежать.
+Tom tried to run.	Том попробовал бежать.
+Tom tried to run.	Том пытался бежать.
+Tom tripped Mary.	Том поставил Мэри подножку.
+Tom trusted Mary.	Том доверял Мэри.
+Tom was starving.	Том голодал.
+Tom was stubborn.	Том был упрям.
+Tom was sweating.	Том потел.
+Tom was the best.	Том был лучше всех.
+Tom was the last.	Том был последним.
+Tom was the star.	Том был звездой.
+Tom was too weak.	Том был слишком слаб.
+Tom was tortured.	Тома пытали.
+Tom was unshaven.	Том был небрит.
+Tom was up early.	Том встал рано.
+Tom winked at me.	Том подмигнул мне.
+Tom woke Mary up.	Том разбудил Мэри.
+Tom won the game.	Том выиграл игру.
+Tom won the race.	Том выиграл гонку.
+Tom won the race.	Том победил в гонке.
+Tom won't answer.	Том не будет отвечать.
+Tom won't answer.	Том не ответит.
+Tom won't change.	Том не изменится.
+Tom won't eat it.	Том не станет это есть.
+Tom won't eat it.	Том не будет это есть.
+Turn off the gas.	Перекрой газ.
+Turn to the left.	Поверни налево.
+Turn to the left.	Поверните налево.
+Turtles lay eggs.	Черепахи откладывают яйца.
+Wait for me here.	Жди меня здесь.
+Wait for me here.	Ждите меня здесь.
+Wait for me here.	Подожди меня здесь.
+Wait for us here.	Подожди нас здесь.
+Wait for us here.	Подождите нас здесь.
+Wait for us here.	Жди нас здесь.
+We can all dream.	Мы все можем мечтать.
+We can all dream.	Всем можно мечтать.
+We can beat them.	Мы можем побить их.
+We can do better.	Мы можем сделать лучше.
+We can go inside.	Мы можем зайти внутрь.
+We can still win.	Мы всё ещё можем победить.
+We can still win.	Мы ещё можем выиграть.
+We can stop this.	Мы можем это прекратить.
+We can stop this.	Мы можем это остановить.
+We can take them.	Мы можем их взять.
+We heard her cry.	Мы слышали, как она кричала.
+We heard her cry.	Мы слышали, как она плакала.
+We heard her cry.	Мы слышали, как она плачет.
+We heard screams.	Мы слышали крики.
+We heard screams.	Мы услышали крики.
+We just finished.	Мы только что закончили.
+We just finished.	Мы как раз закончили.
+We just got back.	Мы только вернулись.
+We just got here.	Мы только что приехали.
+We just got home.	Мы только добрались до дома.
+We only need one.	Нам всего один нужен.
+We only need one.	Нам всего одна нужна.
+We only need one.	Нам всего одно нужно.
+We play baseball.	Мы играем в бейсбол.
+We rarely go out.	Мы редко выходим из дома.
+We saw Tom do it.	Мы видели, как Том это делал.
+We saw Tom do it.	Мы видели, как Том это делает.
+We saw her dance.	Мы видели, как она танцует.
+We saw her dance.	Мы видели, как она танцевала.
+We saw it happen.	Мы видели, как это случилось.
+We'll talk later.	Мы поговорим позже.
+We'll talk later.	Потом поговорим.
+We'll talk later.	После поговорим.
+We'll work on it.	Мы будем работать над этим.
+We're a bit late.	Мы немного опоздали.
+We're a bit late.	Мы немного опаздываем.
+We're all adults.	Мы все взрослые люди.
+We're all afraid.	Мы все боимся.
+We're all afraid.	Нам всем страшно.
+We're all hungry.	Мы все голодные.
+We've done a lot.	Мы много сделали.
+We've got a boat.	У нас есть лодка.
+We've got a pool.	У нас есть бассейн.
+We've got enough.	Нам достаточно.
+We've got to win.	Нам нужна победа.
+We've met before.	Мы уже встречались.
+We've missed you.	Мы по тебе скучали.
+We've missed you.	Мы по вам скучали.
+We've missed you.	Нам тебя не хватало.
+We've missed you.	Нам вас не хватало.
+What do you know?	Что вы знаете?
+What do you know?	Что Вы знаете?
+What do you know?	Что вам известно?
+What do you know?	Что Вам известно?
+What do you like?	Что ты любишь?
+What do you like?	Что тебе нравится?
+What do you like?	Что вам нравится?
+What do you like?	Что вы любите?
+What do you make?	Что ты делаешь?
+What do you mean?	Что ты имеешь в виду?
+What's Tom up to?	Что поделывает Том?
+What's Tom up to?	Что Том намерен делать?
+What's Tom up to?	Что Том задумал?
+What's Tom up to?	Что Том собрался делать?
+What's been done?	Что было сделано?
+What's for lunch?	Что на обед?
+What's he hiding?	Что он скрывает?
+What's it called?	Как это называется?
+What's it to you?	А тебе-то что?
+What's it to you?	А тебе какое дело?
+Where is my ball?	Где мой мяч?
+Where is my beer?	Где моё пиво?
+Where is my belt?	Где мой ремень?
+Where is my book?	Где моя книга?
+Where is my comb?	Где моя расчёска?
+Where is my seat?	Где мое место?
+Where is my seat?	Где моё место?
+Where is the bar?	Где бар?
+Where is the boy?	Где мальчик?
+Where is the boy?	Где парень?
+Who brought them?	Кто их принёс?
+Who brought this?	Кто это принёс?
+Who can remember?	Кто может вспомнить?
+Who can we trust?	Кому мы можем доверять?
+Who cares anyway?	Да какая вообще разница?
+Who could refuse?	Кто бы смог отказаться?
+Who cut the cake?	Кто разрезал торт?
+Who decided that?	Кто это решил?
+Who did Tom bite?	Кого укусил Том?
+Who did Tom help?	Кому Том помог?
+Whose turn is it?	Чей ход?
+Why are you back?	Зачем вы вернулись?
+Why are you back?	Зачем ты вернулся?
+Why are you back?	Ты чего вернулся?
+Why are you back?	Вы чего вернулись?
+Why are you here?	Почему ты здесь?
+Why are you here?	Ты зачем здесь?
+Why are you here?	Вы зачем здесь?
+Why are you home?	Почему ты дома?
+Why are you home?	Почему Вы дома?
+Will you join us?	Вы с нами?
+Will you join us?	Присоединитесь к нам?
+Will you miss me?	Ты будешь по мне скучать?
+Will you miss me?	Вы будете по мне скучать?
+Will you risk it?	Рискнёшь?
+Will you risk it?	Рискнёте?
+Will you sell it?	Ты его продашь?
+Will you sell it?	Вы его продадите?
+Will you sell it?	Вы её продадите?
+Will you sell it?	Ты её продашь?
+You can go first.	Можешь идти первым.
+You can go first.	Можете пойти первым.
+You can go first.	Можете идти первым.
+You can go there.	Можешь пойти туда.
+You can go there.	Можете пойти туда.
+You can go there.	Можешь поехать туда.
+You can go there.	Можете поехать туда.
+You can look now.	Теперь можешь смотреть.
+You can look now.	Теперь можете смотреть.
+You can sit here.	Можете сесть здесь.
+You have to rest.	Вам надо отдохнуть.
+You have to rest.	Ты должен отдохнуть.
+You have to stay.	Вы должны остаться.
+You have to stay.	Тебе надо остаться.
+You have to stay.	Вам надо остаться.
+You have to wait.	Вам надо подождать.
+You have to wait.	Тебе надо подождать.
+You have to work.	Тебе надо работать.
+You have to work.	Вам надо работать.
+You helped Mommy?	Ты помогла маме?
+You must tell us.	Вы должны нам сказать.
+You need a drink.	Тебе надо выпить.
+You need a drink.	Вам надо выпить.
+You need a drink.	Тебе нужно выпить.
+You need a drink.	Вам нужно выпить.
+You need a hobby.	Тебе нужно хобби.
+You need a shave.	Тебе нужно побриться.
+You need a shave.	Вам нужно побриться.
+You need friends.	Тебе нужны друзья.
+You need friends.	Вам нужны друзья.
+You will survive.	Ты выживешь.
+You will survive.	Вы выживете.
+You wouldn't lie.	Ты бы не солгал.
+You wouldn't lie.	Ты бы не солгала.
+You wouldn't lie.	Вы бы не солгали.
+You'll be envied.	Вам будут завидовать.
+You'll be missed.	Вас будет не хватать.
+You'll be ruined.	Ты будешь разорён.
+You'll be ruined.	Вы будете разорены.
+You'll find them.	Вы найдёте их.
+You're inventive.	Вы изобретательны.
+You're inventive.	Ты находчива.
+You're inventive.	Вы находчивы.
+You're losing me.	Ты меня теряешь.
+You're my friend.	Ты мой друг.
+You're my friend.	Вы моя подруга.
+You're my friend.	Вы мой друг.
+You're my guests.	Вы мои гости.
+You're my guests.	Вы у меня в гостях.
+You're necessary.	Вы необходимы.
+You're the first.	Вы первый.
+You're the first.	Вы первая.
+You're the guest.	Ты гость.
+You're the guest.	Вы гость.
+You're the guest.	Ты в гостях.
+You're the guest.	Вы в гостях.
+You're the owner.	Ты владелец.
+You're the owner.	Ты хозяин.
+You're the owner.	Вы владелец.
+You're the owner.	Вы хозяин.
+Your mom is here.	Твоя мама здесь.
+Your mom is here.	Пришла твоя мама.
+Your mom is here.	Пришла ваша мама.
+Your plan failed.	Твой план провалился.
+Your plan failed.	Ваш план провалился.
+Your plan worked.	Твой план сработал.
+Your plan worked.	Ваш план сработал.
+Your room is big.	У тебя большая комната.
+Your room is big.	У вас большая комната.
+Your shoes stink.	Твои ботинки воняют.
+Are you a vampire?	Вы вампир?
+Are you all alone?	Ты совсем один?
+Are you all alone?	Ты совсем одна?
+Are you all alone?	Вы совсем одни?
+Are you all alone?	Ты совсем одинок?
+Are you all alone?	Ты совсем одинока?
+Are you all ready?	Вы все готовы?
+Are you all right?	Что с тобой?
+Are you all right?	С тобой всё в порядке?
+Are you all right?	Вы в порядке?
+Aren't you afraid?	Тебе не страшно?
+Aren't you afraid?	Вы не боитесь?
+Aren't you afraid?	Вам не страшно?
+Aren't you coming?	Ты не идёшь?
+Aren't you hungry?	Ты разве не голоден?
+Aren't you hungry?	Ты не голодный?
+Aren't you hungry?	Вы есть не хотите?
+Aren't you hungry?	Вы не голодные?
+Aren't you hungry?	Вы не голодны?
+Aren't you hungry?	Ты есть не хочешь?
+Can I go with Tom?	Могу я пойти с Томом?
+Can I go with you?	Можно мне с тобой?
+Can I go with you?	Можно мне с вами?
+Can I go with you?	Можно мне пойти с вами?
+Can I go with you?	Можно мне пойти с тобой?
+Can I go with you?	Можно мне поехать с тобой?
+Can I go with you?	Можно мне поехать с вами?
+Can I have a bite?	Мне можно перекусить?
+Can I have a kiss?	Можно мне поцелуй?
+Can I make copies?	Можно мне сделать копии?
+Can you translate?	Можешь перевести?
+Can you translate?	Можете перевести?
+Can you translate?	Ты можешь попереводить?
+Can you translate?	Вы можете попереводить?
+Can you trust Tom?	Вы можете доверять Тому?
+Can you trust Tom?	Ты можешь доверять Тому?
+Can you watch Tom?	Вы наблюдаете Тома?
+Can't we fire Tom?	Мы можем уволить Тома?
+Can't we tell Tom?	Мы не можем сказать Тому?
+Can't you do that?	Разве ты не можешь этого сделать?
+Could you do that?	Ты бы мог это сделать?
+Could you do that?	Вы бы могли это сделать?
+Could you explain?	Мог бы ты объяснить?
+Could you explain?	Могла бы ты объяснить?
+Could you explain?	Могли бы вы объяснить?
+Could you explain?	Вы не могли бы объяснить?
+Could you explain?	Ты не мог бы объяснить?
+Could you help me?	Вы не могли бы мне помочь?
+Could you help me?	Ты не мог бы мне помочь?
+Could you help me?	Ты не могла бы мне помочь?
+Did you know that?	Ты знал об этом?
+Did you know that?	Вы это знали?
+Did you know that?	Ты это знал?
+Did you know this?	Вы это знали?
+Did you know this?	Ты это знал?
+Did you know this?	Ты это знала?
+Did you know this?	Ты знал это?
+Did you lie to me?	Вы мне солгали?
+Did you lie to me?	Ты мне солгал?
+Did you lie to me?	Ты мне соврал?
+Do it for my sake.	Сделайте это ради меня.
+Do something else.	Сделай что-нибудь ещё.
+Do something else.	Сделайте что-нибудь ещё.
+Do something else.	Займись чем-нибудь ещё.
+Do something else.	Займитесь чем-нибудь ещё.
+Do that once more.	Сделай это ещё раз.
+Do that once more.	Сделайте это ещё раз.
+Do the doors lock?	Двери запираются?
+Do they have jobs?	У них есть работа?
+Do they have that?	У них это есть?
+Do you like pears?	Тебе нравятся груши?
+Do you like pears?	Ты любишь груши?
+Do you like pizza?	Ты любишь пиццу?
+Do you like pizza?	Вы любите пиццу?
+Do you like rugby?	Ты любишь регби?
+Do you like rugby?	Вы любите регби?
+Do you like sushi?	Любишь суси?
+Do you like trips?	Вы любите путешествия?
+Do you like trips?	Ты любишь путешествия?
+Do you like women?	Вам нравятся женщины?
+Does it hurt much?	Это сильно больно?
+Does it hurt much?	Это очень больно?
+Does it upset you?	Это тебя огорчает?
+Does it upset you?	Это тебя расстраивает?
+Does it upset you?	Это вас расстраивает?
+Does it upset you?	Это вас огорчает?
+Does she know you?	Она тебя знает?
+Does she know you?	Она знает тебя?
+Does she know you?	Она вас знает?
+Does she know you?	Она Вас знает?
+Don't laugh at me.	Не смейтесь надо мной.
+Don't let Tom die.	Не дай Тому умереть.
+Don't let Tom die.	Не дайте Тому умереть.
+Don't let Tom win.	Не давай Тому выиграть.
+Don't let him run.	Не дайте ему убежать.
+Don't let me down.	Не подведи меня.
+Don't let them in.	Не дай им войти.
+Don't let them in.	Не дайте им войти.
+Don't let them in.	Не давай им войти.
+Don't let them in.	Не давайте им войти.
+Don't you know me?	Вы меня не знаете?
+Don't you like it?	Тебе это не нравится?
+Don't you like it?	Вам это не нравится?
+Don't you like me?	Я тебе не нравлюсь?
+Don't you like me?	Я вам не нравлюсь?
+Don't you like us?	Мы вам не нравимся?
+Don't you like us?	Мы тебе не нравимся?
+Don't you miss me?	Ты по мне не скучаешь?
+Don't you miss me?	Вы по мне не скучаете?
+Don't you see Tom?	Ты не видишь Тома?
+Get me some water.	Принеси мне воды.
+Get me some water.	Принесите мне воды.
+Get on your knees.	Встань на колени.
+Get on your knees.	Встаньте на колени.
+Get out of my bed.	Вылезай из моей кровати.
+Get out of my car.	Выйди из моей машины.
+Get out of my car.	Вылезайте из моей машины!
+Get out of my car.	Вылезай из моей машины!
+Get out of my car.	Выходите из моей машины!
+Get out of my car.	Выходи из моей машины!
+Go somewhere else.	Пойди куда-нибудь ещё.
+Go somewhere else.	Пойдите куда-нибудь ещё.
+Go somewhere else.	Иди куда-нибудь ещё.
+Go somewhere else.	Идите куда-нибудь ещё.
+Go straight ahead.	Иди прямо.
+Go there yourself.	Сам туда иди!
+Go there yourself.	Сами туда идите!
+Go to Tom's house.	Иди в дом Тома.
+Go wash your face.	Иди умой лицо.
+Go wash your face.	Иди вымой лицо.
+He came to see me.	Он приехал повидаться со мной.
+He came to see me.	Он пришёл меня навестить.
+He can't help you.	Он не может помочь вам.
+He can't help you.	Он не может тебе помочь.
+He can't help you.	Он не может вам помочь.
+He can't stop her.	Он не может её остановить.
+He can't stop him.	Он не может его остановить.
+He cannot stop it.	Он не может это остановить.
+He cannot stop it.	Он не может его остановить.
+He cannot stop it.	Он не может её остановить.
+He is at her side.	Он на её стороне.
+He is at his desk.	Он за своим столом.
+He is at his desk.	Он у себя за столом.
+He is but a child.	Он всего лишь ребёнок.
+He is daydreaming.	Он грезит.
+He is from France.	Он из Франции.
+He is getting old.	Он стареет.
+He is incompetent.	Он некомпетентен.
+He is influential.	Он влиятелен.
+He is intelligent.	Он умён.
+He speaks English.	Он владеет английским.
+He speaks English.	Он владеет английским языком.
+He speaks quickly.	Он говорит быстро.
+He speaks quickly.	Он быстро говорит.
+He started to cry.	Он заплакал.
+He started to cry.	Он принялся плакать.
+He started to cry.	Он начал плакать.
+He stayed up late.	Он допоздна не ложился.
+He stole my heart.	Он украл моё сердце.
+He stole my watch.	Он украл мои часы.
+Help me lift this.	Помоги мне это поднять.
+Help me lift this.	Помогите мне это поднять.
+Her eyes are blue.	У неё синие глаза.
+Her eyes are blue.	У неё голубые глаза.
+Her eyes darkened.	Её глаза потемнели.
+Her eyes darkened.	Глаза у неё потемнели.
+Her legs are long.	У неё длинные ноги.
+Her legs are long.	Её ноги длинные.
+Her nails are red.	Её ногти красные.
+Her nails are red.	У неё красные ногти.
+How did you do it?	Как вы это сделали?
+How did you do it?	Как ты это сделала?
+How did you guess?	Как ты догадался?
+How did you guess?	Как вы догадались?
+How did you guess?	Как ты угадал?
+How did you guess?	Как вы угадали?
+How did you reply?	Что ты ответил?
+How did you reply?	Что вы ответили?
+How did you sleep?	Как спалось?
+How did you sleep?	Как тебе спалось?
+How'd you find it?	Как бы ты его нашёл?
+How'd you find it?	Как бы ты её нашёл?
+How'd you find it?	Как бы вы его нашли?
+How'd you find it?	Как бы вы её нашли?
+How'd you find me?	Как бы ты меня нашёл?
+How'd you find me?	Как бы вы меня нашли?
+How's the new job?	Как новая работа?
+How's the weather?	Как погода?
+How's your French?	Как твой французский?
+How's your family?	Как Ваша семья?
+I am very unhappy.	Я очень несчастен.
+I am very unhappy.	Я очень несчастна.
+I am weak in math.	У меня плохо с математикой.
+I apologize again.	Ещё раз прошу прощения.
+I appreciate that.	Я это ценю.
+I appreciate that.	Я ценю это.
+I appreciate this.	Я ценю это.
+I argued with Tom.	Я поспорил с Томом.
+I arrived at 2:30.	Я приехал полтретьего.
+I arrived at 2:30.	Я приехал в половине третьего.
+I can pay upfront.	Я могу заплатить авансом.
+I can play Chopin.	Я могу играть Шопена.
+I can play soccer.	Я умею играть в футбол.
+I can play tennis.	Я умею играть в теннис.
+I can protect Tom.	Я могу защитить Тома.
+I can protect you.	Я могу тебя защитить.
+I can protect you.	Я могу вас защитить.
+I can read French.	Я умею читать на французском.
+I can ride a bike.	Я умею кататься на велосипеде.
+I can ride a bike.	Я могу ездить на мотоцикле.
+I couldn't answer.	Я не мог ответить.
+I couldn't answer.	Я не смог ответить.
+I couldn't buy it.	Я не смог его купить.
+I couldn't buy it.	Я не смог её купить.
+I couldn't buy it.	Я бы не смог его купить.
+I couldn't buy it.	Я бы не смог её купить.
+I couldn't fix it.	Я не смог его починить.
+I couldn't fix it.	Я не смог её починить.
+I couldn't get in.	Я не смог попасть внутрь.
+I couldn't get it.	Я не могла этого понять.
+I didn't need Tom.	Том был мне не нужен.
+I didn't need Tom.	Том мне не понадобился.
+I didn't need you.	Ты мне не понадобился.
+I didn't need you.	Вы мне не понадобились.
+I didn't need you.	Ты не был мне нужен.
+I didn't need you.	Вы не были мне нужны.
+I didn't order it.	Я этого не заказывал.
+I didn't order it.	Я его не заказал.
+I didn't order it.	Я его не заказывал.
+I didn't order it.	Я её не заказывал.
+I don't need help.	Мне не нужна помощь.
+I don't need help.	Я не нуждаюсь в помощи.
+I don't need luck.	Мне не нужна удача.
+I don't need that.	Мне это не нужно.
+I don't need that.	Мне это не надо.
+I don't need them.	Они мне не нужны.
+I don't need them.	Мне они не нужны.
+I don't need them.	Я в них не нуждаюсь.
+I don't need this.	Мне это не нужно.
+I don't often cry.	Я нечасто плачу.
+I found something.	Я что-то нашёл.
+I found the money.	Я нашёл деньги.
+I found the money.	Я нашла деньги.
+I found your keys.	Я нашёл твои ключи.
+I found your keys.	Я нашёл ваши ключи.
+I found your keys.	Я нашла твои ключи.
+I gave Tom a book.	Я дал Тому книгу.
+I gave Tom a book.	Я подарил Тому книгу.
+I gave Tom a ride.	Я подвёз Тома.
+I gave Tom a wink.	Я подмигнул Тому.
+I hate rainy days.	Ненавижу дождливые дни.
+I hate rainy days.	Я ненавижу дождливые дни.
+I hate that color.	Ненавижу этот цвет.
+I hate that color.	Я ненавижу этот цвет.
+I hate that color.	Терпеть не могу этот цвет.
+I hate that movie.	Терпеть не могу этот фильм.
+I hate that sound.	Ненавижу этот звук.
+I hate the desert.	Ненавижу пустыню.
+I hate the winter.	Ненавижу зиму.
+I hate the winter.	Терпеть не могу зиму.
+I have sunglasses.	У меня есть солнцезащитные очки.
+I have sunglasses.	У меня есть солнечные очки.
+I have the answer.	У меня есть ответ.
+I have three cars.	У меня три машины.
+I have three cats.	У меня три кошки.
+I have three cats.	У меня три кота.
+I have three cows.	У меня три коровы.
+I have three dogs.	У меня три собаки.
+I have three kids.	У меня трое детей.
+I have three sons.	У меня три сына.
+I just ignore Tom.	Я просто игнорирую Тома.
+I just kept going.	Я просто продолжал идти.
+I just kept going.	Я просто продолжил идти.
+I just moved here.	Я сюда только переехал.
+I just noticed it.	Я его только что заметил.
+I just noticed it.	Я её только что заметил.
+I just remembered.	Я только что вспомнил.
+I just remembered.	Я только что об этом вспомнил.
+I just want to go.	Я просто хочу пойти.
+I just want to go.	Я просто хочу поехать.
+I know who did it.	Я знаю, кто это сделал.
+I know who it was.	Я знаю, кто это был.
+I know who she is.	Я знаю, кто она.
+I know who she is.	Я знаю, кто она такая.
+I know you did it.	Я знаю, что ты это сделал.
+I know you did it.	Я знаю, что ты это сделала.
+I know you did it.	Я знаю, что ты сделал это.
+I know you did it.	Я знаю, что вы сделали это.
+I know you're Tom.	Я знаю, что ты — Том.
+I know your names.	Я знаю ваши имена.
+I liked them both.	Мне они обе понравились.
+I liked them both.	Мне они оба нравились.
+I liked them both.	Мне они обе нравились.
+I liked this book.	Мне эта книга понравилась.
+I liked this book.	Мне понравилась эта книга.
+I liked this film.	Мне понравился этот фильм.
+I liked to travel.	Мне нравилось путешествовать.
+I liked to travel.	Я любил путешествовать.
+I listen to music.	Я слушаю музыку.
+I listened to Tom.	Я послушал Тома.
+I nearly did that.	Я чуть не сделал это.
+I need 30 minutes.	Мне нужно тридцать минут.
+I need 30 minutes.	Мне нужно 30 минут.
+I need Tom's help.	Мне нужна помощь Тома.
+I need a calendar.	Мне нужен календарь.
+I need a computer.	Мне нужен компьютер.
+I need a good job.	Мне нужна хорошая работа.
+I need a keyboard.	Мне нужна клавиатура.
+I need a long nap.	Мне нужен долгий сон.
+I need a long nap.	Мне нужно хорошенько вздремнуть.
+I opened that box.	Я открыл тот ящик.
+I opened that box.	Я открыла тот ящик.
+I opened that box.	Я открыла ту коробку.
+I opened that box.	Я открыл ту коробку.
+I opened the cage.	Я открыл клетку.
+I opened the door.	Я открыл дверь.
+I opened the door.	Я открыла дверь.
+I opened the gate.	Я открыл ворота.
+I opened the gate.	Я открыл калитку.
+I ordered a pizza.	Я заказал пиццу.
+I said I was busy.	Я сказал, что занят.
+I said I was busy.	Я сказал, я занят.
+I said I was busy.	Я сказала, что занята.
+I said I was fine.	Я сказал, что всё хорошо.
+I said I was fine.	Я сказала, что всё хорошо.
+I said I was fine.	Я сказал, что со мной всё хорошо.
+I said I was fine.	Я сказала, что со мной всё хорошо.
+I said I'll do it.	Я сказал, сделаю.
+I said come alone.	Я сказал, приходи один.
+I said good night.	Я сказал, спокойной ночи.
+I sometimes skate.	Я иногда катаюсь на роликах.
+I sometimes skate.	Я иногда катаюсь на коньках.
+I spilled my wine.	Я пролил своё вино.
+I spoke after him.	Я выступил с речью вслед за ним.
+I spoke after him.	Я говорил после него.
+I spoke in French.	Я говорил по-французски.
+I stand corrected.	Я признаю свою ошибку.
+I stand corrected.	Я принимаю поправку.
+I started dancing.	Пошёл в пляс.
+I started dancing.	Я начал танцевать.
+I tried to resist.	Я пытался сопротивляться.
+I tried to scream.	Я пытался кричать.
+I truly apologize.	Я приношу искренние извинения.
+I truly loved her.	Я действительно её любил.
+I truly loved her.	Я искренне её любил.
+I truly mean that.	Я искренне имею это в виду.
+I turned Tom down.	Я отказала Тому.
+I turned the knob.	Я повернул ручку двери.
+I turned the page.	Я перевернул страницу.
+I understand that.	Я понимаю это.
+I wanted to laugh.	Мне хотелось засмеяться.
+I wanted to leave.	Я хотел уйти.
+I wanted to leave.	Я хотел уехать.
+I warned you once.	Я тебя уже однажды предупреждал.
+I warned you once.	Я вас уже однажды предупреждал.
+I was a boy scout.	Я был бойскаутом.
+I was a passenger.	Я был пассажиром.
+I was a shy child.	Я был застенчивым ребёнком.
+I was a shy child.	Я была застенчивым ребёнком.
+I was alone there.	Я был там один.
+I was very lonely.	Я был очень одинок.
+I was very lonely.	Я была очень одинока.
+I was very polite.	Я был очень вежлив.
+I was very scared.	Я был очень напуган.
+I was watching TV.	Я смотрел телевизор.
+I washed my hands.	Я помыл руки.
+I wasn't arrested.	Меня не арестовали.
+I wasn't arrested.	Я не был арестован.
+I wasn't bluffing.	Я не блефовал.
+I wasn't dreaming.	Мне не снились сны.
+I won't marry you.	Я не выйду за тебя замуж.
+I won't need luck.	Удача мне не понадобится.
+I won't need them.	Они мне не понадобятся.
+I won't permit it.	Я этого не разрешу.
+I won't sign this.	Я это не подпишу.
+I won't sign this.	Я не буду это подписывать.
+I work afternoons.	Я работаю во второй половине дня.
+I work at Harvard.	Я работаю в Гарварде.
+I work at the zoo.	Я работаю в зоопарке.
+I work for a bank.	Я работаю на банк.
+I'll go and check.	Я пойду проверю.
+I'll go by myself.	Я пойду один.
+I'll go by subway.	Я поеду на метро.
+I'll go on Sunday.	Я пойду в воскресенье.
+I'll go on Sunday.	Я поеду в воскресенье.
+I'll go on my own.	Я пойду сам.
+I'll go right now.	Я пойду прямо сейчас.
+I'll go right now.	Я поеду прямо сейчас.
+I'll go right now.	Я отправлюсь прямо сейчас.
+I'll go to Boston.	Я поеду в Бостон.
+I'll write to you.	Я тебе напишу.
+I'll write to you.	Я вам напишу.
+I'm Canadian, too.	Я тоже канадец.
+I'm Canadian, too.	Я тоже канадка.
+I'm Tom's brother.	Я брат Тома.
+I'm Tom's partner.	Я - партнёр Тома.
+I'm Tom's teacher.	Я учитель Тома.
+I'm Tom's teacher.	Я учительница Тома.
+I'm a big boy now.	Теперь я большой мальчик.
+I'm a big boy now.	Я уже большой мальчик.
+I'm earning money.	Я зарабатываю деньги.
+I'm eating a pear.	Я ем грушу.
+I'm enjoying this.	Я наслаждаюсь этим.
+I'm expecting Tom.	Я поджидаю Тома.
+I'm extremely shy.	Я крайне застенчив.
+I'm facing prison.	Мне грозит тюрьма.
+I'm feeling dizzy.	У меня кружится голова.
+I'm feeling drunk.	Я чувствую опьянение.
+I'm feeling great.	Я чувствую себя великолепно.
+I'm feeling great.	Я чувствую себя замечательно.
+I'm irreplaceable.	Я незаменима.
+I'm just a farmer.	Я всего лишь фермер.
+I'm just a friend.	Я просто друг.
+I'm just guessing.	Я просто предполагаю.
+I'm just like you.	Я совсем как ты.
+I'm just like you.	Я совсем как вы.
+I'm just not sure.	Я просто не уверен.
+I'm just rambling.	Я просто брожу.
+I'm just so happy.	Я просто так счастлив!
+I'm just so tired.	Я просто так устал.
+I'm now in Boston.	Я теперь в Бостоне.
+I'm now your boss.	Теперь я ваш начальник.
+I'm now your boss.	Теперь я твой начальник.
+I'm old-fashioned.	Я старомоден.
+I'm on Tom's list.	Я в списке Тома.
+I'm on Tom's list.	Я у Тома в списке.
+I'm on Tom's side.	Я на стороне Тома.
+I'm on cloud nine.	Я на седьмом небе от счастья.
+I'm on cloud nine.	Я на седьмом небе.
+I'm on page three.	Я на третьей странице.
+I've been at home.	Я был дома.
+I've been evicted.	Меня выгнали.
+I've been evicted.	Меня изгнали.
+I've been evicted.	Меня исключили.
+I've been evicted.	Меня выселили.
+I've been injured.	Я был ранен.
+I've been injured.	Я была ранена.
+I've been married.	Я была замужем.
+I've been married.	Я был женат.
+I've been so busy.	Я был так занят.
+Is he still there?	Он ещё там?
+Is he still there?	Он всё ещё там?
+Is his story true?	Его рассказ - правда?
+Is it a good play?	Это хорошая пьеса?
+Is it an illusion?	Это иллюзия?
+Is it complicated?	Это сложно?
+Is it far to town?	До города далеко?
+Is it hot outside?	Снаружи жарко?
+Is it hot outside?	Жарко снаружи?
+Is it hot outside?	На улице жарко?
+Is this pure gold?	Это чистое золото?
+Is this real gold?	Это настоящее золото?
+Is this real silk?	Это настоящий шёлк?
+Is this seat free?	Это место свободно?
+Is this seat free?	Это место не занято?
+Is this the place?	Это то место?
+Is this your beer?	Это твоё пиво?
+Is this your beer?	Это ваше пиво?
+Is this your bike?	Это твой велосипед?
+Is this your bike?	Это твой велик?
+It rained nonstop.	Дождь шёл без остановки.
+It rained nonstop.	Без перерыва шёл дождь.
+It ruined my life.	Это разрушило мою жизнь.
+It seemed strange.	Это казалось странным.
+It seems adequate.	Это кажется адекватным.
+It sounds strange.	Звучит странно.
+It stinks in here.	Тут воняет.
+It was Tom's idea.	Это была идея Тома.
+It was Tom's idea.	Это Том придумал.
+It was Tom's turn.	Была очередь Тома.
+It won't be ready.	Она не будет готова.
+It won't be ready.	Он не будет готов.
+It won't help you.	Это вам не поможет.
+It won't help you.	Это тебе не поможет.
+It worked for Tom.	Я работал на Тома.
+It'll be painless.	Это будет безболезненно.
+It'll be romantic.	Это будет романтично.
+It'll confuse him.	Это его запутает.
+It'll happen soon.	Это скоро произойдёт.
+It'll take months.	На это уйдут месяцы.
+It's getting cold.	Становится прохладно.
+It's getting cold.	Становится холодно.
+It's getting cold.	Холодает.
+It's getting dark.	Темнеет.
+It's getting dark.	Становится темно.
+It's getting late.	Становится поздно.
+It's hard to tell.	Это трудно сказать.
+It's human nature.	Это человеческая природа.
+It's human nature.	Это человеческая натура.
+It's in my pocket.	Он в моём кармане.
+It's so difficult.	Это так сложно.
+It's starting now.	Начинается.
+It's starting now.	Уже начинается.
+It's still Monday.	Пока ещё понедельник.
+It's still Monday.	Понедельник ещё не кончился.
+It's still closed.	Ещё закрыто.
+It's still cloudy.	Всё ещё облачно.
+It's the last one.	Это последний.
+It's the only way.	Это единственный способ.
+It's the same hat.	Это та же шляпа.
+Keep your coat on.	Не снимай пальто.
+Keep your coat on.	Не снимайте пальто.
+Keep your hair on!	Возьми себя в руки!
+Kids like to play.	Дети любят играть.
+Kids want to play.	Дети хотят играть.
+Kids want to play.	Дети хотят поиграть.
+Knock on the door.	Постучите в дверь.
+Knock on the door.	Постучи в дверь.
+Last week was hot.	На прошлой неделе было жарко.
+Last week was hot.	Прошлая неделя была жаркой.
+Let's get takeout.	Давай возьмём еду на вынос.
+Let's get takeout.	Давайте возьмём еду на вынос.
+Let's get to work.	Давайте приступим к работе.
+Let's get to work.	Давай приступим к работе.
+Let's get to work.	Приступим к работе.
+Let's go by train.	Давай поедем на поезде.
+Let's go by train.	Давайте поедем на поезде.
+Let's go by train.	Поедем на поезде.
+Let's go find Tom.	Пойдём найдём Тома.
+Let's go find out.	Пойдём выясним.
+Life is difficult.	Жизнь трудна.
+Life is expensive.	Жизнь дорога.
+Life is so unfair.	Жизнь так несправедлива.
+Life is too short.	Жизнь слишком коротка.
+Life is very hard.	Жизнь очень трудна.
+Life is wonderful.	Жизнь прекрасна.
+Light the candles.	Зажги свечи.
+Light the candles.	Зажгите свечи.
+Lions are animals.	Львы - это животные.
+Listen to me, Tom.	Послушай меня, Том.
+Men were men then.	Мужчины тогда были мужчинами.
+Might makes right.	Кто сильнее, тот и прав.
+Mind your manners.	Следи за своими манерами.
+Mom set the table.	Мама накрыла на стол.
+Monday's not good.	Понедельник не подходит.
+Most people agree.	Большинство людей согласно.
+Most people agree.	Большинство согласно.
+Move away from me.	Отодвинься от меня.
+Move away from me.	Отодвиньтесь от меня.
+My arms are tired.	Мои руки устали.
+No one misses you.	По тебе никто не скучает.
+No one misses you.	По вам никто не скучает.
+No one trusts Tom.	Никто не доверяет Тому.
+No one trusts you.	Тебе никто не доверяет.
+No one trusts you.	Вам никто не доверяет.
+No one understood.	Никто не понял.
+No one wants that.	Никто этого не хочет.
+No one was killed.	Никого не убили.
+No one's in sight.	Никого не видно.
+No one's in sight.	В поле зрения никого нет.
+Obey your parents.	Слушайтесь родителей.
+Of course he lied.	Конечно, он солгал.
+Of course he lied.	Конечно, он соврал.
+On Sundays I rest.	По воскресеньям я отдыхаю.
+Once isn't enough.	Одного раза недостаточно.
+Once more, please.	Ещё раз, пожалуйста.
+Opposites attract.	Противоположности сходятся.
+Opposites attract.	Противоположности притягиваются.
+Our money ran out.	У нас закончились деньги.
+Our team is ready.	Наша команда готова.
+Please turn right.	Поверните направо, пожалуйста.
+Please turn right.	Поверни направо, пожалуйста.
+Please wait a bit.	Пожалуйста, подождите немного.
+Please wait a bit.	Пожалуйста, подождите чуть-чуть.
+Please wait a bit.	Пожалуйста, подождите секунду.
+Please wrap it up.	Пожалуйста, заверните это.
+Plug up that leak!	Заткни эту протечку!
+Poets write poems.	Поэты пишут стихи.
+Pretend you're me.	Представь, что ты - это я.
+Prices are rising.	Цены растут.
+See you at school.	Увидимся в школе.
+See you in Boston.	Увидимся в Бостоне.
+See you next week.	Увидимся на следующей неделе.
+See you next year.	Увидимся в следующем году.
+See you on Monday.	Увидимся в понедельник.
+See you on Monday.	В понедельник увидимся.
+Send us a message.	Отправьте нам сообщение.
+Send us a message.	Отправь нам сообщение.
+Shall we sit down?	Сядем?
+Shall we sit down?	Присядем?
+She never told me.	Она мне никогда не говорила.
+She put on a coat.	Она надела пальто.
+She reads Chinese.	Она читает по-китайски.
+She saw him smile.	Она видела, как он улыбается.
+She seems excited.	Она выглядит возбужденной.
+She sells flowers.	Она продаёт цветы.
+She sells flowers.	Она торгует цветами.
+She shut the door.	Она закрыла дверь.
+She sings soprano.	Она поёт сопрано.
+She smiled at him.	Она улыбнулась ему.
+Solve the problem.	Решайте проблему.
+Solve the problem.	Реши задачу.
+Solve the problem.	Решите задачу.
+Somebody answered.	Кто-то ответил.
+Somebody has died.	Кто-то умер.
+Somebody's coming.	Кто-то идёт.
+Somehow, Tom knew.	Каким-то образом Том знал.
+Someone is coming.	Кто-то идёт.
+Someone is inside.	Кто-то внутри.
+Someone is inside.	Внутри кто-то есть.
+Stop overreacting.	Не утрируй.
+Stop overreacting.	Не утрируйте.
+Stop overreacting.	Хватит утрировать.
+Stop the car here.	Останови машину здесь.
+Stop the car here.	Остановите машину здесь.
+Stop wasting time.	Перестаньте терять время.
+Stop wasting time.	Не трать время.
+Strange, isn't it?	Странно, правда?
+Sweet dreams, Tom.	Сладких снов, Том.
+TV's boring today.	Сегодняшнее телевидение очень скучное.
+Tell me the truth.	Скажите мне правду.
+Tell me the truth.	Скажи мне правду.
+Tell me the truth.	Скажи мне правду!
+Tell me the truth.	Скажите мне правду!
+Tell me your name.	Скажи мне, как тебя зовут.
+Tell me your name.	Скажите мне, как вас зовут.
+Tell me your name.	Скажи мне своё имя.
+Tell me your name.	Скажите мне своё имя.
+Tell them to stop.	Скажи им остановиться.
+Tell them to stop.	Скажите им остановиться.
+That was so funny.	Это было так весело.
+That was so funny.	Это было так смешно.
+That was so funny.	Это было так забавно.
+That was terrible.	Это было ужасно.
+That was terrific.	Это было потрясающе.
+That was the idea.	В этом заключалась идея.
+That was the plan.	Таков был план.
+That was too easy.	Это было слишком легко.
+That was too easy.	Это было слишком просто.
+That was too much.	Это было слишком.
+That's our future.	Это наше будущее.
+That's our policy.	Это наша политика.
+That's our policy.	Такова наша политика.
+That's our secret.	Это наш секрет.
+That's outrageous.	Это оскорбительно.
+That's pretty sad.	Это довольно грустно.
+That's quite cool.	Это довольно-таки круто.
+That's really odd.	Это действительно странно.
+That's really odd.	Это в самом деле странно.
+That's really sad.	Это очень печально.
+The doorbell rang.	В дверь позвонили.
+The doorbell rang.	Раздался звонок в дверь.
+The earth rotates.	Земля вращается.
+The earth rotates.	Земля вертится.
+The enemy is weak.	Враг слаб.
+The fight is over.	Бой окончен.
+The fire went out.	Огонь погас.
+The fire went out.	Костёр погас.
+The floor creaked.	Пол скрипнул.
+The floor is cold.	Пол холодный.
+The test was easy.	Тест был простым.
+The test was easy.	Контрольная была простой.
+The test was easy.	Контрольная была лёгкая.
+The test was easy.	Контрольная была простая.
+The time has come.	Время пришло.
+The train is here.	А вот и поезд.
+The train is here.	Поезд пришёл.
+The train is late.	Поезд опаздывает.
+The train stopped.	Поезд остановился.
+The trunk is open.	Багажник открыт.
+They both laughed.	Оба посмеялись.
+They both relaxed.	Они оба отдохнули.
+They call him Tom.	Они зовут его Том.
+They call him Tom.	Они зовут его Томом.
+They call him Tom.	Они называют его Томом.
+They can't escape.	Они не могут сбежать.
+They can't get in.	Они не могут попасть внутрь.
+They can't see it.	Им его не видно.
+They can't see it.	Им её не видно.
+They can't see it.	Им этого не видно.
+They wanted proof.	Они хотели доказательства.
+They went fishing.	Они пошли на рыбалку.
+They went fishing.	Они пошли рыбачить.
+They went fishing.	Они пошли ловить рыбу.
+They went outside.	Они пошли на улицу.
+They were arguing.	Они спорили.
+They were beggars.	Они были попрошайками.
+They were cousins.	Они были двоюродными братьями.
+They were cousins.	Они были двоюродными сёстрами.
+They were cousins.	Они были двоюродными братом и сестрой.
+They're very busy.	Они очень заняты.
+They're very good.	Они очень хорошие.
+They're very poor.	Они очень бедные.
+They're very poor.	Они очень бедны.
+They're very well.	У них всё очень хорошо.
+They're wonderful.	Они замечательны.
+They're wonderful.	Они замечательные.
+They've come back.	Они вернулись.
+They've fired him.	Его уволили.
+They've fired him.	Они его уволили.
+This is my cousin.	Это моя двоюродная сестра.
+This is my driver.	Это мой водитель.
+This is my family.	Это моя семья.
+This is my father.	Это мой отец.
+This is my mother.	Это моя мама.
+This is my pencil.	Это мой карандаш.
+This is necessary.	Это необходимо.
+This is not funny.	Это не смешно.
+This is offensive.	Это оскорбительно.
+This is offensive.	Это грубо.
+Tokyo is in Japan.	Токио в Японии.
+Tokyo is in Japan.	Токио находится в Японии.
+Tom admitted that.	Том это признал.
+Tom almost choked.	Том чуть не подавился.
+Tom almost hit me.	Том чуть меня не сбил.
+Tom already knows.	Том уже знает.
+Tom also did that.	Том тоже это сделал.
+Tom always agrees.	Том всегда соглашается.
+Tom appeared calm.	Том казался спокойным.
+Tom approved that.	Том это одобрил.
+Tom can't whistle.	Том не умеет свистеть.
+Tom caught a cold.	Том простудился.
+Tom caught a cold.	Том подхватил простуду.
+Tom caught a fish.	Том поймал рыбу.
+Tom changed color.	Том изменился в лице.
+Tom chickened out.	Том наложил в штаны.
+Tom chickened out.	Том поджал хвост.
+Tom chickened out.	Том струхнул.
+Tom chose to quit.	Том решил уйти.
+Tom chose to stay.	Том решил остаться.
+Tom drives a Ford.	Том ездит на форде.
+Tom drives a Ford.	Том водит форд.
+Tom drives safely.	Том водит осторожно.
+Tom drives slowly.	Том ездит медленно.
+Tom drives slowly.	Том водит медленно.
+Tom drove me home.	Том отвёз меня домой.
+Tom drove the car.	Машину вёл Том.
+Tom drove to work.	Том поехал на работу на машине.
+Tom dyed his hair.	Том покрасил волосы.
+Tom dyes his hair.	Том красит волосы.
+Tom has an iPhone.	У Тома есть айфон.
+Tom has arthritis.	У Тома артрит.
+Tom has been busy.	Том был занят.
+Tom has been here.	Том был здесь.
+Tom has been hurt.	Том пострадал.
+Tom has been shot.	Том был застрелен.
+Tom has been told.	Тому сказали.
+Tom has big hands.	У Тома большие руки.
+Tom has big plans.	У Тома большие планы.
+Tom has blue eyes.	У Тома голубые глаза.
+Tom is a big shot.	Том — большая шишка.
+Tom is a big shot.	Том — важная птица.
+Tom is a big shot.	Том — большой человек.
+Tom is a bit pale.	Том бледноват.
+Tom is a bookworm.	Том - книжный червь.
+Tom is a botanist.	Том ботаник.
+Tom is a busy man.	Том - занятой человек.
+Tom is a castaway.	Том изгой.
+Tom is a civilian.	Том — гражданин.
+Tom is a criminal.	Том — преступник.
+Tom is disgusting.	Том омерзителен.
+Tom is disgusting.	Том отвратителен.
+Tom is distracted.	Том отвлечён.
+Tom is distracted.	Том отвлёкся.
+Tom is doing fine.	У Тома всё прекрасно.
+Tom is doing fine.	У Тома всё хорошо.
+Tom is doing that.	Том это делает.
+Tom is doing that.	Этим занимается Том.
+Tom is doing well.	Том в порядке.
+Tom is downstairs.	Том внизу.
+Tom is now crying.	Том теперь плачет.
+Tom is often home.	Том часто бывает дома.
+Tom is on his own.	Том сам по себе.
+Tom is on his way.	Том едет.
+Tom is on his way.	Том в пути.
+Tom is on the bus.	Том в автобусе.
+Tom is on the job.	Том на работе.
+Tom is on the run.	Том в бегах.
+Tom is optimistic.	Том — оптимист.
+Tom is our client.	Том - наш клиент.
+Tom isn't a pilot.	Том не лётчик.
+Tom isn't a thief.	Том не вор.
+Tom isn't at home.	Тома нет дома.
+Tom isn't at home.	Том не дома.
+Tom isn't at work.	Тома нет на работе.
+Tom isn't at work.	Том не на работе.
+Tom isn't certain.	Том не уверен.
+Tom isn't helping.	Том не помогает.
+Tom isn't himself.	Том сам не свой.
+Tom isn't in jail.	Том не в тюрьме.
+Tom likes his job.	Тому нравится его работа.
+Tom likes hunting.	Том любит охотиться.
+Tom likes it here.	Тому тут нравится.
+Tom likes oranges.	Тому нравятся апельсины.
+Tom likes oranges.	Том любит апельсины.
+Tom likes popcorn.	Том любит попкорн.
+Tom likes running.	Том любит бегать.
+Tom likes seafood.	Том любит морепродукты.
+Tom likes singing.	Том любит петь.
+Tom likes skating.	Том любит кататься на коньках.
+Tom may need help.	Тому может понадобиться помощь.
+Tom may still win.	Том ещё может выиграть.
+Tom may still win.	Том ещё может победить.
+Tom met with Mary.	Том встретился с Мэри.
+Tom might be home.	Том может быть дома.
+Tom might not die.	Возможно, Том не умер.
+Tom misses Boston.	Том скучает по Бостону.
+Tom misunderstood.	Том неправильно понял.
+Tom misunderstood.	Том не так понял.
+Tom moves quickly.	Том быстро двигается.
+Tom says he's won.	Том говорит, что выиграл.
+Tom says he's won.	Том говорит, что победил.
+Tom says it hurts.	Том говорит, больно.
+Tom says it works.	Том говорит, что всё работает.
+Tom says it's hot.	Том говорит, что горячо.
+Tom says it's hot.	Том говорит, что жарко.
+Tom scored a goal.	Том забил гол.
+Tom seems annoyed.	Том кажется раздосадованным.
+Tom seems excited.	Том кажется взволнованным.
+Tom seems jealous.	Том, кажется, ревнует.
+Tom waited nearby.	Том ждал неподалёку.
+Tom walked inside.	Том вошел внутрь.
+Tom walks quickly.	Том быстро ходит.
+Tom walks to work.	Том ходит на работу пешком.
+Tom wanted to cry.	Том хотел заплакать.
+Tom wanted to cry.	Тому хотелось плакать.
+Tom wanted to die.	Том хотел умереть.
+Tom wanted to die.	Тому хотелось умереть.
+Tom wanted to win.	Том хотел выиграть.
+Tom wanted to win.	Том хотел победить.
+Tom was trembling.	Тома трясло.
+Tom was unmarried.	Том был не женат.
+Tom was very busy.	Том был очень занят.
+Tom was very calm.	Том был очень спокоен.
+Tom was very cold.	Тому было очень холодно.
+Tom was very good.	Том был очень хорошим.
+Tom was very kind.	Том был очень добр.
+Tom was very late.	Том очень сильно опоздал.
+Tom was very nice.	Том был очень мил.
+Tom was very pale.	Том был очень бледен.
+Tom won't give in.	Том не уступит.
+Tom won't give up.	Том не сдастся.
+Tom won't go away.	Том не уйдёт.
+Tom won't help us.	Том нам не поможет.
+Tom won't hurt me.	Том мне не навредит.
+Tom won't hurt me.	Том меня не обидит.
+Tom won't hurt us.	Том нам не навредит.
+Tom won't hurt us.	Том нас не обидит.
+Tom won't like it.	Тому это не понравится.
+Tom won't make it.	У Тома ничего не выйдет.
+Try to stay awake.	Постарайся не спать.
+Try to stay awake.	Старайтесь не уснуть.
+Try to stay awake.	Постарайся не засыпать.
+Try to stay awake.	Постарайся не заснуть.
+Try to stay awake.	Постарайтесь не заснуть.
+Try to stay awake.	Постарайтесь не засыпать.
+Try to stay awake.	Постарайтесь не спать.
+Try to understand.	Попытайся понять.
+Try to understand.	Попытайтесь понять.
+Try to understand.	Постарайся понять.
+We aren't friends.	Мы не друзья.
+We aren't married.	Мы не женаты.
+We aren't married.	Мы не замужем.
+We aren't related.	Мы не родственники.
+We aren't serious.	Мы не всерьёз.
+We aren't serious.	Мы не серьёзно.
+We became friends.	Мы подружились.
+We became friends.	Мы стали друзьями.
+We believe in God.	Веруем в Бога.
+We believe in God.	Мы верим в бога.
+We don't need you.	Ты нам не нужен.
+We don't need you.	Ты нам не нужна.
+We don't think so.	Мы так не думаем.
+We don't think so.	Мы так не считаем.
+We drank a little.	Мы немного выпили.
+We finally did it.	Мы наконец сделали это.
+We finally did it.	В конце концов мы сделали это.
+We finished today.	Мы сегодня закончили.
+We gave it to Tom.	Мы дали его Тому.
+We gave them food.	Мы дали им еды.
+We must leave you.	Мы должны вас покинуть.
+We must pay taxes.	Мы должны платить налоги.
+We must stop them.	Мы должны их остановить.
+We must stop this.	Мы должны это прекратить.
+We must turn back.	Мы должны вернуться.
+We must warn them.	Мы должны их предупредить.
+We must work hard.	Мы должны трудиться.
+We need a victory.	Нам нужна победа.
+We need an answer.	Нам нужен ответ.
+We need donations.	Нам нужны пожертвования.
+We were newlyweds.	Мы были новобрачными.
+We were prisoners.	Мы были заключёнными.
+We were prisoners.	Мы были арестантами.
+We were skeptical.	Мы были настроены скептически.
+We were so afraid.	Мы так испугались.
+We were so afraid.	Нам было так страшно.
+We were very busy.	Мы были очень заняты.
+We weren't hiding.	Мы не прятались.
+We weren't hiding.	Мы не скрывались.
+We weren't hungry.	Мы не были голодны.
+We're cooking now.	Мы сейчас готовим.
+We're defenseless.	Мы беззащитны.
+We're experienced.	У нас есть опыт.
+We're friends now.	Теперь мы друзья.
+We're from Boston.	Мы из Бостона.
+We're getting fat.	Мы толстеем.
+We're getting old.	Мы стареем.
+We're going north.	Мы идём на север.
+We're going north.	Мы едем на север.
+We're going south.	Мы идём на юг.
+Were you drinking?	Ты пил?
+Were you drinking?	Вы пили?
+Were you drinking?	Вы выпивали?
+Were you followed?	За тобой следили?
+Were you followed?	За вами следили?
+Were you sleeping?	Ты спал?
+Were you sleeping?	Ты спала?
+Were you sleeping?	Вы спали?
+Weren't you tired?	Ты не устал?
+Weren't you tired?	Вы не устали?
+What did you sing?	Что ты пел?
+What did you sing?	Что вы пели?
+What did you take?	Что ты взял?
+What did you take?	Что вы взяли?
+What did you want?	Чего ты хотел?
+What did you want?	Ты чего хотел?
+What did you want?	Чего вы хотели?
+What do I do next?	Что мне делать дальше?
+What do I do then?	А что мне потом делать?
+What do I owe Tom?	Что я должен Тому?
+What will you buy?	Что ты купишь?
+What will you buy?	Что вы купите?
+What will you say?	Что вы скажете?
+What will you say?	Что ты скажешь?
+What would I wear?	Что бы я стал носить?
+What would I wear?	Что бы я надел?
+What would Tom do?	Что бы сделал Том?
+What would happen?	Что бы случилось?
+What would you do?	Что бы ты сделал?
+What would you do?	Что бы ты стал делать?
+When did Tom come?	Когда Том пришёл?
+When did Tom sing?	Когда Том пел?
+When did it occur?	Когда это случилось?
+When did it start?	Когда это началось?
+When did it start?	Когда он начался?
+When did it start?	Когда она началась?
+When did it start?	Когда оно началось?
+When did that end?	Когда это закончилось?
+When did you come?	Когда ты пришёл?
+When did you come?	Когда ты пришла?
+Where will I live?	Где я буду жить?
+Where will Tom be?	Где будет Том?
+Where will Tom go?	Куда Том пойдёт?
+Where will Tom go?	Куда Том поедет?
+Where will it end?	Где это закончится?
+Where will we eat?	Где мы будем есть?
+Where will we eat?	Где будем есть?
+Where will you be?	Где вы будете?
+Where will you go?	Куда пойдёшь?
+Where will you go?	Куда ты пойдёшь?
+Who appointed you?	Кто вас назначил?
+Who approved this?	Кто это одобрил?
+Who are these for?	А эти для кого?
+Who are those men?	Кто те люди?
+Who ate the bread?	Кто съел хлеб?
+Who believes that?	Кто в это верит?
+Who believes that?	Кто этому верит?
+Who broke the cup?	Кто разбил чашку?
+Who broke the mug?	Кто разбил кружку?
+Who can I talk to?	С кем я могу поговорить?
+Who would do that?	Кто бы сделал это?
+Who would do that?	Кто бы мог это сделать?
+Who would do this?	Кто бы сделал это?
+Who's at the door?	Кто у двери?
+Who's complaining?	Кто жалуется?
+Who's helping you?	Кто тебе помогает?
+Who's helping you?	Кто вам помогает?
+Who's in that car?	Кто в той машине?
+Who's on the team?	Кто в команде?
+Who's your doctor?	Кто ваш врач?
+Why did you agree?	Зачем вы согласились?
+Why did you do it?	Почему ты это сделал?
+Why did you do it?	Зачем вы это сделали?
+Why did you do it?	Зачем ты это сделала?
+Why did you leave?	Почему ты ушёл?
+Why did you leave?	Почему ты ушла?
+Why did you leave?	Почему вы ушли?
+Why did you leave?	Почему ты уехал?
+Why did you leave?	Почему ты уехала?
+Why did you leave?	Почему вы уехали?
+Won't you come in?	Вы не зайдёте?
+Won't you come in?	Не хочешь войти?
+Won't you come in?	Не хотите войти?
+Won't you join me?	Ты ко мне не присоединишься?
+Won't you join me?	Вы ко мне не присоединитесь?
+Won't you join us?	Ты не присоединишься к нам?
+Won't you join us?	Вы к нам не присоединитесь?
+Won't you tell me?	Ты мне не расскажешь?
+Won't you tell me?	Вы мне не расскажете?
+Won't you tell me?	Ты мне не скажешь?
+You are so stupid.	Ты такой тупой.
+You are so stupid.	Ты такой глупый.
+You are so stupid.	Ты такая тупая.
+You are so stupid.	Ты такая глупая.
+You are so stupid.	Вы такой тупой.
+You are so stupid.	Вы такая тупая.
+You are so stupid.	Вы такие тупые.
+You are something.	Ты нечто.
+You are two-faced.	Ты двуличный.
+You are two-faced.	Ты двуличная.
+You can't save me.	Вы не можете спасти меня.
+You can't save me.	Вам меня не спасти.
+You can't save me.	Тебе меня не спасти.
+You can't sell it.	Ты не можешь продать его.
+You can't sell it.	Ты не можешь его продать.
+You can't sell it.	Ты не можешь её продать.
+You can't sell it.	Вы не можете его продать.
+You can't sell it.	Вы не можете её продать.
+You can't sell it.	Его нельзя продавать.
+You can't sell it.	Её нельзя продавать.
+You gave it to us.	Ты дал его нам.
+You gave it to us.	Ты дал её нам.
+You gave it to us.	Вы дали его нам.
+You gave it to us.	Вы дали её нам.
+You gave it to us.	Ты нам его подарил.
+You gave it to us.	Ты нам её подарил.
+You gave it to us.	Вы нам его подарили.
+You gave it to us.	Вы нам её подарили.
+You got here fast.	Вы быстро добрались сюда.
+You got shot, Tom.	Тебя подстрелили, Том.
+You look terrible.	Ужасно выглядите.
+You look terrific.	Ты потрясающе выглядишь.
+You look terrific.	Вы потрясающе выглядите.
+You look troubled.	Ты выглядишь обеспокоенным.
+You look troubled.	Ты выглядишь обеспокоенной.
+You look troubled.	Ты выглядишь встревоженным.
+You look troubled.	Ты выглядишь встревоженной.
+You look worn out.	Ты выглядишь измученным.
+You looked guilty.	Ты выглядел виноватым.
+You looked guilty.	Ты выглядела виноватой.
+You need to hurry.	Вам нужно торопиться.
+You need to leave.	Тебе нужно уйти.
+You need to leave.	Вам нужно уйти.
+You need to leave.	Тебе нужно уехать.
+You need to leave.	Вам нужно уехать.
+You need to relax.	Тебе нужно расслабиться.
+You need to relax.	Вам нужно расслабиться.
+You need to shave.	Тебе надо побриться.
+You need to shave.	Вам надо побриться.
+You need to sleep.	Вам надо поспать.
+You won't need it.	Вам она не понадобится.
+You won't need it.	Вам оно не понадобится.
+You won't need me.	Я тебе не понадоблюсь.
+You won't need me.	Я вам не понадоблюсь.
+You won't need me.	Я не буду тебе нужен.
+You won't need me.	Я не буду вам нужен.
+You work too much.	Вы слишком много работаете.
+You would like it.	Тебе бы это понравилось.
+You would like it.	Вам бы это понравилось.
+You'd better stay.	Ты бы лучше остался.
+You're bugging me.	Ты меня раздражаешь.
+You're bugging me.	Вы меня раздражаете.
+You're contagious.	Ты заразный.
+You're contagious.	Вы заразные.
+You're contagious.	Вы заразная.
+You're contagious.	Вы заразный.
+You're contagious.	Ты заразная.
+You're dependable.	На тебя можно положиться.
+You're dependable.	Ты надежный.
+You're diplomatic.	Ты дипломатичен.
+You're scaring me.	Вы меня пугаете.
+You're so gallant.	Ты такой галантный.
+You're so intense.	Ты такая страстная.
+You're so intense.	Ты такой страстный.
+You're so intense.	Вы такие страстные.
+You're so intense.	Вы такая страстная.
+You're so intense.	Вы такой страстный.
+You're so perfect.	Ты такая идеальная.
+You're so selfish.	Ты такой эгоист.
+You're so selfish.	Ты такая эгоистка.
+You've got to win.	Вы должны победить.
+You've got to win.	Тебе надо выиграть.
+You've got to win.	Вам надо выиграть.
+You've got to win.	Ты должен выиграть.
+You've got to win.	Вы должны выиграть.
+You've got to win.	Тебе надо победить.
+You've got to win.	Вам надо победить.
+You've gotten fat.	Ты растолстел.
+You've gotten fat.	Вы растолстели.
+You've had enough.	Хватит с тебя.
+Anybody can use it.	Ей может пользоваться кто угодно.
+Anyhow let's begin.	В любом случае, давайте начнём.
+Anyone can do that.	Любой человек может это сделать.
+Anyone can do that.	Это может сделать кто угодно.
+Anything will help.	Что угодно поможет.
+Anything will help.	Любая малость будет помощью.
+Applause broke out.	Разразились аплодисменты.
+Are meals included?	Включена ли сюда стоимость питания?
+Are my children OK?	С моими детьми всё в порядке?
+Are these for sale?	Они продаются?
+Are you here alone?	Ты здесь один?
+Are you here alone?	Ты здесь одна?
+Are you home alone?	Ты дома один?
+Are you home alone?	Ты одна дома?
+Are you home alone?	Вы одни дома?
+Are you hungry now?	Ты сейчас голоден?
+Are you hungry now?	Ты сейчас есть хочешь?
+Are you hungry now?	Вы сейчас есть хотите?
+Are you hungry now?	Ты сейчас голодный?
+Are you hungry now?	Вы сейчас голодные?
+Ask Tom for advice.	Спросите совета у Тома.
+Ask Tom to call me.	Попроси Тома, чтобы он мне позвонил.
+Ask Tom to call me.	Попросите Тома, чтобы он мне позвонил.
+Ask her for advice.	Попроси у неё совета.
+Ask her for advice.	Попросите у неё совета.
+Ask him for advice.	Попроси у него совета.
+Ask him for advice.	Попросите у него совета.
+Back away from Tom.	Отойдите от Тома.
+Back up your files.	Сделайте резервную копию ваших файлов.
+Back up your files.	Сделай резервную копию своих файлов.
+Can I take it home?	Могу я взять его домой?
+Can I take it home?	Можно мне забрать её домой?
+Can I take it home?	Можно мне забрать его домой?
+Can I take it home?	Можно мне забрать это домой?
+Can I tell Tom why?	Можно я скажу Тому почему?
+Can I tell Tom why?	Я могу сказать Тому почему?
+Can I try one more?	Можно мне ещё один попробовать?
+Can I try one more?	Можно мне ещё одну попробовать?
+Can I try one more?	Можно мне ещё одно попробовать?
+Can I use your pen?	Можно воспользоваться твоей ручкой?
+Check this one out.	Проверьте эту.
+Check your pockets.	Проверь карманы.
+Check your pockets.	Проверьте карманы.
+Children are dying.	Дети умирают.
+Children need love.	Детям нужна любовь.
+Children need love.	Дети нуждаются в любви.
+Choose to be happy.	Выбирай быть счастливым.
+Choose your weapon.	Выбирай оружие.
+Choose your weapon.	Выбирайте оружие.
+Clean up that mess.	Убери этот бардак.
+Did anyone hear me?	Меня кто-нибудь слышал?
+Did anyone hug Tom?	Кто-нибудь обнял Тома?
+Did anyone miss me?	По мне кто-нибудь скучал?
+Did everyone agree?	Все согласились?
+Did she sleep well?	Она хорошо поспала?
+Did they live here?	Они здесь жили?
+Did we wake you up?	Мы тебя разбудили?
+Did we wake you up?	Мы вас разбудили?
+Did we wake you up?	Мы Вас разбудили?
+Did you arrest Tom?	Вы арестовали Тома?
+Do not disturb her.	Не беспокойте её.
+Do not disturb her.	Не беспокой её.
+Do they have money?	У них есть деньги?
+Do they have money?	Деньги у них есть?
+Do they sell books?	Они торгуют книгами?
+Do they sell books?	Они продают книги?
+Do they suspect me?	Они меня подозревают?
+Do what I tell you.	Делай то, что я тебе говорю.
+Do you accept Visa?	Вы принимаете VISA?
+Do you accept tips?	Вы берёте чаевые?
+Do you like robots?	Тебе нравятся роботы?
+Do you like robots?	Ты любишь роботов?
+Do you like salmon?	Вы любите лосось?
+Do you like salmon?	Ты любишь красную рыбу?
+Do you like salmon?	Вы любите красную рыбу?
+Do you like salmon?	Ты любишь лосось?
+Do you like salmon?	Ты любишь лосося?
+Do you like salmon?	Вы любите лосося?
+Do you like school?	Нравится ли тебе школа?
+Do you like school?	Тебе нравится школа?
+Do you want to win?	Вы хотите выиграть?
+Do you want to win?	Ты хочешь выиграть?
+Do you watch anime?	Ты смотришь аниме?
+Do you watch anime?	Вы смотрите аниме?
+Do you work at all?	Ты вообще работаешь?
+Do you work at all?	Вы вообще работаете?
+Do your gums bleed?	У тебя кровоточат дёсны?
+Doctors save lives.	Врачи спасают жизни.
+Does Tom cry a lot?	Том много плачет?
+Does Tom drink tea?	Том пьёт чай?
+Don't be so modest.	Не будь таким скромным.
+Don't be so modest.	Не скромничай!
+Don't be so modest.	Не скромничайте!
+Don't be so stingy.	Не будь таким скупым.
+Don't be surprised.	Не удивляйся.
+Don't be surprised.	Не удивляйтесь.
+Don't buy too much.	Не покупай слишком много.
+Don't buy too much.	Не покупайте слишком много.
+Don't buy too much.	Не покупай слишком много всего.
+Don't buy too much.	Не покупайте слишком много всего.
+Don't make a scene.	Не устраивайте сцены.
+Don't make a scene.	Не устраивай сцен.
+Don't make a scene.	Не устраивайте сцен.
+Don't make me sing.	Не заставляй меня петь.
+Don't make me sing.	Не заставляйте меня петь.
+Don't make me wait.	Не заставляйте меня ждать.
+Don't miss the bus.	Не опоздай на автобус.
+Don't miss the bus.	Не опоздайте на автобус.
+Don't move, please.	Пожалуйста, не двигайтесь.
+Don't move, please.	Не двигайся, пожалуйста.
+Don't you like Tom?	Тебе не нравится Том?
+Don't you like Tom?	Вам не нравится Том?
+Don't you miss Tom?	Ты не скучаешь по Тому?
+Don't you miss Tom?	Вы не скучаете по Тому?
+Don't you remember?	Ты разве не помнишь?
+Don't you remember?	Вы разве не помните?
+Don't you think so?	Ты так не считаешь?
+Don't you think so?	Ты так не думаешь?
+Don't you think so?	Вы так не думаете?
+Don't you think so?	Тебе так не кажется?
+Everyone likes you.	Ты нравишься всем.
+Everyone likes you.	Вы нравитесь всем.
+Everyone likes you.	Ты всем нравишься.
+Everyone loved Tom.	Все любили Тома.
+Everyone loves Tom.	Все любят Тома.
+Everyone loves him.	Его все любят.
+Everyone loves him.	Все любят его.
+Everyone loves him.	Все его любят.
+Everyone loves you.	Все тебя любят.
+Everyone loves you.	Все вас любят.
+Get out of my life!	Убирайтесь из моей жизни!
+Get out of my life!	Убирайся из моей жизни!
+Get out of my life.	Убирайтесь из моей жизни!
+Get out of my life.	Убирайся из моей жизни!
+Get out of my room!	Вали из моей комнаты!
+Get out of my room!	Убирайся из моей комнаты!
+Get out of my room!	Вон из моей комнаты!
+Get out of my room!	Выметайся из моей комнаты!
+Get out of my room!	Убирайтесь из моей комнаты!
+Get out of my room.	Убирайся из моей комнаты.
+Give us an example.	Приведи нам пример.
+Give us an example.	Приведите нам пример.
+Glass is breakable.	Стекло хрупкое.
+Go ahead, shoot me.	Давай, выстрели в меня.
+Go ahead, shoot me.	Давай, стреляй в меня.
+Go and have a look.	Пойди взгляни.
+Go and have a look.	Пойдите взгляните.
+Go and talk to Tom.	Пойди поговори с Томом.
+Go and talk to Tom.	Пойдите поговорите с Томом.
+Go and talk to Tom.	Иди и поговори с Томом.
+Have you got plans?	У тебя есть планы?
+Have you got plans?	У вас есть планы?
+Have you had lunch?	Ты пообедал?
+Have you had lunch?	Ты обедал?
+Have you had lunch?	Вы обедали?
+Have you missed me?	Вы по мне скучали?
+Have you missed me?	Ты по мне скучал?
+Have you read this?	Ты это читал?
+Have you read this?	Вы это читали?
+Have you seen them?	Ты их видел?
+He forgot his name.	Он забыл, как его зовут.
+He forgot it again.	Он опять забыл об этом.
+He found me a taxi.	Он поймал мне такси.
+He gave her a book.	Он дал ей книгу.
+He gave him a book.	Он дал ему книгу.
+He gave me a watch.	Он дал мне часы.
+He gave me a watch.	Он подарил мне часы.
+He got back at six.	Он вернулся в шесть.
+He got home at six.	Он пришел домой в шесть.
+He got off the bus.	Он вышел из автобуса.
+He lives in luxury.	Он живет в роскоши.
+He lives near here.	Он тут недалеко живёт.
+He lives near here.	Он живёт недалеко отсюда.
+He looks very good.	Он очень хорошо выглядит.
+He lost everything.	Он всё потерял.
+He lost everything.	Он потерял всё.
+He lost his memory.	Он потерял память.
+He lost his temper.	Он потерял самообладание.
+He loves to gossip.	Он любит сплетничать.
+He loves to gossip.	Он любит посплетничать.
+He went by bicycle.	Он поехал на велосипеде.
+He went for a walk.	Он пошёл прогуляться.
+He went on singing.	Он продолжил петь.
+He went on working.	Он продолжил работать.
+He went on working.	Он продолжал работать.
+He went out to eat.	Он вышел поесть.
+He went to America.	Он поехал в Америку.
+He went to America.	Он отправился в Америку.
+He won the lottery.	Он выиграл в лотерею.
+He won't be missed.	По нему не будут скучать.
+Her face grew pale.	Её лицо побледнело.
+Her face was sooty.	Её лицо было в саже.
+Her father is tall.	У неё высокий отец.
+Her father is tall.	Отец у неё высокий.
+Her fever subsided.	Температура у неё упала.
+Her grammar is bad.	У неё грамматика хромает.
+Her grammar is bad.	У неё плохо с грамматикой.
+Her hair grew back.	Волосы у неё отросли.
+Her skin is smooth.	У неё гладкая кожа.
+Her socks are gray.	Её носки серые.
+How can I help you?	Чем я могу Вам помочь?
+How can I help you?	Чем я могу вам помочь?
+How can I help you?	Чем я могу тебе помочь?
+How can I help you?	Как я могу вам помочь?
+How can I help you?	Как я могу тебе помочь?
+How can I help you?	Чем могу вам помочь?
+How can I help you?	Каким образом я могу тебе помочь?
+How can I prove it?	Как я могу это доказать?
+How can I stop Tom?	Как мне остановить Тома?
+How can it be done?	Как это может быть сделано?
+How may I help you?	Как мне тебе помочь?
+How may I help you?	Как мне вам помочь?
+How much is a room?	Сколько стоит комната?
+How old is Tom now?	Сколько Тому сейчас лет?
+How old is Tom now?	Сколько сейчас Тому?
+How old is this TV?	Сколько лет этому телевизору?
+How old's your son?	Сколько лет вашему сыну?
+How safe is Brazil?	Насколько Бразилия безопасна?
+How was Tom killed?	Как был убит Том?
+How was Tom killed?	Как убили Тома?
+I am just dreaming.	Я просто мечтаю.
+I am not a monster.	Я не монстр.
+I am not a monster.	Я не чудовище.
+I am not a prophet.	Я не пророк.
+I am not a prophet.	Я не прорицатель.
+I am not a student.	Я не студент.
+I am not a teacher.	Я не учитель.
+I am not a teacher.	Я не учительница.
+I am not ready yet.	Я ещё не готов.
+I am not ready yet.	Я ещё не готова.
+I came to save you.	Я пришла тебя спасти.
+I came to save you.	Я пришла спасти тебя.
+I came to save you.	Я пришёл спасти тебя.
+I can arrange that.	Я могу это уладить.
+I can arrange that.	Я могу это устроить.
+I can arrange that.	Я могу принять меры.
+I can barely stand.	Я едва держусь на ногах.
+I can confirm this.	Я могу это подтвердить.
+I can deal with it.	Я могу с этим справиться.
+I can do it myself.	Я сам могу это сделать.
+I can't wait to go.	Мне не терпится поехать.
+I carpool with Tom.	Том подвозит меня.
+I carpool with Tom.	Я еду с Томом в одной машине.
+I caught the thief.	Я поймал вора.
+I changed my shirt.	Я сменил рубашку.
+I changed my shirt.	Я переодел рубашку.
+I changed my shirt.	Я надел другую рубашку.
+I changed the flag.	Я поменял флаг.
+I changed the flag.	Я сменил флаг.
+I changed the flag.	Я изменил флаг.
+I didn't read that.	Я этого не читал.
+I didn't say hello.	Я не поздоровался.
+I didn't shoot Tom.	Я не стрелял в Тома.
+I didn't stay long.	Я надолго не остался.
+I didn't stay long.	Я не задержался.
+I didn't tell them.	Я им не сказал.
+I didn't tell them.	Я им не говорил.
+I didn't touch Tom.	Я не трогал Тома.
+I didn't touch Tom.	Я до Тома не дотрагивался.
+I didn't touch Tom.	Я к Тому не прикасался.
+I dried the dishes.	Я вытер тарелки.
+I dropped my apple.	Я уронил яблоко.
+I dropped my phone.	Я уронил телефон.
+I dropped the vase.	Я уронил вазу.
+I eat in the house.	Я ем в доме.
+I ended up winning.	В итоге я выиграл.
+I enjoy doing that.	Мне нравится это занятие.
+I enjoyed doing it.	Мне понравилось это делать.
+I enjoyed swimming.	Я наслаждался плаванием.
+I enjoyed swimming.	Я с удовольствием поплавал.
+I give you my word.	Даю слово.
+I give you my word.	Я даю вам слово.
+I give you my word.	Даю тебе слово.
+I got Tom to do it.	Я уговорил Тома сделать это.
+I got Tom to do it.	Мне удалось добиться, чтобы Том это сделал.
+I got Tom to laugh.	Я рассмешил Тома.
+I got Tom to leave.	Я убедил Тома уйти.
+I got Tom to leave.	Я убедила Тома уйти.
+I got Tom to leave.	Я убедил Тома уехать.
+I got Tom to leave.	Я убедила Тома уехать.
+I have a flat tire.	У меня покрышка спустила.
+I have a glass eye.	У меня стеклянный глаз.
+I have a good crew.	У меня хорошая команда.
+I have a good crew.	У меня хороший экипаж.
+I have a good crew.	У меня хорошая бригада.
+I have a good idea.	У меня есть хорошая идея.
+I have a good life.	У меня хорошая жизнь.
+I have a great job.	У меня замечательная работа.
+I have a green car.	У меня есть зелёный автомобиль.
+I have a green car.	У меня зелёная машина.
+I have to see this.	Я должен увидеть это.
+I have to see this.	Я должен видеть это.
+I have to see this.	Я должна видеть это.
+I have to see this.	Я должна увидеть это.
+I have to see this.	Мне надо это увидеть.
+I have to sit down.	Мне надо сесть.
+I have to stop Tom.	Я должен остановить Тома.
+I have to stop Tom.	Я должна остановить Тома.
+I have to tell Tom.	Я должен сказать Тому.
+I have to tell Tom.	Мне нужно сказать Тому.
+I hope you're well.	Надеюсь, ты в порядке.
+I hope you're well.	Надеюсь, вы в порядке.
+I hurt my left arm.	Я повредил левую руку.
+I hurt my left arm.	Я поранил левую руку.
+I hurt my shoulder.	Я повредил плечо.
+I jog twice a week.	Я два раза в неделю делаю пробежку.
+I jumped overboard.	Я прыгнул за борт.
+I just arrived now.	Я приехал только что.
+I just bought this.	Я только что это купил.
+I just can't do it.	Я просто не могу этого сделать.
+I know it by heart.	Я её наизусть знаю.
+I know it for sure.	Я знаю это наверняка.
+I know my daughter.	Я свою дочь знаю.
+I know nothing yet.	Я пока ничего не знаю.
+I know nothing yet.	Я еще ничего не знаю.
+I know that's true.	Я знаю, что это правда.
+I know the feeling.	Мне знакомо это чувство.
+I know the problem.	Я знаю эту проблему.
+I know the problem.	Мне знакома эта проблема.
+I know those girls.	Я знаю этих девочек.
+I like L.A. better.	Я предпочитаю Лос-Анджелес.
+I like Tom already.	Том мне уже нравится.
+I like Tom's jokes.	Мне нравятся шутки Тома.
+I like Tom's voice.	Мне нравится голос Тома.
+I like all of them.	Мне все они нравятся.
+I like apples best.	Больше всего я люблю яблоки.
+I like autumn best.	Больше всего мне нравится осень.
+I like being alone.	Мне нравится быть одному.
+I like butterflies.	Я люблю бабочек.
+I like butterflies.	Мне нравятся бабочки.
+I love her perfume.	Мне нравятся её духи.
+I love lentil soup.	Я люблю чечевичный суп.
+I love lentil soup.	Я люблю суп из чечевицы.
+I love my children.	Я люблю своих детей.
+I love my children.	Я люблю моих детей.
+I love summer rain.	Люблю летний дождь.
+I love this school.	Я обожаю эту школу.
+I love video games.	Я люблю видеоигры.
+I love watching TV.	Я люблю смотреть телевизор.
+I love you so much.	Я так тебя люблю.
+I need a long rope.	Мне нужна длинная верёвка.
+I need a mouse pad.	Мне нужен коврик для мыши.
+I need a new hobby.	Мне нужно новое хобби.
+I need a new phone.	Мне нужен новый телефон.
+I need a new shirt.	Мне нужна новая рубашка.
+I need a secretary.	Мне нужна секретарша.
+I need a secretary.	Мне нужен секретарь.
+I need a volunteer.	Мне нужен доброволец.
+I need an envelope.	Мне нужен конверт.
+I need another job.	Мне нужна другая работа.
+I only did my duty.	Я лишь исполнил свой долг.
+I only drink water.	Я пью только воду.
+I opened the doors.	Я открыл двери.
+I opened the trunk.	Я открыл багажник.
+I owe Tom for this.	Я должен Тому за это.
+I owe Tom for this.	Я должна Тому за это.
+I owe you a dinner.	За мной ужин.
+I owed Tom nothing.	Я ничего не был должен Тому.
+I painted the wall.	Я покрасил стену.
+I panicked and ran.	Я запаниковал и побежал.
+I saw an explosion.	Я видела взрыв.
+I saw an explosion.	Я увидела взрыв.
+I saw him just now.	Я только что его видел.
+I saw him recently.	Я недавно его видел.
+I saw him recently.	Я его недавно видел.
+I saw him run away.	Я видел, как он убежал.
+I saw him run away.	Я видел, как он убегает.
+I saw that he came.	Я видел, как он пришёл.
+I saw the pictures.	Я видел фотографии.
+I saw them do that.	Я видел, как они это делали.
+I think I love you.	Кажется, я тебя люблю.
+I think Tom is fat.	По-моему, Том толстый.
+I think Tom is old.	По-моему, Том старый.
+I think Tom's here.	Думаю, Том здесь.
+I think Tom's here.	По-моему, Том здесь.
+I think he is sick.	Думаю, он болен.
+I think he'll come.	Думаю, он придёт.
+I think he's angry.	Я думаю, он сердится.
+I think he's happy.	Я думаю, он счастлив.
+I think he's happy.	По-моему, он счастлив.
+I unplugged the TV.	Я выдернул телевизор из розетки.
+I unplugged the TV.	Я выдернула телевизор из розетки.
+I use it every day.	Я пользуюсь этим ежедневно.
+I use it every day.	Я пользуюсь им каждый день.
+I use it every day.	Я пользуюсь ей каждый день.
+I use it every day.	Я этим пользуюсь каждый день.
+I used to eat meat.	Я раньше ел мясо.
+I used to hate Tom.	Я раньше ненавидел Тома.
+I used to hate you.	Раньше я ненавидел тебя.
+I used to hate you.	Раньше я тебя ненавидел.
+I want to see that.	Я хочу это увидеть.
+I want to see that.	Я хочу на это посмотреть.
+I want to see them!	Я хочу увидеть их!
+I want to see them!	Я хочу видеть их!
+I want to see them.	Я хочу их увидеть.
+I want to see them.	Я хочу их видеть.
+I want to see this.	Я хочу это увидеть.
+I want to see this.	Я хочу это видеть.
+I want to sit down.	Я хочу присесть.
+I want to talk now.	Я хочу поговорить сейчас.
+I was just kidding.	Я просто шутил.
+I was just kidding.	Я просто шутила.
+I was just kidding.	Я же шутил.
+I was just kidding.	Я же пошутил.
+I was just leaving.	Я как раз уходил.
+I was just looking.	Я только смотрел.
+I was just looking.	Я только смотрела.
+I was just looking.	Я просто смотрел.
+I was just nervous.	Я просто нервничал.
+I was just reading.	Я только читал.
+I went there today.	Я сегодня туда ходил.
+I went there today.	Я сегодня туда ездил.
+I went to Nagasaki.	Я отправился в Нагасаки.
+I went to Nagasaki.	Я поехал в Нагасаки.
+I went to the bank.	Я пошёл в банк.
+I went to the park.	Я пошёл в парк.
+I went to the park.	Я ходил в парк.
+I went to the room.	Я пошёл в комнату.
+I went to the shop.	Я пошёл в магазин.
+I will go on ahead.	Я пойду вперёд.
+I'd never hurt Tom.	Я бы никогда не обидел Тома.
+I'd never hurt Tom.	Я бы никогда не обидела Тома.
+I'd never hurt you.	Я бы никогда не обидел тебя.
+I'd never hurt you.	Я бы никогда не обидела тебя.
+I'd never hurt you.	Я бы никогда не обидел вас.
+I'd never hurt you.	Я бы никогда не обидела вас.
+I'd never say that.	Я бы никогда не сказал этого.
+I'd never say that.	Я бы никогда не сказала этого.
+I'd never say that.	Я бы такого никогда не сказал.
+I'd never say that.	Я бы никогда такого не сказал.
+I'll help you pack.	Я помогу вам уложить вещи.
+I'll introduce you.	Я тебя представлю.
+I'll introduce you.	Я вас представлю.
+I'll just go alone.	Я просто пойду один.
+I'll just go alone.	Я просто поеду один.
+I'll just go alone.	Я просто пойду одна.
+I'll just go alone.	Я просто поеду одна.
+I'll just go check.	Пойду проверю.
+I'll just go check.	Схожу проверю.
+I'll keep doing it.	Я буду продолжать это делать.
+I'll wait with you.	Я с вами подожду.
+I'll walk with you.	Я с тобой пройдусь.
+I'll walk with you.	Я с вами пройдусь.
+I'll work with Tom.	Я буду работать с Томом.
+I'll work with you.	Я буду с вами работать.
+I'm Mary's husband.	Я муж Мэри.
+I'm Tom's daughter.	Я дочь Тома.
+I'm Tom's fiancée.	Я невеста Тома.
+I'm Tom's guardian.	Я опекун Тома.
+I'm Tom's neighbor.	Я сосед Тома.
+I'm at Tom's house.	Я в доме Тома.
+I'm at Tom's house.	Я у Тома.
+I'm at Tom's house.	Я у Тома дома.
+I'm at the airport.	Я в аэропорту.
+I'm at the library.	Я в библиотеке.
+I'm back in Boston.	Я вернулся в Бостон.
+I'm back in Boston.	Я вернулась в Бостон.
+I'm back in Boston.	Я снова в Бостоне.
+I'm being deported.	Меня депортируют.
+I'm bleeding badly.	У меня сильное кровотечение.
+I'm going with Tom.	Я иду с Томом.
+I'm going with Tom.	Я еду с Томом.
+I'm going with you.	Я иду с тобой.
+I'm going with you.	Я с тобой.
+I'm going with you.	Я с вами.
+I'm going with you.	Я иду с вами.
+I'm going with you.	Я еду с тобой.
+I'm going with you.	Я еду с вами.
+I'm good at skiing.	Я хорошо катаюсь на лыжах.
+I'm good at soccer.	Я хорошо играю в футбол.
+I'm not illiterate.	Я не неграмотная.
+I'm not in a hurry.	Я не тороплюсь.
+I'm not interested.	Мне неинтересно.
+I'm not invincible.	Я не непобедим.
+I'm not late, am I?	Я ведь не опоздал, правда?
+I'm not mad at Tom.	Я не злюсь на Тома.
+I'm not mad at Tom.	Я не сержусь на Тома.
+I'm not mad at you.	Я на тебя не сержусь.
+I'm not old enough.	Я недостаточно стар.
+I'm not optimistic.	Я не оптимист.
+I'm still in shock.	Я до сих пор в шоке.
+I'm still not sure.	Я всё ещё не уверена.
+I'm still the boss.	Начальник пока что я.
+I'm still thinking.	Я ещё думаю.
+I'm still too weak.	Я ещё слишком слаб.
+I'm still too weak.	Я всё ещё слишком слаб.
+I'm still with Tom.	Я всё ещё с Томом.
+I'm studying music.	Я изучаю музыку.
+I'm such a crybaby.	Я такой плакса.
+I'm suddenly tired.	Я внезапно устал.
+I've got to see it.	Я должен увидеть это.
+I've got to see it.	Я должен это увидеть.
+I've got two books.	У меня две книги.
+I've got two books.	У меня есть две книги.
+I've got your back.	Я тебя прикрою.
+I've gotten better.	Мне стало лучше.
+I've gotten hungry.	Я проголодался.
+I've had a bad day.	У меня был плохой день.
+I've heard nothing.	Я ничего не слышал.
+I've heard nothing.	Я ничего не слышала.
+Is he your teacher?	Он твой преподаватель?
+Is it a compliment?	Это комплимент?
+Is it a nice place?	Это хорошее место?
+Is it a slow train?	Это пассажирский поезд?
+Is it all paid for?	Всё это оплачено?
+Is it already open?	Уже открыто?
+Is it already open?	Она уже открыта?
+Is it already open?	Он уже открыт?
+Is it already open?	Оно уже открыто?
+Is it already open?	Он уже работает?
+Is this your money?	Это твои деньги?
+Is this your money?	Это ваши деньги?
+Is this your phone?	Это твой телефон?
+Is this your phone?	Это Ваш телефон?
+Is this your phone?	Это ваш телефон?
+Is this your place?	Это твоё место?
+Is this your place?	Это Ваше место?
+Is this your purse?	Это твоя сумочка?
+Is this your purse?	Это Ваша сумочка?
+Is this yours, Tom?	Это твой, Том?
+It just isn't fair.	Это просто несправедливо.
+It just takes time.	На это просто требуется время.
+It just takes time.	На это просто нужно время.
+It just won't work.	Это просто не будет работать.
+It just won't work.	Она просто не будет работать.
+It just won't work.	Он просто не будет работать.
+It just won't work.	Оно просто не будет работать.
+It looked horrible.	Это выглядело ужасно.
+It looks all right.	Выглядит нормально.
+It looks delicious.	Выглядит вкусно.
+It was pitch-black.	Он был чёрный как смоль.
+It was pitch-black.	Оно было угольно-чёрным.
+It was predictable.	Это было предсказуемо.
+It was pretty dark.	Было довольно темно.
+It was pretty easy.	Это было довольно просто.
+It was pretty easy.	Это было довольно легко.
+It was preventable.	Это можно было предотвратить.
+It was preventable.	Этого можно было избежать.
+It was quiet again.	Стало опять тихо.
+It was quite funny.	Было довольно весело.
+It's a strange one.	Эта странная.
+It's a strange one.	Это странное.
+It's a stupid idea.	Это нелепая идея.
+It's a stupid idea.	Это глупая идея.
+It's a stupid rule.	Это тупое правило.
+It's a stupid rule.	Это идиотское правило.
+It's a stupid rule.	Это дурацкое правило.
+It's a stupid rule.	Это глупое правило.
+It's a typo. Sorry.	Это опечатка. Извините.
+It's a typo. Sorry.	Это опечатка. Прошу прощения.
+It's in your truck.	Оно у вас в грузовике.
+It's in your truck.	Это у вас в грузовике.
+It's just a rabbit.	Это просто кролик.
+It's just a theory.	Это лишь теория.
+It's just a theory.	Это только теория.
+It's just a theory.	Это всего лишь теория.
+It's just not fair.	Это просто несправедливо.
+It's made of brass.	Он сделан из латуни.
+It's made of brass.	Она сделана из латуни.
+It's made of brass.	Оно сделано из латуни.
