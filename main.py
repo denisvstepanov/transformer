@@ -591,7 +591,7 @@ def save_model(log_dir: Path, epoch: int, model: nn.Module) -> None:
     print('Done')
 
 
-def train_model(epochs=1, batch_size=12):
+def train_model(epochs=10, batch_size=50):
     device = choose_device()
     fix_seed(42)
 
