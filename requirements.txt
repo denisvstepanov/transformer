@@ -6,3 +6,4 @@ matplotlib
 torch
 nltk
 gensim
+transformers
