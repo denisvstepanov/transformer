@@ -615,7 +615,7 @@ class GenerationState:
 
     @torch.no_grad()
     def next(self, token: int):
-        tgt = torch.tensor([[token]], device=self.module.device)
+        tgt = torch.tensor([[token]], device=self.module.device).long()
         if self.tgt is not None:
             self.tgt = torch.cat([self.tgt, tgt], dim=1)
         else:
