@@ -674,9 +674,7 @@ def train_model(epochs=50, batch_size=50):
     optimizer, scheduler = setup_optimizer(model)
     save_model(Path('model'), 0, model)
 
-    last_norm_step = -1
     for epoch in range(epochs):
-        # evaluate(model, evals, device, eval_batch_size=batch_size, writer=writer, step=epoch)
 
         train_loader = create_loader(train_dataset, batch_size=batch_size)
         total_batches = len(train_loader)
@@ -684,7 +682,6 @@ def train_model(epochs=50, batch_size=50):
         model.train()
         epoch_loss = 0
         for batch_no, batch in enumerate(tqdm(train_loader, ncols=40, desc=f'Epoch {epoch}')):
-            norm_step = normalize_step(batch_no, total_batches, epoch)
             optimizer.zero_grad()
             batch = device_batch(batch, device)
             src, tgt = parse_batch(batch, bos_id, eos_id)
