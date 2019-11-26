@@ -472,7 +472,7 @@ class Transformer(nn.Module):
         self.nhead = config.nhead
 
     def forward(self, src, tgt):
-        tgt_mask = generate_square_subsequent_mask(tgt.shape[0]).to(tgt.device)
+        tgt_mask = generate_square_subsequent_mask(tgt.shape[1]).to(tgt.device)
         print(f'src: {src.size()} tgt: {tgt.size()} tgt_mask: {tgt_mask.size()}')
         out = self.model(src, tgt, None, tgt_mask)
         return out
