@@ -383,7 +383,7 @@ class MultiHeadedAttention(nn.Module):
 
     def forward(self, query, key, value, mask=None):
         if mask is not None:
-            mask = mask.unsqueeze(1)
+            mask = mask.unsqueeze(0)
         nbatches = query.size(0)
         query, key, value = \
             [l(x).view(nbatches, -1, self.h, self.d_k).transpose(1, 2)
