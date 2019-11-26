@@ -552,8 +552,8 @@ def setup_datasets(text_processor: TextProcessor) -> Tuple[WikiPairsDataset, Lis
     return train_dataset, [('train', train_eval_dataset), ('dev', dev_dataset)]
 
 
-def setup_model(vocab_size, config, device: torch.device) -> nn.Module:
-    return Transformer(vocab_size, config).to(device)
+def setup_model(vocab_size, config, device: torch.device, start_code) -> nn.Module:
+    return Transformer(vocab_size, config, start_code).to(device)
 
 
 def setup_optimizer(module: nn.Module) -> Tuple[Optimizer, ExponentialLR]:
@@ -670,7 +670,7 @@ def train_model(epochs=50, batch_size=50):
     train_dataset, evals = setup_datasets(text_processor)
 
     config = TransformerConfig()
-    model = setup_model(text_processor.vocab_size, config, device)
+    model = setup_model(text_processor.vocab_size, config, device, text_processor.bos_id)
     optimizer, scheduler = setup_optimizer(model)
     save_model(Path('model'), 0, model)
 
