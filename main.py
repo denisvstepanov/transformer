@@ -363,7 +363,6 @@ def attention(query, key, value, mask=None, dropout=None):
     d_k = query.size(-1)
     scores = torch.matmul(query, key.transpose(-2, -1)) / math.sqrt(d_k)
     if mask is not None:
-        print(f'query: {query.size()} key: {key.size()} value: {value.size()} mask: {mask.size()} scores: {scores.size()}')
         scores = scores.masked_fill(mask == 0, -1e9)
     p_attn = F.softmax(scores, dim=-1)
     if dropout is not None:
@@ -473,7 +472,6 @@ class Transformer(nn.Module):
 
     def forward(self, src, tgt):
         tgt_mask = generate_square_subsequent_mask(tgt.shape[1]).to(tgt.device)
-        print(f'src: {src.size()} tgt: {tgt.size()} tgt_mask: {tgt_mask.size()}')
         out = self.model(src, tgt, None, tgt_mask)
         return out
 
