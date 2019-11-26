@@ -620,10 +620,10 @@ class GenerationState:
             self.tgt = torch.cat([self.tgt, tgt], dim=1)
         else:
             self.tgt = tgt
-        tgt_mask = generate_square_subsequent_mask(self.tgt.shape[1]).to(self.tgt.device)
+        # tgt_mask = generate_square_subsequent_mask(self.tgt.shape[1]).to(self.tgt.device)
         # logits = self.module.model.decode(self.memory, None, tgt, tgt_mask)
         # scores = self.module.model.generator(logits)
-        scores = self.module.model(self.memory, tgt, None, tgt_mask)
+        scores = self.module(self.memory, tgt)
         return GenerationState(self.module, self.src, self.memory, self.tgt), scores
 
 
