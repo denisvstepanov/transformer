@@ -13,6 +13,7 @@ from torch.optim.optimizer import Optimizer
 from torch.optim import Adam
 from torch.optim.lr_scheduler import ExponentialLR
 from torch import jit
+import torch.distributions as dist
 
 from typing import Dict, Any, Optional, Tuple, List, NamedTuple, Generator, cast
 
@@ -620,8 +621,9 @@ class GenerationState:
         else:
             self.tgt = tgt
         tgt_mask = generate_square_subsequent_mask(self.tgt.shape[1]).to(self.tgt.device)
-        logits = self.module.model.decode(self.memory, None, tgt, tgt_mask)
-        scores = self.module.model.generator(logits)
+        # logits = self.module.model.decode(self.memory, None, tgt, tgt_mask)
+        # scores = self.module.model.generator(logits)
+        scores = self.module.model(self.memory, tgt, None, tgt_mask)
         return GenerationState(self.module, self.src, self.memory, self.tgt), scores
 
 
