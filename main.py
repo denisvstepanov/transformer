@@ -476,7 +476,7 @@ class Transformer(nn.Module):
         return self.model.generator.linear.weight.device
 
     def forward(self, src, tgt):
-        src_mask = (src != 0).unsqueeze(-2)
+        src_mask = (src != 0)
         tgt_mask = generate_square_subsequent_mask(tgt.shape[1]).to(tgt.device)
         print(f'src: {src.size()} tgt: {tgt.size()} src_mask: {src_mask.size()} tgt_mask: {tgt_mask.size()}')
         out = self.model(src, tgt, src_mask, tgt_mask)
@@ -621,7 +621,7 @@ class GenerationState:
             self.tgt = torch.cat([self.tgt, tgt], dim=1)
         else:
             self.tgt = tgt
-        src_mask = (self.memory != 0).unsqueeze(-2)
+        src_mask = (self.memory != 0)
         tgt_mask = generate_square_subsequent_mask(self.tgt.shape[1]).to(self.tgt.device)
         logits = self.module.model.decode(tgt, self.memory, src_mask, tgt_mask)
         scores = self.module.model.generator(logits)
