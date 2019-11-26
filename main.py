@@ -615,7 +615,7 @@ class GenerationState:
 
     @torch.no_grad()
     def next(self, token: int):
-        tgt = torch.tensor([[token]], device=self.module.device).long()
+        tgt = torch.tensor([[token]], device=self.module.device)
         if self.tgt is not None:
             self.tgt = torch.cat([self.tgt, tgt], dim=1)
         else:
@@ -623,7 +623,7 @@ class GenerationState:
         # tgt_mask = generate_square_subsequent_mask(self.tgt.shape[1]).to(self.tgt.device)
         # logits = self.module.model.decode(self.memory, None, tgt, tgt_mask)
         # scores = self.module.model.generator(logits)
-        scores = self.module(self.memory, tgt)
+        scores = self.module(self.src, tgt)
         return GenerationState(self.module, self.src, self.memory, self.tgt), scores
 
 
