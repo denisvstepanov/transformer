@@ -1,0 +1,8 @@
+numpy
+tqdm
+tensorboard
+tensorboardX
+matplotlib
+torch
+nltk
+gensim
