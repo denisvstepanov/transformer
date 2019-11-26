@@ -239,7 +239,7 @@ class Batch:
         return self.seqs.device
 
 
-def parse_batch(batch: Dict[str, Any], start_code: int, end_code: int) -> Tuple[Batch, Batch]:
+def parse_batch(batch: Dict[str, Any], start_code: int) -> Tuple[Batch, Batch]:
     src_seqs = Batch(batch['src_tokens'], batch['src_len'])
     tgt_seqs = Batch(batch['tgt_tokens'], batch['tgt_len'])
     tgt_seqs = tgt_seqs.insert_bounds(start_code=start_code)
@@ -362,7 +362,6 @@ def attention(query, key, value, mask=None, dropout=None):
     d_k = query.size(-1)
     scores = torch.matmul(query, key.transpose(-2, -1)) / math.sqrt(d_k)
     if mask is not None:
-        # print(f'query: {query.size()} key: {key.size()} value: {value.size()} mask: {mask.size()} scores: {scores.size()}')
         scores = scores.masked_fill(mask == 0, -1e9)
     p_attn = F.softmax(scores, dim=-1)
     if dropout is not None:
@@ -477,9 +476,7 @@ class Transformer(nn.Module):
         return self.model.generator.linear.weight.device
 
     def forward(self, src, tgt):
-        # src_mask = (src != 0)
         tgt_mask = generate_square_subsequent_mask(tgt.shape[1]).to(tgt.device)
-        # print(f'src: {src.size()} tgt: {tgt.size()} src_mask: {src_mask.size()} tgt_mask: {tgt_mask.size()}')
         out = self.model(src, tgt, None, tgt_mask)
         return out
 
@@ -622,9 +619,8 @@ class GenerationState:
             self.tgt = torch.cat([self.tgt, tgt], dim=1)
         else:
             self.tgt = tgt
-        src_mask = (self.memory != 0)
         tgt_mask = generate_square_subsequent_mask(self.tgt.shape[1]).to(self.tgt.device)
-        logits = self.module.model.decode(tgt, self.memory, src_mask, tgt_mask)
+        logits = self.module.model.decode(self.memory, None, tgt, tgt_mask)
         scores = self.module.model.generator(logits)
         return GenerationState(self.module, self.src, self.memory, self.tgt), scores
 
