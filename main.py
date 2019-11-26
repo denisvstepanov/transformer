@@ -476,8 +476,9 @@ class Transformer(nn.Module):
         return self.model.generator.linear.weight.device
 
     def forward(self, src, tgt):
+        src_mask = (src != 0).unsqueeze(-2)
         tgt_mask = generate_square_subsequent_mask(tgt.shape[1]).to(tgt.device)
-        out = self.model(src, tgt, None, tgt_mask)
+        out = self.model(src, tgt, src_mask, tgt_mask)
         return out
 
     def _reset_parameters(self):
