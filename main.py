@@ -446,16 +446,18 @@ def new_parameter(data=None, requires_grad=True):
 
 class Transformer(nn.Module):
 
-    def __init__(self, vocab_size: int, config: TransformerConfig):
+    def __init__(self, vocab_size: int, config: TransformerConfig, start_code: int):
         super(Transformer, self).__init__()
         c = copy.deepcopy
+        self.start_code = start_code
         attn = MultiHeadedAttention(config.nhead, config.d_model)
         ff = PositionwiseFeedForward(config.d_model, config.dim_feedforward, config.dropout)
         emb = nn.Embedding(vocab_size, config.d_model)
         pos_enc = PositionalEncoding(config.d_model, config.dropout)
 
         encoder = Encoder(EncoderLayer(config.d_model, c(attn), c(ff), config.dropout), config.num_encoder_layers)
-        decoder = Decoder(DecoderLayer(config.d_model, c(attn), c(attn), c(ff), config.dropout), config.num_decoder_layers)
+        decoder = Decoder(DecoderLayer(config.d_model, c(attn), c(attn), c(ff), config.dropout),
+                          config.num_decoder_layers)
         src_embed, tgt_embed = get_clones(nn.Sequential(c(emb), c(pos_enc)), 2)
         generator = LMHead(config.d_model, vocab_size)
 
@@ -469,6 +471,10 @@ class Transformer(nn.Module):
         self.d_model = config.d_model
         self.nhead = config.nhead
 
+    @property
+    def device(self) -> torch.device:
+        return self.model.generator.linear.weight.device
+
     def forward(self, src, tgt):
         tgt_mask = generate_square_subsequent_mask(tgt.shape[1]).to(tgt.device)
         out = self.model(src, tgt, None, tgt_mask)
@@ -478,6 +484,10 @@ class Transformer(nn.Module):
         for p in self.parameters():
             if p.dim() > 1:
                 nn.init.xavier_uniform_(p)
+
+    def start_generation(self, src: Tensor) -> Tuple[GenerationState, torch.Tensor]:
+        initial = GenerationState(self, src)
+        return initial.next(self.start_code)
 
 
 @jit.script
