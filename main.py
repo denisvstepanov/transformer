@@ -612,18 +612,21 @@ def train_model(epochs=1, batch_size=12):
         total_batches = len(train_loader)
 
         model.train()
+        epoch_loss = 0
         for batch_no, batch in enumerate(tqdm(train_loader, ncols=40, desc=f'Epoch {epoch}')):
             norm_step = normalize_step(batch_no, total_batches, epoch)
             optimizer.zero_grad()
             batch = device_batch(batch, device)
             src, tgt = parse_batch(batch, bos_id, eos_id)
-            # scores = model(src.seqs.transpose(0, 1), tgt.seqs.transpose(0, 1))
             scores = model(src.seqs, tgt.seqs)
             seqs = model.model.generator(scores)
             loss = batch_cross_entropy(Batch(seqs, tgt.lens), tgt, eps=0.1)
             loss.backward()
             optimizer.step()
             scheduler.step()
+            epoch_loss += loss.item()
+        epoch_loss /= total_batches
+        print(f'loss: {epoch_loss}')
         save_model(Path('model'), epoch, model)
 
 
