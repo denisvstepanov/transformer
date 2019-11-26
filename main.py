@@ -485,7 +485,7 @@ class Transformer(nn.Module):
             if p.dim() > 1:
                 nn.init.xavier_uniform_(p)
 
-    def start_generation(self, src: Tensor) -> Tuple[GenerationState, torch.Tensor]:
+    def start_generation(self, src: Tensor):
         initial = GenerationState(self, src)
         return initial.next(self.start_code)
 
