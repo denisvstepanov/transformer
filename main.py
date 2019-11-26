@@ -548,7 +548,7 @@ def setup_model(vocab_size, config, device: torch.device) -> nn.Module:
 
 
 def setup_optimizer(module: nn.Module) -> Tuple[Optimizer, ExponentialLR]:
-    optimizer = Adam(module.parameters(), lr=1e-5)
+    optimizer = Adam(module.parameters(), lr=1e-3)
     return optimizer, ExponentialLR(optimizer, gamma=0.99)
 
 
