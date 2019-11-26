@@ -655,6 +655,7 @@ def complete_greedily(start: Tuple[GenerationState, torch.Tensor], max_len: int,
 def translate_text(model, text_processor, prompt: str, text_len: int = 128) -> str:
     prefix = text_processor.encode_as_ids(prompt)
     prefix_tensor = torch.tensor(prefix, device=model.device).unsqueeze(0)
+    print(f'prefix: {prefix} prefix_tensor: {prefix_tensor}')
     start = model.start_generation(prefix_tensor)
     generated = complete_greedily(start=start, max_len=text_len, prefix=prefix, end_code=text_processor.eos_id)[0]
     text = text_processor.decode_ids(generated)
