@@ -703,7 +703,7 @@ def train_model(epochs=50, batch_size=50):
 
     config = TransformerConfig()
     model = setup_model(text_processor.vocab_size, config, device, text_processor.bos_id)
-    optimizer, scheduler = setup_optimizer(model)
+    optimizer = setup_optimizer(model)
     save_model(Path('model'), 0, model)
 
     for epoch in range(epochs):
@@ -714,7 +714,7 @@ def train_model(epochs=50, batch_size=50):
         model.train()
         epoch_loss = 0
         for batch_no, batch in enumerate(tqdm(train_loader, ncols=40, desc=f'Epoch {epoch}')):
-            optimizer.zero_grad()
+            optimizer.optimizer.zero_grad()
             batch = device_batch(batch, device)
             src, tgt = parse_batch(batch, bos_id, eos_id)
             scores = model(src.seqs, tgt.seqs[:, :-1])
@@ -722,7 +722,6 @@ def train_model(epochs=50, batch_size=50):
             loss = batch_cross_entropy(Batch(probs, tgt.lens - 1), Batch(tgt.seqs[:, 1:].contiguous(), tgt.lens - 1), eps=0.1)
             loss.backward()
             optimizer.step()
-            scheduler.step()
             epoch_loss += loss.item()
         epoch_loss /= total_batches
         print(f'loss: {epoch_loss}')
