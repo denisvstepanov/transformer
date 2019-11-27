@@ -692,7 +692,7 @@ def train_model(epochs=50, batch_size=50):
         for batch_no, batch in enumerate(tqdm(train_loader, ncols=40, desc=f'Epoch {epoch}')):
             optimizer.zero_grad()
             batch = device_batch(batch, device)
-            src, tgt = parse_batch(batch, bos_id)
+            src, tgt = parse_batch(batch, bos_id, eos_id)
             scores = model(src.seqs, tgt.seqs[:, :-1])
             probs = model.model.generator(scores)
             loss = batch_cross_entropy(Batch(probs, tgt.lens - 1), Batch(tgt.seqs[:, 1:].contiguous(), tgt.lens - 1), eps=0.1)
