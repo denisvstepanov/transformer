@@ -627,7 +627,8 @@ class GenerationState:
         else:
             self.tgt = tgt
         scores = self.module(self.src, tgt)
-        return GenerationState(self.module, self.src, self.memory, self.tgt), scores
+        probs = self.module.model.generator(scores)
+        return GenerationState(self.module, self.src, self.memory, self.tgt), probs
 
 
 def presample_prefix(start: Tuple[GenerationState, torch.Tensor], prefix: Optional[List[int]]) -> Tuple[GenerationState, torch.Tensor]:
