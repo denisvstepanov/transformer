@@ -689,6 +689,7 @@ def translate_text(model, text_processor, prompt: str, text_len: int = 128) -> s
     prefix_tensor = torch.tensor(prefix, device=model.device).unsqueeze(0)
     start = model.start_generation(prefix_tensor)
     generated = complete_greedily(start=start, max_len=text_len, prefix=prefix, end_code=text_processor.eos_id)[0]
+    print(f'prefix: {prefix} generated: {generated}')
     text = text_processor.decode_ids(generated)
     return text
 
