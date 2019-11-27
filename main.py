@@ -539,6 +539,30 @@ def batch_cross_entropy(out: Batch, expected: Batch, eps: float = 0.) -> torch.T
     return batch_cross_entropy_tensor(out.seqs, expected.seqs, expected.lens, eps=eps).sum() / out.lens.sum()
 
 
+class NoamOpt:
+
+    def __init__(self, model_size, factor, warmup, optimizer):
+        self.optimizer = optimizer
+        self._step = 0
+        self.warmup = warmup
+        self.factor = factor
+        self.model_size = model_size
+        self._rate = 0
+
+    def step(self):
+        self._step += 1
+        rate = self.rate()
+        for p in self.optimizer.param_groups:
+            p['lr'] = rate
+        self._rate = rate
+        self.optimizer.step()
+
+    def rate(self, step=None):
+        if step is None:
+            step = self._step
+        return self.factor * (self.model_size ** (-0.5) * min(step ** (-0.5), step * self.warmup ** (-1.5)))
+
+
 def choose_device():
     if torch.cuda.device_count() > 0:
         device_no = torch.cuda.current_device()
@@ -564,9 +588,9 @@ def setup_model(vocab_size, config, device: torch.device, start_code) -> nn.Modu
     return Transformer(vocab_size, config, start_code).to(device)
 
 
-def setup_optimizer(module: nn.Module) -> Tuple[Optimizer, ExponentialLR]:
-    optimizer = Adam(module.parameters(), lr=1e-3)
-    return optimizer, ExponentialLR(optimizer, gamma=0.99)
+def setup_optimizer(module: nn.Module):
+    optimizer = NoamOpt(512, 2, 4000, torch.optim.Adam(module.parameters(), lr=0, betas=(0.9, 0.98), eps=1e-9))
+    return optimizer
 
 
 def setup_text_processor() -> TextProcessor:
