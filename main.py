@@ -422,13 +422,17 @@ class TransformerConfig:
                  num_encoder_layers=5,
                  num_decoder_layers=5,
                  dim_feedforward=80,
-                 dropout=0.1):
+                 dropout=0.1,
+                 tie_weights_src_tgt=False,
+                 tie_weights_tgt_gen=True):
         self.d_model = d_model
         self.nhead = nhead
         self.num_encoder_layers = num_encoder_layers
         self.num_decoder_layers = num_decoder_layers
         self.dim_feedforward = dim_feedforward
         self.dropout = dropout
+        self.tie_weights_src_tgt = tie_weights_src_tgt
+        self.tie_weights_src_gen = tie_weights_tgt_gen
 
     def to_dict(self):
         return self.__dict__
@@ -466,8 +470,10 @@ class Transformer(nn.Module):
 
         self._reset_parameters()
 
-        self.model.tgt_embed[0].weight = new_parameter(self.model.src_embed[0].weight.clone(), True)
-        self.model.generator.linear.weight = new_parameter(self.model.src_embed[0].weight.clone(), True)
+        if config.tie_weights_src_tgt:
+            self.model.tgt_embed[0].weight = new_parameter(self.model.src_embed[0].weight.clone(), True)
+        if config.tie_weights_src_gen:
+            self.model.generator.linear.weight = new_parameter(self.model.src_embed[0].weight.clone(), True)
 
         self.d_model = config.d_model
         self.nhead = config.nhead
