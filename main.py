@@ -424,7 +424,7 @@ class TransformerConfig:
                  dim_feedforward=80,
                  dropout=0.1,
                  tie_weights_src_tgt=False,
-                 tie_weights_tgt_gen=True):
+                 tie_weights_tgt_gen=False):
         self.d_model = d_model
         self.nhead = nhead
         self.num_encoder_layers = num_encoder_layers
