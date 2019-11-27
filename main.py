@@ -687,7 +687,7 @@ def train_model(epochs=50, batch_size=50):
             src, tgt = parse_batch(batch, bos_id)
             scores = model(src.seqs, tgt.seqs[:, :-1])
             seqs = model.model.generator(scores)
-            loss = batch_cross_entropy(Batch(seqs, tgt.lens), Batch(tgt.seqs[:, 1:], tgt.lens - 1), eps=0.1)
+            loss = batch_cross_entropy(Batch(seqs, tgt.lens - 1), Batch(tgt.seqs[:, 1:], tgt.lens - 1), eps=0.1)
             loss.backward()
             optimizer.step()
             scheduler.step()
