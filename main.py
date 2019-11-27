@@ -418,11 +418,11 @@ class PositionalEncoding(nn.Module):
 
 class TransformerConfig:
     def __init__(self,
-                 d_model=20,
-                 nhead=5,
-                 num_encoder_layers=5,
-                 num_decoder_layers=5,
-                 dim_feedforward=80,
+                 d_model=512,
+                 nhead=8,
+                 num_encoder_layers=6,
+                 num_decoder_layers=6,
+                 dim_feedforward=2048,
                  dropout=0.1,
                  tie_weights_src_tgt=False,
                  tie_weights_tgt_gen=False):
