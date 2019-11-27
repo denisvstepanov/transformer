@@ -620,9 +620,6 @@ class GenerationState:
             self.tgt = torch.cat([self.tgt, tgt], dim=1)
         else:
             self.tgt = tgt
-        # tgt_mask = generate_square_subsequent_mask(self.tgt.shape[1]).to(self.tgt.device)
-        # logits = self.module.model.decode(self.memory, None, tgt, tgt_mask)
-        # scores = self.module.model.generator(logits)
         scores = self.module(self.src, tgt)
         return GenerationState(self.module, self.src, self.memory, self.tgt), scores
 
@@ -688,9 +685,9 @@ def train_model(epochs=50, batch_size=50):
             optimizer.zero_grad()
             batch = device_batch(batch, device)
             src, tgt = parse_batch(batch, bos_id)
-            scores = model(src.seqs, tgt.seqs)
+            scores = model(src.seqs, tgt.seqs[:, :-1])
             seqs = model.model.generator(scores)
-            loss = batch_cross_entropy(Batch(seqs, tgt.lens), tgt, eps=0.1)
+            loss = batch_cross_entropy(Batch(seqs, tgt.lens), Batch(tgt.seqs[:, 1:], tgt.lens - 1), eps=0.1)
             loss.backward()
             optimizer.step()
             scheduler.step()
