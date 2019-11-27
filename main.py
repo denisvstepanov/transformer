@@ -240,10 +240,11 @@ class Batch:
         return self.seqs.device
 
 
-def parse_batch(batch: Dict[str, Any], start_code: int) -> Tuple[Batch, Batch]:
+def parse_batch(batch: Dict[str, Any], start_code: int, end_code: int) -> Tuple[Batch, Batch]:
     src_seqs = Batch(batch['src_tokens'], batch['src_len'])
     tgt_seqs = Batch(batch['tgt_tokens'], batch['tgt_len'])
     tgt_seqs = tgt_seqs.insert_bounds(start_code=start_code)
+    tgt_seqs = tgt_seqs.insert_bounds(end_code=end_code)
     return src_seqs, tgt_seqs
 
 
@@ -660,6 +661,7 @@ def complete_greedily(start: Tuple[GenerationState, torch.Tensor], max_len: int,
 
 def translate_text(model, text_processor, prompt: str, text_len: int = 128) -> str:
     prefix = text_processor.encode_as_ids(prompt)
+    prefix = [text_processor.bos_id] + prefix + [text_processor.eos_id]
     prefix_tensor = torch.tensor(prefix, device=model.device).unsqueeze(0)
     start = model.start_generation(prefix_tensor)
     generated = complete_greedily(start=start, max_len=text_len, prefix=prefix, end_code=text_processor.eos_id)[0]
