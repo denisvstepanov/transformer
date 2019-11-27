@@ -663,7 +663,6 @@ def translate_text(model, text_processor, prompt: str, text_len: int = 128) -> s
     prefix_tensor = torch.tensor(prefix, device=model.device).unsqueeze(0)
     start = model.start_generation(prefix_tensor)
     generated = complete_greedily(start=start, max_len=text_len, prefix=prefix, end_code=text_processor.eos_id)[0]
-    print(f'prefix: {prefix} prefix_tensor: {prefix_tensor} generated: {generated}')
     text = text_processor.decode_ids(generated)
     return text
 
@@ -701,7 +700,7 @@ def train_model(epochs=50, batch_size=50):
             epoch_loss += loss.item()
         epoch_loss /= total_batches
         print(f'loss: {epoch_loss}')
-        prompt = 'Hello world'
+        prompt = 'go now'
         translation = translate_text(model, text_processor, prompt)
         print(f'prompt: {prompt} translation: {translation}')
         save_model(Path('model'), epoch, model)
