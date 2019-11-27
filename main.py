@@ -688,7 +688,7 @@ def train_model(epochs=50, batch_size=50):
             scores = model(src.seqs, tgt.seqs[:, :-1])
             seqs = model.model.generator(scores)
             print(f'src: {src.seqs.size()} tgt: {tgt.seqs.size()} tgt_lens: {tgt.lens - 1}')
-            loss = batch_cross_entropy(Batch(seqs, tgt.lens - 1), Batch(tgt.seqs[:, 1:], tgt.lens - 1), eps=0.1)
+            loss = batch_cross_entropy(Batch(seqs, tgt.lens - 1), Batch(tgt.seqs[:, 1:].contiguous(), tgt.lens - 1), eps=0.1)
             loss.backward()
             optimizer.step()
             scheduler.step()
